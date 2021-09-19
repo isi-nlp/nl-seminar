@@ -1,103 +1,112 @@
-<html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<link rel="stylesheet" type="text/css" href="css/NLGSite.css" /> <style type="text/css">
-<!--
-  A:link    { text-decoration: none; color: #000099}
-  A:active  { text-decoration: none; color: #000099}
-  A:visited { text-decoration: none; color: #000099}
-  A:hover   { text-decoration: underline; color: #990099}
-//-->
-</style>
-
-<script type="text/javascript">
-<!--
-function exp_coll(ind) {
-  s = document.getElementById(ind);
-
-  if (s.style.display == 'none') {
-    s.style.display = 'block';
-  } else if (s.style.display == 'block') {
-    s.style.display = 'none';
-  }
-}
--->
-</script>
-
-<title>NL Seminar</title>
-
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css/NLGSite.css" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X2JT6D84MD"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-X2JT6D84MD');
+    </script>
+    <meta name="Keywords" content="USC, ISI, natural, language, research, processing, reading group, nlp, computational, linguistics, ontologies, machine learning, statistical, machine translation, information, retrieval, extraction, semantics, parsing, grammars, summarization, question answering, transducers, language modeling">
+    <title>USC ISI NL Seminar</title>
   </head>
-<body text="#000033" link="#000099" vlink="#000099" alink="#000099">
-<?php include('includes/usc-header.php'); ?><br><center><h2><b>USC/ISI NL Seminar</b></h2></center>
-<?php include('includes/about.php'); ?>  <div class="nlheader"><h3>Upcoming talks:</h3></div>
-<table width=90% border=0 cellspacing=1 cellpadding=4 bgcolor="#FFFFFF" align=center>
-<tr class="seminarTableHeader"><td align=left width=14%>
-    <b>Date</b>
-  </td><td align=left width=25%>
-    <b>Speaker</b>
-  </td><td align=left>
-    <b>Title</b>
-  </td></tr>
-</td></tr>
+<body class="container-lg">
+<?php include('includes/usc-header.php'); ?><br/>
+<h2 style="text-align: center;">USC/ISI NL Seminar</h2>
+<?php include('includes/about.php'); ?>
 
-
-
-
-</table><br><br>
- <div class="nlheader"><h3>Past talks:</h3></div>
-<table width=90% border=0 cellspacing=1 cellpadding=4 bgcolor="#FFFFFF" align=center>
-<tr class="seminarTableHeader"><td align=left width=14%>
-  <b>Date</b>
-</td><td align=left width=25%>
-    <b>Speaker</b>
-  </td><td align=left>
-    <b>Title</b>
-  </td></tr>
-
-<tr class="speakerItem" border=0 >
-<td align=left valign=top>26 Aug 2021</td>
-<td align=left valign=top>Shanxiu He (ISI Intern)</td>
-<td align=left valign=top>
-<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Aug_2021');">
-From Constrained Event Sequences Generation to Text Generation</a><br>
-<span id=abs26_Aug_2021 style="display:none;">
-<font size=-1>
-<b>Time:</b> 11:00am-12:00pm<br>
-<b>Online Meeting Recording:</b> <a href="https://www.youtube.com/watch?v=0ZG9d51emsI">https://www.youtube.com/watch?v=0ZG9d51emsI</a><br>
-<!-- <b>Recording:</b> Yes<br> -->
-<b>Abstract:</b>
-    Understanding events is a critical component of natural language understanding (NLU). A key challenge lies in the fact that events can be described in different granularities. A coarse-grained event (e.g., publishing a paper) can often be disseminated into a fine-grained process of events (e.g., writing the paper, passing the peer review, and presenting at the conference). In this work, we tackle the problem of goal-oriented event process generation, where a task goal event, a process that completes this goal is automatically generated. We tackle this task with a constrained generation approach, inferring unobserved event chains based on existing sequences. To leverage prior knowledge to facilitate commonsense reasoning, we employ pre-trained LMs to generate event sequences and to retrieve original stories.
-<p>
-    Shanxiu He is an undergraduate at UCLA and a member of UCLANLP lab. Prior to the internship, her research interest focuses on pre-trained Vision-and-Language models such as VisualBERT and ClipBert and their applications to various structural learning tasks. During this internship, she researches on event-centric knowledge representation and specifically event sequences generations.
-</font>
-</span>
-</td></tr>
+<div>
+<h3>Upcoming talks:</h3>
+<table class="table table-striped table-light table-hover table-responsive-sm">
+    <tr class="seminarTableHeader">
+        <th>Date</th>
+        <th>Speaker</th>
+        <th>Title</th>
+    </tr>
+    <tr class="speakerItem">
+        <td> 7 Oct 2021</td>
+        <td> Pei Zhou (USC/ISI) </td>
+        <td> </td>
+    </tr>
+    <tr class="speakerItem">
+        <td> 14 Oct 2021</td>
+        <td> Vitaly Feldman (Apple AI Research) </td>
+        <td> </td>
+    </tr>
+    <tr class="speakerItem">
+        <td> 18 Nov 2021</td>
+        <td> Svitlana Volkova (Pacific Northwest National Lab) </td>
+        <td> </td>
+    </tr>
+    <tr class="speakerItem">
+        <td> 02 Dec 2021</td>
+        <td> Manling Li (UIUC) </td>
+        <td> </td>
+    </tr>
+</table>
+</div>
+<div>
+<h3>Past talks:</h3>
+<table class="table table-striped table-hover">
+<tr class="seminarTableHeader">
+    <td align=left width=14%><b>Date</b></td>
+    <td align=left width=25%><b>Speaker</b></td>
+    <td align=left><b>Title</b></td>
+</tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left valign=top>19 Aug 2021</td>
-<td align=left valign=top>Shira Wein (ISI Intern)<br>Leo Zeyu Liu (ISI Intern)</td>
-<td align=left valign=top>
-<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Aug_2021');">
-    Leveraging Abstract Meaning Representations to Amplify the Semantic Information Captured in Transformer Models /<br>
-    Improving Multilingual Encoders with Contrastive Objective and Luna
-</a><br>
-<span id=abs19_Aug_2021 style="display:none;">
-<font size=-1>
-<b>Time:</b> 11:00am-12:00pm<br>
-<!-- <b>Online Meeting:</b> <a href="https://usc.zoom.us/j/93331739032">https://usc.zoom.us/j/93331739032</a><br> -->
-<!-- <b>Recording:</b> Yes<br> -->
-<b>Abstracts:</b>
-<p>
-    <b>Leveraging Abstract Meaning Representations to Amplify the Semantic Information Captured in Transformer Models</b><br>
-    Though state-of-the-art language models perform well on a variety of natural language processing tasks, these models are not exposed to explicit semantic information. We propose that language models’ ability to capture semantic information can be improved through the inclusion of explicit semantic information in the form of meaning representations, thus improving performance on select downstream tasks. We discuss potential ways to incorporate meaning representations and present our preliminary results.<br>
-    <i>Shira Wein</i> is an intern at ISI and a third-year Ph.D. student at Georgetown University, working on semantic representations and multilingual/cross-lingual applications. Her previous work centers around L2 corpora, Abstract Meaning Representations, and information extraction from design documents, which she published on while interning at the Jet Propulsion Lab. Prior to starting her Ph.D., Shira was an undergraduate at Lafayette College, where she received a B.S. in Computer Science and B.A. in Spanish.
-<p>
-    <b>Improving Multilingual Encoders with Contrastive Objective and Luna</b><br>
-    Transformers has been successfully adapted to multilingual pretraining. With only token-level losses like masked language model, transformer encoder could produce good token and sentence representations. We propose to explicitly impose sentence-level objectives using contrastive learning to further improve multilingual encoder. Furthermore, we also propose to merge this modification with what a new transformer architecture, Luna, could offer --- disentanglement between token and sentence representations. We will also discuss ways to evaluate the models and present our experimental progress.<br>
-    <i>Leo Zeyu Liu</i> is a Master student in Computer Science at the University of Washington, advised by Noah A. Smith and Shane Steinert-Threlkeld. His research aims at interpretability, pretraining, and intersection between NLP and Linguistics. He completed his bachelor in Computer Science at the University of Washington.
-</font>
-</span>
-</td></tr>
+    <td align=left valign=top>26 Aug 2021</td>
+    <td align=left valign=top>Shanxiu He (ISI Intern)</td>
+    <td align=left valign=top>
+    <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Aug_2021');">
+    From Constrained Event Sequences Generation to Text Generation</a><br>
+    <span id=abs26_Aug_2021 style="display:none;">
+    <font size=-1>
+    <b>Time:</b> 11:00am-12:00pm<br>
+    <b>Online Meeting Recording:</b> <a href="https://www.youtube.com/watch?v=0ZG9d51emsI">https://www.youtube.com/watch?v=0ZG9d51emsI</a><br>
+    <!-- <b>Recording:</b> Yes<br> -->
+    <b>Abstract:</b>
+        Understanding events is a critical component of natural language understanding (NLU). A key challenge lies in the fact that events can be described in different granularities. A coarse-grained event (e.g., publishing a paper) can often be disseminated into a fine-grained process of events (e.g., writing the paper, passing the peer review, and presenting at the conference). In this work, we tackle the problem of goal-oriented event process generation, where a task goal event, a process that completes this goal is automatically generated. We tackle this task with a constrained generation approach, inferring unobserved event chains based on existing sequences. To leverage prior knowledge to facilitate commonsense reasoning, we employ pre-trained LMs to generate event sequences and to retrieve original stories.
+    <p>
+        Shanxiu He is an undergraduate at UCLA and a member of UCLANLP lab. Prior to the internship, her research interest focuses on pre-trained Vision-and-Language models such as VisualBERT and ClipBert and their applications to various structural learning tasks. During this internship, she researches on event-centric knowledge representation and specifically event sequences generations.
+    </font>
+    </span>
+    </td>
+</tr>
+
+<tr class="speakerItem" border=0 >
+    <td align=left valign=top>19 Aug 2021</td>
+    <td align=left valign=top>Shira Wein (ISI Intern)<br>Leo Zeyu Liu (ISI Intern)</td>
+    <td align=left valign=top>
+    <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Aug_2021');">
+        Leveraging Abstract Meaning Representations to Amplify the Semantic Information Captured in Transformer Models /<br>
+        Improving Multilingual Encoders with Contrastive Objective and Luna
+    </a><br>
+    <span id=abs19_Aug_2021 style="display:none;">
+    <font size=-1>
+    <b>Time:</b> 11:00am-12:00pm<br>
+    <!-- <b>Online Meeting:</b> <a href="https://usc.zoom.us/j/93331739032">https://usc.zoom.us/j/93331739032</a><br> -->
+    <!-- <b>Recording:</b> Yes<br> -->
+    <b>Abstracts:</b>
+    <p>
+        <b>Leveraging Abstract Meaning Representations to Amplify the Semantic Information Captured in Transformer Models</b><br>
+        Though state-of-the-art language models perform well on a variety of natural language processing tasks, these models are not exposed to explicit semantic information. We propose that language models’ ability to capture semantic information can be improved through the inclusion of explicit semantic information in the form of meaning representations, thus improving performance on select downstream tasks. We discuss potential ways to incorporate meaning representations and present our preliminary results.<br>
+        <i>Shira Wein</i> is an intern at ISI and a third-year Ph.D. student at Georgetown University, working on semantic representations and multilingual/cross-lingual applications. Her previous work centers around L2 corpora, Abstract Meaning Representations, and information extraction from design documents, which she published on while interning at the Jet Propulsion Lab. Prior to starting her Ph.D., Shira was an undergraduate at Lafayette College, where she received a B.S. in Computer Science and B.A. in Spanish.
+    <p>
+        <b>Improving Multilingual Encoders with Contrastive Objective and Luna</b><br>
+        Transformers has been successfully adapted to multilingual pretraining. With only token-level losses like masked language model, transformer encoder could produce good token and sentence representations. We propose to explicitly impose sentence-level objectives using contrastive learning to further improve multilingual encoder. Furthermore, we also propose to merge this modification with what a new transformer architecture, Luna, could offer --- disentanglement between token and sentence representations. We will also discuss ways to evaluate the models and present our experimental progress.<br>
+        <i>Leo Zeyu Liu</i> is a Master student in Computer Science at the University of Washington, advised by Noah A. Smith and Shane Steinert-Threlkeld. His research aims at interpretability, pretraining, and intersection between NLP and Linguistics. He completed his bachelor in Computer Science at the University of Washington.
+    </font>
+    </span>
+    </td>
+</tr>
 
 <tr class="speakerItem" border=0 >
 <td align=left valign=top>12 Aug 2021</td>
@@ -149,7 +158,7 @@ Fantastic Continuous-valued Sentence Representations and How to Find Them</a><br
 <b>Online Meeting Recording:</b> <a href="https://youtu.be/ZtM7b0ggfvs">https://youtu.be/ZtM7b0ggfvs</a><br>
 <!-- <b>Recording:</b> Yes<br> -->
 <b>Abstract:</b>
-    I will present a couple of research vignettes of the working knowledge inside large pre-trained language models. I will use the vignettes to argue for a new task to measure modern language models’ knowledge and ability to learn from textbooks. Unlike machines, humans do not need to read, for example, all of Wikipedia, to learn. For humans, reading a textbook or a manual is often enough to provide working knowledge on the book’s topic. We propose LEFT, a new task to measure a machine’s capacity to learn from the same textbooks that college graduates use to learn about society and history. The task reveals surprising results for current state-of-the-art language models like T5 and GPTNeo. 
+    I will present a couple of research vignettes of the working knowledge inside large pre-trained language models. I will use the vignettes to argue for a new task to measure modern language models’ knowledge and ability to learn from textbooks. Unlike machines, humans do not need to read, for example, all of Wikipedia, to learn. For humans, reading a textbook or a manual is often enough to provide working knowledge on the book’s topic. We propose LEFT, a new task to measure a machine’s capacity to learn from the same textbooks that college graduates use to learn about society and history. The task reveals surprising results for current state-of-the-art language models like T5 and GPTNeo.
 <p>
     Manuel Ciosici is a postdoc at ISI Boston (Waltham), working with Ralph Weischedel and Marjorie Friedman on understanding the knowledge inside large language models and putting it to use, for example, in filling in sequences of events. He is also interested in Natural Language Processing for languages other than English and has recently released a large corpus of Danish to support training large language models. Before joining ISI, Manuel received his Ph.D. from Aarhus University in Denmark and was a postdoc at the IT University in Copenhagen.
 </font>
@@ -168,7 +177,7 @@ Predictor-Guided Controlled Generation</a><br>
 <b>Online Meeting Recording:</b> <a href="https://youtu.be/3aT3dNLyzec">https://youtu.be/3aT3dNLyzec</a><br>
 <!-- <b>Recording:</b> Yes<br> -->
 <b>Abstract:</b>
-    I will present two works on controlled generation, with a shared theme of using predictors to guide a generator. Future Discriminators for Generation (FUDGE) is a flexible and modular method for controlled text generation, which learns an attribute predictor operating on a partial sequence, and uses this predictor's outputs to adjust a base generator's original probabilities with no need for re-training or fine-tuning. Switching domains, I will also present Improving Molecular Design by Stochastic Iterative Target Augmentation, a self-training approach for using a strong attribute predictor to guide the training of a generator in a semi-supervised manner. Overall, we find that these predictor-guided approaches to controlled generation substantially outperform prior methods in several text generation tasks, as well as in molecular design and program synthesis. 
+    I will present two works on controlled generation, with a shared theme of using predictors to guide a generator. Future Discriminators for Generation (FUDGE) is a flexible and modular method for controlled text generation, which learns an attribute predictor operating on a partial sequence, and uses this predictor's outputs to adjust a base generator's original probabilities with no need for re-training or fine-tuning. Switching domains, I will also present Improving Molecular Design by Stochastic Iterative Target Augmentation, a self-training approach for using a strong attribute predictor to guide the training of a generator in a semi-supervised manner. Overall, we find that these predictor-guided approaches to controlled generation substantially outperform prior methods in several text generation tasks, as well as in molecular design and program synthesis.
 <p>
     Kevin is a rising third-year PhD student at UC Berkeley advised by Dan Klein within Berkeley NLP and BAIR. He is broadly interested in AI in the context of language and game-playing, particularly in designing more modular and/or language-controllable agents. He is also interested in neural architectures for structured domains such as chemistry. Previously, he worked with Regina Barzilay during his undergrad and M.Eng. at MIT, on natural language processing and chemistry applications of deep learning, especially graph convolutional networks.
 </font>
@@ -264,7 +273,7 @@ Leave No Question Behind!: Broadening the Scope of Machine Comprehension</a><br>
 <b>Abstract:</b>
     Despite remarkable progress in building Question Answering (QA) models, the scope of progress remains limited to niche dataset-specific domains. How can we expand the scope of the problems that our models can address? In this talk, I discuss two instances of QA system design that cover a broader range of problems. In the first part, I introduce UnifiedQA, a <i><u>single</u></i> model that generalizes to <i><u>multiple</u></i> different QA formats (multiple-choice QA, extractive QA, abstractive QA, yes-no QA). Then I will introduce ModularQA, a <i><u>single</u></i> system that addresses <i><u>multiple</u></i> multi-hop reasoning datasets by leveraging existing single-hop modules (systems). For each system, I present empirical evidence on their better generalization and stronger robustness across datasets and domains.
 <p>
-    Daniel Khashabi is a “Young Investigator” at Allen Institute for AI, Seattle. His interests lie at the intersection of artificial intelligence and natural language processing. He earned his Ph.D. from the University of Pennsylvania and his undergraduate degree from Amirkabir University of Technology (Tehran Polytechnic). 
+    Daniel Khashabi is a “Young Investigator” at Allen Institute for AI, Seattle. His interests lie at the intersection of artificial intelligence and natural language processing. He earned his Ph.D. from the University of Pennsylvania and his undergraduate degree from Amirkabir University of Technology (Tehran Polytechnic).
 </font>
 </span>
 </td></tr>
@@ -335,7 +344,7 @@ Computational Models of Language Change from Diachronic Text</a><br>
 <b>Abstract:</b>
     Natural languages undergo change over time. Modeling language change can help uncover latent social factors that modulate change; in particular, to answer key social science questions such as who talks to whom, who leads, and who follows. In this talk, I'll present our work over the years that uses timestamped (also called diachronic) text to link social influence or leadership with language change, combining methods from computational linguistics, machine learning, and network science. First, I show that network influence exerted through strong ties leads to higher adoption of non-standard terms on Twitter's communication network. Next, I propose a method to identify documents at the forefront of semantic change and further show that such documents are more influential in terms of the citations they get across two domains -- a collection of legal documents and a set of scientific abstracts. Finally, I introduce a method to induce a semantic leadership network between 19th century abolitionist newspapers that helps emphasize quantitatively the important role played by Black and women editors in the abolitionist movement. The combination of these studies demonstrate the variety of domains in which the study of language change is relevant and how computational modeling can help determine the latent influence and leadership relations between sources of interest.
 <p>
-    Sandeep Soni is a PhD candidate at the Georgia Institute of Technology. His research interests are in computational social science and digital humanities with an emphasis on using text as data and computational linguistic methods. His PhD thesis is focussed on developing methods to use language change as a way to systematically infer latent influence relationships from text data. He is currently on the job market looking for postdoc or permanent research positions. 
+    Sandeep Soni is a PhD candidate at the Georgia Institute of Technology. His research interests are in computational social science and digital humanities with an emphasis on using text as data and computational linguistic methods. His PhD thesis is focussed on developing methods to use language change as a way to systematically infer latent influence relationships from text data. He is currently on the job market looking for postdoc or permanent research positions.
 </font>
 </span>
 </td></tr>
@@ -441,7 +450,7 @@ Natural Language Understanding for Noisy Text</a><br>
 <font size=-1>
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Online Meeting Recording:</b> <a href=https://youtu.be/pr1HGaE5dAE>https://youtu.be/pr1HGaE5dAE</a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
     In this talk, I will present some of our recent work that focuses on understanding the meaning of user-generated texts and extracting useful information. First, I will discuss the design of neural pairwise ranking models, and their applications to semantic analysis of hashtags. Our best ranking model, that incorporates multi-task learning and Gaussian feature vectorization, can segment hashtags into meaningful word sequences (e.g., #dtlaartsdistrict → “DTLA Arts District”) with an over 95% accuracy. Second, I will highlight the importance of training customized BERT models for noisy text and zero-shot transfer learning. I will provide two case studies: (1) BERTOverflow model we trained on in-domain data that significantly outperforms off-the-shelf BERT on the new StackOverflow NER corpus; (2) GigaBERT, a bilingual BERT we developed specifically for English and Arabic, which performs better than Google’s multilingual BERT and Facebook’s XLM-RoBERTa for cross-lingual information extraction. I will conclude with our new work on annotating data and training automatic models to extract COVID-19 related events from Twitter.
 <p>
     Wei Xu is an assistant professor in the School of Interactive Computing at the Georgia Institute of Technology. Before joining Georgia Tech, she was an assistant professor at The Ohio State University since 2016.  Xu’s research interests are in natural language processing, machine learning, and social media. Her recent work focuses on language generation, semantics, information extraction, and reading assistive technology. She has received the NSF CRII Award, Best Paper Award at COLING, CrowdFlower AI for Everyone Award, and Criteo Faculty Research Award. She recently served as a senior area chair for ACL 2020 and an area chair, workshop chair, and publicity chair for EMNLP and NAACL conferences. She has been co-organizing the Workshop on Noisy User-generated Text annually.
@@ -458,7 +467,7 @@ Natural Language Understanding for Noisy Text</a><br>
 <font size=-1>
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Online Meeting Recording:</b> <a href=https://youtu.be/xL9kMb2lTa4>https://youtu.be/xL9kMb2lTa4</a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 Many asylum seekers along the southern border of the United States speak low-resource languages that are not available on commercial translation services. As a result, the translation of their testimonials poses a real challenge to the legal system, as well as non-governmental organizations. We will discuss potential techniques that would facilitate this task, such as transfer learning, domain adaptation, and corpus expansion, and also explain our work in compiling bilingual corpora for Mixtec and Kanjobal languages.
 <p>
 Ugur Yavuz is a summer intern working at the Natural Language Group with Dr. Jon May. He is a rising senior at Dartmouth College studying computer science and mathematics.
@@ -476,7 +485,7 @@ Ugur Yavuz is a summer intern working at the Natural Language Group with Dr. Jon
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Online Meeting Recording:</b> <a href=https://youtu.be/TawjeAeLbuA>https://youtu.be/TawjeAeLbuA</a><br>
 <b>Slides:</b> <a href=https://docs.google.com/presentation/d/1Xrp5m91au4O5oWXYgXVu1r4YQSuBqIcP0JIS0zfkVHc/edit?usp=sharing>here</a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
   Supervised neural machine translation (SNMT) models built on all the available parallel data result in higher BLEU on test sets than unsupervised neural machine translation (UNMT) models leveraging all available monolingual data. Recently, UNMT models such as XLM and MASS are reducing the gap with SNMT in terms of BLEU. Prior work has shown that linguistic and domain dissimilarity often hinder UNMT’s performance. The question we're asking in this investigation is, when SNMT and UNMT do have comparable BLEU, do they exhibit qualitative differences, and can these differences be detected by other metrics?
 <p>
   Weiqiu You is a rising first year PhD student at University of Pennsylvania who just graduated with MS from UMass Amherst. Her interests include machine translation and natural language processing in general.
@@ -516,7 +525,7 @@ A Typology of Ethical Risks in Language Technology with an Eye Towards Where Tra
 <font size=-1>
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Online Meeting Recording:</b> <a href=https://youtu.be/WIChyzXVNLY>https://youtu.be/WIChyzXVNLY</a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 People are impacted by language technology in various ways: as direct users of the technology (by choice or otherwise), and indirectly, including as the subject of queries, as the subject of stereotypes, and as contributors to corpora. In these roles, risks are borne differentially by different speaker populations, depending on how well the technology works for their language varieties. This talk explores strategies for mitigating these risks based on transparent documentation of training data.
 <p>
 Emily M. Bender is a Professor of Linguistics at the University of Washington and the Faculty Director of the Professional Masters in Computational Linguistics (CLMS) program. Her research interests include the interaction of linguistics and NLP, computational semantics, multilingual NLP, and the societal impact of language technology.
@@ -534,10 +543,10 @@ Towards interactive story generation</a><br>
 <font size=-1>
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Online Meeting Recording:</b> <a href=https://www.youtube.com/watch?v=YM-ia3oYjnE>https://www.youtube.com/watch?v=YM-ia3oYjnE</a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 Story generation is difficult to computationally formalize and evaluate, and there are many important questions to ask when tackling the problem. What should we consider as the base unit of a story (e.g., a sentence? a paragraph? a chapter?) What kind of data should we use to train these models (novels? short stories? overly simplistic mechanically-turked paragraphs?) Is any model architecture currently capable of producing long-form narratives that have some semblance of coherent discourse structure, such as plot arcs and character development? When evaluating the outputs of our models, can we do better than just asking people to rate the text based on vaguely defined properties such as "enjoyability"? In this talk, I'll discuss my lab's ongoing work on story generation by introducing a new dataset and evaluation method that we hope will spur progress in this area, and also describing fine-tuning strategies for large-scale Transformers that produce more coherent and stylistically-consistent stories. A major bottleneck of these models is their memory and speed inefficiency; as such, I'll conclude by discussing heavily-simplified Transformer language models that make training less expensive without sacrificing output quality.
 <p>
-Mohit Iyyer is an assistant professor in computer science at the University of Massachusetts Amherst. His research focuses broadly on designing machine learning models for discourse-level language generation (e.g., for story generation and machine translation), and his group also works on tasks involving creative language understanding (e.g., modeling fictional narratives and characters). He is the recipient of best paper awards at NAACL (2016, 2018) and a best demo award at NeurIPS 2015. He received his PhD in computer science from the University of Maryland, College Park in 2017, advised by Jordan Boyd-Graber and Hal Daumé III, and spent the following year as a researcher at the Allen Institute for Artificial Intelligence. 
+Mohit Iyyer is an assistant professor in computer science at the University of Massachusetts Amherst. His research focuses broadly on designing machine learning models for discourse-level language generation (e.g., for story generation and machine translation), and his group also works on tasks involving creative language understanding (e.g., modeling fictional narratives and characters). He is the recipient of best paper awards at NAACL (2016, 2018) and a best demo award at NeurIPS 2015. He received his PhD in computer science from the University of Maryland, College Park in 2017, advised by Jordan Boyd-Graber and Hal Daumé III, and spent the following year as a researcher at the Allen Institute for Artificial Intelligence.
 </font>
 </span>
 </td></tr>
@@ -552,7 +561,7 @@ Mohit Iyyer is an assistant professor in computer science at the University of M
 <font size=-1>
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Online Meeting:</b> live broadcast only<br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 To defeat the current COVID-19 pandemic, which has already claimed 250,000+ deaths as of early May, a messenger RNA (mRNA) vaccine has emerged as a promising approach thanks to its rapid and scalable production and non-infectious and non-integrating properties. However, designing an mRNA sequence to achieve high stability and protein yield remains a challenging problem due to the exponentially large search space (e.g., there are 10^632 possible mRNA sequence candidates for the spike protein of SARS-CoV-2).
 <p>
 We describe two on-going efforts at solving this problem, both using linear-time algorithms from my group inspired by my earlier work in parsing. On one hand, the Eterna OpenVaccine project from Stanford Medical School takes a crowd-sourcing approach to let game players all over the world design stable sequences. To evaluate sequence stability (in terms of free energy), they use LinearFold from my group (2019) since it’s the only linear-time RNA folding algorithm available (which makes it the only one fast enough for COVID-scale genomes). On the other hand, we take a computational approach to directly search for the optimal sequence in this exponentially large space via dynamic programming. It turns out this problem can be reduced to a classical problem in formal language theory and computational linguistics (intersection between CFG and DFA), which can be solved in O(n^3) time, just like lattice parsing for speech. In the end, we can design the optimal mRNA vaccine candidate for SARS-CoV-2 spike protein in 1 hour with exact search, or just 11 minutes with a beam of 1000 at the cost of only ~0.6% loss in energy.
@@ -573,7 +582,7 @@ Liang Huang is currently an Assistant Professor of EECS at Oregon State Universi
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> live-streamed from the MdR 6th floor conference room: #689 (This talk will be given from the ISI Boston office.)<br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/l_z4X/>https://bluejeans.com/s/l_z4X/</a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 Natural language processing has become indisputably good over the past few years. We can perform retrieval and question answering with purported super-human accuracy, and can generate full documents of text that seem good enough to pass the Turing test. In light of these successes, it is tempting to attribute the empirical performance to a deeper "understanding" of language that the models have acquired. Measuring natural language "understanding", however, is itself an unsolved research problem. In this talk, I will discuss several studies which attempt to illuminate what it is that state-of-the-art models of language are capturing. I will argue that current SOTA models have made significant progress in modeling linguistic form, but have completely failed to capture linguistic meaning. I will discuss recent work which investigates the effect of dataset skew on representation learning, as well as work investigating inconsistencies in human's own representations of "meaning".
 <p>
 Ellie Pavlick is an Assistant Professor of Computer Science at Brown University. She received her PhD from University of Pennsylvania in 2017, where her focus was on paraphrasing and lexical semantics. Ellie's current research is on cognitively-inspired approaches to language acquisition, focusing on grounded language learning and on the emergence of structure (or lack thereof) in neural language models. Ellie leads the language understanding and representation (LUNAR) lab, which collaborates with Brown's Robotics and Visual Computing labs and with the Department of Cognitive, Linguistic, and Psychological Sciences.
@@ -593,7 +602,7 @@ Ellie Pavlick is an Assistant Professor of Computer Science at Brown University.
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/FVVU4/>https://bluejeans.com/s/FVVU4/</a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 Pizza gate, Russian trolls, deep fakes. We live in an information swamp and it sucks. At its core, the crisis in journalism is about a shifting economic model that has made it difficult for legitimate news organizations to survive. The consequences are dire. But harnessing data in the right ways can provide vital information to communities and can help news organizations do more with less. The future of a healthy news environment requires collaboration between news, data and computer science. Gabriel Kahn outlines the current problems and some potential solutions.
 <p>
 Gabriel Kahn has worked as a newspaper correspondent and editor for three decades, including 10 years at The Wall Street Journal, where he served as Los Angeles bureau chief, deputy Hong Kong bureau chief and deputy Southern Europe bureau chief, based in Rome. He has reported from more than a dozen countries on three continents. He joined USC Annenberg in the fall of 2010, where he jointly runs the Media, Economics and Entrepreneurship program. The goal of M{2e} is to bolster students’ understanding of economics and encourage innovation and experimentation with new ideas in communication and journalism. In addition to his teaching and reporting work, Kahn studies the economic models of the news  industry and consults with startups and established news companies on strategy. In 2018, he launched Crosstown, which has pioneered a new approach to local news through data.
@@ -612,8 +621,8 @@ Gabriel Kahn has worked as a newspaper correspondent and editor for three decade
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 10th floor conference room: #1014<br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/NqZd0>https://bluejeans.com/s/NqZd0</a><br>
-<b>Abstract:</b> 
-The widespread adoption of deep learning in NLP has led to a new state-of-the-art on many tasks. Neural nets are complex systems that are hard to interpret, leaving researchers with little ability to say *why* their model is doing so well. As a consequence, interpretability and explainability hold a new relevance. In this talk, I will present case studies in the subfield of interpretability for NLP, as well as the research goals of the subtopics that fall under this umbrella. I will present a case-study of the necessary conditions for attention modules to be used for explaining classification model predictions, as well as a clinical application of attention mechanisms in physician decision support. I will conclude by discussing future directions, including in natural language explanations for reinforcement learning systems. 
+<b>Abstract:</b>
+The widespread adoption of deep learning in NLP has led to a new state-of-the-art on many tasks. Neural nets are complex systems that are hard to interpret, leaving researchers with little ability to say *why* their model is doing so well. As a consequence, interpretability and explainability hold a new relevance. In this talk, I will present case studies in the subfield of interpretability for NLP, as well as the research goals of the subtopics that fall under this umbrella. I will present a case-study of the necessary conditions for attention modules to be used for explaining classification model predictions, as well as a clinical application of attention mechanisms in physician decision support. I will conclude by discussing future directions, including in natural language explanations for reinforcement learning systems.
 <p>
 Sarah Wiegreffe is a Computer Science PhD student in the School of Interactive Computing at Georgia Tech. Her research lies at the intersection of machine learning and NLP, with a particular interest in interpretability, explainability, and model robustness. In the past, she has worked in clinical applications of NLP and ML. During her PhD, she has held research internships at Google AI and Sutter Health. She obtained her B.S. in Data Science from the College of Charleston. In her free time, Sarah enjoys rock climbing, traveling, and rock music.
 </font>
@@ -631,7 +640,7 @@ Sarah Wiegreffe is a Computer Science PhD student in the School of Interactive C
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/GDWdF/>https://bluejeans.com/s/GDWdF/</a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 Neural networks have allowed for a host of advances in natural language processing, from text classification to machine translation. However, the effects of contextual information, such as speaker gender or race, on NLP tasks is still an active area of research. In this talk, we first explore how such context can affect an NLP system’s accuracy. Next, we investigate methods for incorporating additional context into a machine translation system. Finally, we investigate methods for collecting additional contextual information when the signal is sparse.
 <p>
 Samee Ibraheem is a PhD student in Computer Science at UC Berkeley working with John DeNero on incorporating context for NLP applications. He received a Bachelor’s in Neurobiology from Harvard University and is currently supported by an NSF Fellowship.
@@ -650,7 +659,7 @@ Samee Ibraheem is a PhD student in Computer Science at UC Berkeley working with 
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/unxRW/>https://bluejeans.com/s/unxRW/</a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 Remarkable progress has been made at the intersection of vision and language. While showing great promise, current vision and language models do not function well in the wild. In this talk, I will present our recent efforts aiming to bridge this gap for the tasks of image captioning and visual question answering. I will first describe several practical limitations of current benchmarks as a yardstick for grounded language understanding and visual reasoning. Then, I will describe our simple approach to transfer learning, where we leverage large-scale ultrafine-grained data as a means to address the long tail of language. Finally, given these results, I will outline future directions and survey a variety of on-going work along the line of making vision and language research useful.
 <p>
 Soravit (Beer) Changpinyo is a Software Engineer at Google AI. His research interests are in machine learning with applications to computer vision and natural language processing. Prior to joining Google, he was a PhD candidate and an Annenberg Fellow at the University of Southern California, advised by Fei Sha.
@@ -669,7 +678,7 @@ Soravit (Beer) Changpinyo is a Software Engineer at Google AI. His research inte
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 10th floor conference room: #1014<br>
 <b>Online Meeting Recording: </b><a href=https://bluejeans.com/playback/s/Hr2I2XHV9bTFhU3mstY7Y4GuIu946cb5Bno4HB4VeH2BKSW4hD078qx1M3pOW4Js>here</a><br><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 The advent of big data promises to revolutionize medicine by making it more personalized and effective, but big data also presents a grand challenge of information overload. For example, tumor sequencing has become routine in cancer treatment, yet interpreting the genomic data requires painstakingly curating knowledge from a vast biomedical literature, which grows by thousands of papers every day. Electronic medical records contain valuable information to speed up clinical trial recruitment and drug development, but curating such real-world evidence from clinical notes can take hours for a single patient. NLP can play a key role in interpreting big data for precision medicine. In particular, machine reading can help unlock knowledge from text by substantially improving curation efficiency. However, standard supervised methods require labeled examples, which are expensive and time-consuming to produce at scale. In this talk, I'll present Project Hanover, where we overcome the annotation bottleneck by combining deep learning with probabilistic logic, and by exploiting self supervision from readily available resources such as ontologies and databases. This enables us to extract knowledge from millions of publications, reason efficiently with the resulting knowledge graph by learning neural embeddings of biomedical entities and relations, and apply the extracted knowledge and learned embeddings to supporting precision oncology.
 <p>
   Hoifung Poon is the Director of Precision Health NLP at Microsoft Research and an affiliated professor at the University of Washington Medical School. He leads Project Hanover, with the overarching goal of advancing machine reading for precision health, by combining probabilistic logic with deep learning. He has given tutorials on this topic at top conferences such as the Association for Computational Linguistics (ACL) and the Association for the Advancement of Artificial Intelligence (AAAI). His research spans a wide range of problems in machine learning and natural language processing (NLP), and his prior work has been recognized with Best Paper Awards from premier venues such as the North American Chapter of the Association for Computational Linguistics (NAACL), Empirical Methods in Natural Language Processing (EMNLP), and Uncertainty in AI (UAI). He received his PhD in Computer Science and Engineering from University of Washington, specializing in machine learning and NLP.
@@ -688,7 +697,7 @@ The advent of big data promises to revolutionize medicine by making it more pers
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording: </b><a href=https://bluejeans.com/s/6zkTG>https://bluejeans.com/s/6zkTG</a><br><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 Dependency parsing, as an essential task in Natural Language Processing, is a key step in analyzing and understanding texts. Most of the previous work on unsupervised dependency parsing is based on generative models. In order to effectively induce a grammar, various knowledge priors and inductive biases are manually encoded in the learning process. However, these knowledge priors and inductive biases are mostly local features that can only be defined by experts. Another disadvantage of generative models comes from the context-freeness, which limits the information available to dependencies in a sentence. We proposed several approaches to unsupervised dependency parsing that automatically capture useful information: correlations between tokens, context information and multilingual similarity.
 
 <p>
@@ -709,7 +718,7 @@ Dependency parsing, as an essential task in Natural Language Processing, is a ke
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording: </b><a href=https://bluejeans.com/s/BmBxP>https://bluejeans.com/s/BmBxP</a><br><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 Open-domain question answering (open-domain QA) systems greatly improve our access to the knowledge in large text corpora, but most previous work on this topic lacks the ability to perform multi-hop reasoning, limiting how textual knowledge can actually be used. For instance, to answer "What's the Aquaman actor's next movie?", one needs to reason about the entity "Jason Momoa" instead of just comparing the question to a local context, making the task more challenging.
 <br/><br/>
 In this talk, I will present our recent work on enabling text-based multi-hop reasoning in open-domain question answering. First, I will talk about how we collected one of the first datasets on multi-hop QA, making it possible to train and evaluate systems to perform explainable complex reasoning among millions of Wikipedia articles. Then, I will present a QA system we developed on this dataset.  Iterating between finding supporting facts and reading the retrieved context, our model outperforms all previously published approaches, many of which based on powerful pretrained neural networks like BERT. As our model generates natural language queries at each step of its retrieval, it is also readily explainable to humans, and allows for intervention when it veers off course. I will conclude by comparing our model to other recent developments on this dataset, and discussing future directions on this problem.
@@ -732,7 +741,7 @@ In this talk, I will present our recent work on enabling text-based multi-hop re
 <b>Location:</b> 6th floor conference room: #689<br>
 <!-- <b>Online Meeting: </b><a href=https://bluejeans.com/684525530>https://bluejeans.com/684525530</a><br> -->
 <b>Slides:</b> <a href=https://docs.google.com/presentation/d/1uIxAXcDems-I3SzGi4gwxdvDuVMY9aomKxyZHvrZ_IU/edit?usp=sharing target="_blank">here</a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 "Computational journalism" is an emerging field seeking to enhance traditional journalistic processes -- story finding, production, distribution, funding, evaluation and security -- using computational techniques. Such advances comes at a critical time: journalists' ability to play a watchdog role in society is severely endangered by industry contraction and budget shortfalls.<br/><br/>
 
 Many exciting developments in computational journalism require research in NLP. In this talk, I'll discuss some prior work at the New York Times,  including generative localized news articles, human-in-the-loop chat-bots, personalization, and coverage-pattern modeling. I'll also discuss long-term challenges we identified in a broad survey article done at Stanford University this summer, as well as my current research directions here at USC.
@@ -755,7 +764,7 @@ Question Answering by Reasoning Across Documents with Graph Convolutional Networ
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording: </b><a href=https://bluejeans.com/s/sgwNF>https://bluejeans.com/s/sgwNF</a><br>
 <b>Slides:</b> <a href=https://drive.google.com/file/d/1cHwu5R7VHGhkxyQ2MTu7Tn6ujnBmATSO/view?usp=sharing target="_blank">here</a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 Most research in reading comprehension has focused on answering questions based on individual documents or even single paragraphs. We introduce a neural model which integrates and reasons relying on information spread within documents and across multiple documents. We frame it as an inference problem on a graph. Mentions of entities are nodes of this graph while edges encode relations between different mentions (e.g., within- and cross-document co-reference). Graph convolutional networks (GCNs) are applied to these graphs and trained to perform multi-step reasoning. Our Entity-GCN method is scalable and compact, and it achieves state-of-the-art results on a multi-document question answering dataset, WikiHop (Welbl et al., 2018).
 <p>
   Nicola is a first-year Ph.D. candidate at the Institute for Logic, Language and Computation (ILLC) at the University of Amsterdam. He is appointed at the School of Informatics at the University of Edinburgh supervised by Prof. Ivan Titov, and he is part of the EdinburghNLP group. Nicola’s work focuses on unstructured Machine Reading Comprehension also know as Question Answering.
@@ -776,8 +785,8 @@ Practical Workshop on AllenNLP
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/OUQy4>https://bluejeans.com/s/OUQy4</a><br>
 <b>Slides:</b> <a href=https://docs.google.com/presentation/d/1I8e-1_scVsCghXIcWZqr2uyui2zDtGjfrVLi_Y8OS_4/edit?usp=sharing target="_blank">here</a><br>
-<b>Abstract:</b> 
-This is a practical talk that highlights some of the areas where AllenNLP (the NLP research library) excels, and gives a look at new features being released. It will focus on the ways that use of the library can enable reproducibility, interpretability, and visualizations. 
+<b>Abstract:</b>
+This is a practical talk that highlights some of the areas where AllenNLP (the NLP research library) excels, and gives a look at new features being released. It will focus on the ways that use of the library can enable reproducibility, interpretability, and visualizations.
 <p>
   Seraphina Goldfarb-Tarrant is a Research Programmer at ISI, doing work in NLG. She finished her Master's at the University of Washington, and is beginning her PhD at the University of Edinburgh.
 </font>
@@ -796,7 +805,7 @@ More than the sum of their parts: Translating idioms without destroying their me
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/8Lu7w/>https://bluejeans.com/s/8Lu7w/</a> <br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 Translating idioms is hard. As low-frequency linguistic
 events with a non-compositional meaning, idiomatic expressions are at
 odds with contemporary neural machine translation methods.
@@ -831,7 +840,7 @@ Comprehensible context-driven text game playing
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/MNCuL/>https://bluejeans.com/s/MNCuL/</a> <br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 In order to train a computer agent to play a text-based computer game, we must represent each hidden state of the game. A Long Short-Term Memory (LSTM) model running over observed texts is a common choice for state construction. However, a normal Deep Q-learning Network (DQN) for such an agent requires millions of steps of training or more to converge. As such, an LSTM-based DQN can take tens of days to finish the training process. Though we can use a Convolutional Neural Network (CNN) as a text-encoder to construct states much faster than the LSTM, doing so without an understanding of the syntactic context of the words being analyzed can slow convergence. In this paper, we use a fast CNN to encode position- and syntax-oriented structures extracted from observed texts as states. We additionally augment the reward signal in a universal and practical manner. Together, we show that our improvements can not only speed up the process by one order of magnitude but also learn a superior agent.
 <p>
 Xusen Yin is a 3rd-year Ph.D. student at USC/ISI, advised by Dr. Jonathan May.
@@ -851,8 +860,8 @@ Modelling the interplay of metaphor and emotion, and a peek at the underlying co
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 10th floor conference room: CR# 1014 Multipurpose Room<br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/Mws0S/>https://bluejeans.com/s/Mws0S/</a> <br>
-<b>Abstract:</b> 
-Besides making our thoughts more vivid and filling our communication with richer imagery, metaphor plays a fundamental structural role in our cognition, helping us to organise and project knowledge. For example, when we say "a well-oiled political machine", we view the concept of political system in terms of a mechanism and transfer inferences from the domain of mechanisms onto our reasoning about political processes. Much previous research on metaphor in linguistics and psychology suggests that metaphorical phrases tend to be more emotionally evocative than their literal counterparts. In this talk, I will present our recent work investigating the relationship between metaphor and emotion within a computational framework, by proposing the first joint model of these phenomena. We experiment with several multitask learning architectures for this purpose and demonstrate that metaphor identification and emotion prediction mutually benefit from joint learning, advancing the state of the art in both of these tasks. 
+<b>Abstract:</b>
+Besides making our thoughts more vivid and filling our communication with richer imagery, metaphor plays a fundamental structural role in our cognition, helping us to organise and project knowledge. For example, when we say "a well-oiled political machine", we view the concept of political system in terms of a mechanism and transfer inferences from the domain of mechanisms onto our reasoning about political processes. Much previous research on metaphor in linguistics and psychology suggests that metaphorical phrases tend to be more emotionally evocative than their literal counterparts. In this talk, I will present our recent work investigating the relationship between metaphor and emotion within a computational framework, by proposing the first joint model of these phenomena. We experiment with several multitask learning architectures for this purpose and demonstrate that metaphor identification and emotion prediction mutually benefit from joint learning, advancing the state of the art in both of these tasks.
 <p>
 In the second half of the talk, I will discuss how general-purpose semantic representations can be used to better understand metaphor processing in the human brain. In a series of experiments, we evaluate a range of semantic models (word embeddings, compositional models, visual and multimodal models) in their ability to decode brain activity associated with reading of literal and metaphoric sentences. Our results point to interesting differences in the processing of metaphorical and literal language.
 <p>
@@ -874,10 +883,10 @@ Learning from language: Intersections of infant and machine learning
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting:</b> <a href=https://bluejeans.com/499369716> https://bluejeans.com/499369716</a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 Young infants and machine learning algorithms face many of the same fundamental challenges when learning language. Learners often must identify referents in complex scenes, determine the relevance of different object features, and extend labels from previously viewed referents to new ones. In this talk, I examine several ways that infants solve these problems. In some cases, our work reveals word-learning mechanisms that are specific to the infant learner, such as labels' influence on object representations. However, other word-learning mechanisms, like infants' capacity for semi-supervised learning, show striking similarities in the ways that infants and machines overcome the challenges of language learning. Both similarities and differences offer intriguing opportunities for mutually informative, interdisciplinary exchanges.
 <p>
-Bio: Sandy LaTourrette is a 5th-year Ph.D. student in Cognitive Psychology at Northwestern University, advised by Dr. Sandra Waxman. He is a NSF Graduate Fellow, and his work focuses on the interactions of language learning and cognition across human development. 
+Bio: Sandy LaTourrette is a 5th-year Ph.D. student in Cognitive Psychology at Northwestern University, advised by Dr. Sandra Waxman. He is a NSF Graduate Fellow, and his work focuses on the interactions of language learning and cognition across human development.
 </font>
 </span>
 </td></tr>
@@ -893,8 +902,8 @@ Multimodal Communication: A Discourse Approach
 <b>Time:</b> 3:00-4:00pm<br>
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/ypWYX/>https://bluejeans.com/s/ypWYX/</a><br>
-<b>Abstract:</b> 
-The integration of textual and visual information is fundamental to the way people communicate. My hypothesis is that despite the differences of the visual and linguistic communication, the two have similar intentional, inferential and contextual properties, which can be modeled with similar representations and algorithms. I present three successful case studies where natural language techniques provide a useful foundation for supporting user engagement with visual communication. Finally, I propose using these findings for designing interactive systems that can communicate with people using a broad range of appropriate modalities. 
+<b>Abstract:</b>
+The integration of textual and visual information is fundamental to the way people communicate. My hypothesis is that despite the differences of the visual and linguistic communication, the two have similar intentional, inferential and contextual properties, which can be modeled with similar representations and algorithms. I present three successful case studies where natural language techniques provide a useful foundation for supporting user engagement with visual communication. Finally, I propose using these findings for designing interactive systems that can communicate with people using a broad range of appropriate modalities.
 <p> Bio: Malihe Alikhani is a 4th year Ph.D. student in the department of computer science at Rutgers University, advised by Prof. Matthew Stone. She is pursuing a certificate in cognitive science through the Rutgers Center for Cognitive Science and holds a BA and MA in mathematics. Her research aims at teaching machines to understand and generate multimodal communication. She is the recipient of the fellowship award for excellence in computation and data sciences from Rutgers Discovery Informatics Institute in 2018.
 </font>
 </span>
@@ -911,7 +920,7 @@ Quantifying the morphosyntactic content of Brown Clusters
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/diiPj/>https://bluejeans.com/s/diiPj/</a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 Brown and Exchange word clusters have long been successfully used as word representations in Natural Language Processing (NLP) systems. Their success has been attributed to their seeming ability to represent both semantic and syntactic information. Using corpora representing several language families, we test the hypothesis that Brown and Exchange word clusters are highly effective at encoding morphosyntactic information. Our experiments show that word clusters are highly capable of distinguishing Parts of Speech. We show that increases in Average Mutual Information, the clustering algorithms' optimization goal, are highly correlated with improvements in encoding of morphosyntactic information. Our results provide empirical evidence that downstream NLP systems addressing tasks dependent on morphosyntactic information can benefit from word cluster features.
 <p>
 Manuel is a soon-to-graduate Ph.D. student at Aarhus University, Denmark. His research is focused on understanding the kinds of information encoded in word representations and how that information can be used in downstream NLP applications.
@@ -930,7 +939,7 @@ The Blocks World Redux
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/ny0H5> https://bluejeans.com/s/ny0H5 </a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 This talk will discuss some of the challenges arising from the Blocks World scenario in the DARPA Communicating with Computers program.  The actions are very simple and concrete, such as "Add a block to the tower."  However, even in this restricted world, getting the appropriate contextual interpretation of a sentence can be challenging, especially with respect to spatial relations.  The talk will review the progress we have made so far on collecting useful data and attempting to  achieve the goal of contextual interpretation.  To do this we bring to bear many resources, ranging from AMR parsing to Jerry Hobbs's axiomatization of object and action definitions, to our recent merger of James Pustejovsky's Generative Lexicon (GL), and VerbNet (VN), i.e., GL-VN.  A main focus of the talk will be the ways in which we are expanding AMR annotation to encompass spatial relations and also the recovery of implicit arguments.  Both expansions play into the task of maintaining a discourse structure.  The talk will conclude with both short term and long term goals for our collaborations on CwC, with respect to  both AMR and GL-VN.
 
 <p> Bio: Martha Palmer is the Helen & Hubert Croft Endowed Professor of Engineering in the Computer Science Department, and an Arts & Sciences Professor of Distinction in the Linguistics Department, at the University of Colorado, with a split appointment. She is also an Institute of Cognitive Science Faculty Fellow, a co-Director of CLEAR and an Association of Computational Linguistics (ACL) Fellow. She won an Outstanding Graduate Advisor 2014 Award, a Boulder Faculty Assembly 2010 Research Award and was the Director of the 2011 Linguistics Institute in Boulder, CO. Her research is focused on capturing elements of the meanings of words that can comprise automatic representations of complex sentences and documents in English, Chinese, Arabic, Hindi, and Urdu, funded by DARPA and NSF. A more recent focus is the application of these methods to biomedical journal articles and clinical notes, funded by NIH, and the geo- and bio-sciences, funded by NSF. She co-edits LiLT, Linguistic Issues in Language Technology, and has been a co-editor of the Journal of Natural Language Engineering and on the CLJ Editorial Board.  She is a past President of ACL, past Chair of SIGLEX, was the Founding Chair of SIGHAN, and has well over 250 peer-reviewed publications.
@@ -942,22 +951,22 @@ This talk will discuss some of the challenges arising from the Blocks World scen
 <td align=left valign=top> Dan Roth (University of Illinois at Urbana-Champaign) <p> Co-op with USC/ISI AI Seminar</td>
 <td align=left valign=top>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_May_2019');">
-Natural Language Understanding with Incidental Supervision 
+Natural Language Understanding with Incidental Supervision
 </a><br>
 <span id=abs15_May_2019 style="display:none;">
 <font size=-1>
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> CR#1014 <br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/1v5oL/> https://bluejeans.com/s/1v5oL/ </a><br>
-<b>Abstract:</b> 
-The fundamental issue underlying natural language understanding is that of semantics - there is a need to move toward understanding natural language at an appropriate level of abstraction, beyond the word level, in order to support knowledge extraction, natural language understanding, and communication. 
-Machine Learning and Inference methods have become ubiquitous in our attempt to induce semantic representations of natural language and support decisions that depend on it. However, learning models that support high level tasks is difficult, partly since most they are very sparse and generating supervision signals for it does not scale. Consequently, making natural language understanding decisions, which typically depend on multiple, interdependent, models, becomes even more challenging. 
-  
-  I will describe some of our research on developing machine learning and inference methods in pursue of understanding natural language text. My focus will be on identifying and using incidental supervision signals in pursuing a range of semantics tasks, and I will point to some of the key challenges as well some possible directions for studying this problem from a principled perspective.     
+<b>Abstract:</b>
+The fundamental issue underlying natural language understanding is that of semantics - there is a need to move toward understanding natural language at an appropriate level of abstraction, beyond the word level, in order to support knowledge extraction, natural language understanding, and communication.
+Machine Learning and Inference methods have become ubiquitous in our attempt to induce semantic representations of natural language and support decisions that depend on it. However, learning models that support high level tasks is difficult, partly since most they are very sparse and generating supervision signals for it does not scale. Consequently, making natural language understanding decisions, which typically depend on multiple, interdependent, models, becomes even more challenging.
+
+  I will describe some of our research on developing machine learning and inference methods in pursue of understanding natural language text. My focus will be on identifying and using incidental supervision signals in pursuing a range of semantics tasks, and I will point to some of the key challenges as well some possible directions for studying this problem from a principled perspective.
 <p>
 Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, University of Pennsylvania, and a Fellow of the AAAS, the ACM, AAAI, and the ACL.
-In 2017 Roth was awarded the John McCarthy Award, the highest award the AI community gives to mid-career AI researchers. Roth was recognized "for major conceptual and theoretical advances in the modeling of natural language understanding, machine learning, and reasoning." 
-Roth has published broadly in machine learning, natural language processing, knowledge representation and reasoning, and learning theory, and has developed advanced machine learning based tools for natural language applications that are being used widely. Until February 2017 Roth was the Editor-in-Chief of the Journal of Artificial Intelligence Research (JAIR). 
+In 2017 Roth was awarded the John McCarthy Award, the highest award the AI community gives to mid-career AI researchers. Roth was recognized "for major conceptual and theoretical advances in the modeling of natural language understanding, machine learning, and reasoning."
+Roth has published broadly in machine learning, natural language processing, knowledge representation and reasoning, and learning theory, and has developed advanced machine learning based tools for natural language applications that are being used widely. Until February 2017 Roth was the Editor-in-Chief of the Journal of Artificial Intelligence Research (JAIR).
 Prof. Roth received his B.A Summa cum laude in Mathematics from the Technion, Israel, and his Ph.D. in Computer Science from Harvard University in 1995.
 </font>
 </span>
@@ -974,7 +983,7 @@ Learning Neural Network Hyperparameters for Machine Translation
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording:</b> <a href=https://bluejeans.com/s/6_8UO> https://bluejeans.com/s/6_8UO </a><br>
-<b>Abstract:</b> 
+<b>Abstract:</b>
 In recent years, Neural Networks have reached state-of-the-art performance in a variety of NLP tasks, including Machine Translation. However, these methods are very sensitive to selecting optimal hyperparameters. Frequently this is done by large scale experimentation -- often through grid or random searches. However, this is computationally expensive and time consuming. In this talk, I will present a few methods for learning hyperparameters during the training process. Thus, instead of training multiple networks with different hyperparameters, we only need to train one network without large grid search experiments. Our methods yield comparable, and often better, results, but at a faster experimentation rate.
 <p>
 Bio: Kenton Murray is a 5th year PhD Candidate at the University of Notre Dame working with David Chiang on methods for improving Neural Machine Translation for Low-Resource and Morphologically Rich Language Pairs. Prior to ND, he was a Research Associate at the Qatar Computing Research Institute focusing on Arabic Machine Translation. He holds a Master's in Language Technologies from Carnegie Mellon University and a Bachelor's in Computer Science from Princeton University.<br>
@@ -993,10 +1002,10 @@ Separating the Sheep from the Goats: On Recognizing the Literal and Figurative U
 <b>Time:</b> 11:00am-12:00pm<br>
 <b>Location:</b> 6th floor conference room: #689<br>
 <b>Online Meeting Recording:</b> There is no recording of this talk.<br>
-<b>Abstract:</b> 
-Typically, we think of idioms as colorful expressions whose literal interpretations don't match their underlying meaning. However, many idiomatic expressions can be used either figuratively or literally, depending on their contexts. In this talk, we survey both supervised and unsupervised methods for training a classifier to  automatically distinguish usages of idiomatic expressions. We will conclude with a discussion about some potential applications. 
+<b>Abstract:</b>
+Typically, we think of idioms as colorful expressions whose literal interpretations don't match their underlying meaning. However, many idiomatic expressions can be used either figuratively or literally, depending on their contexts. In this talk, we survey both supervised and unsupervised methods for training a classifier to  automatically distinguish usages of idiomatic expressions. We will conclude with a discussion about some potential applications.
 <p>
-Bio: Rebecca Hwa is an Associate Professor in the Department of Computer Science at the University of Pittsburgh. Her recent research focuses on understanding persuasion from a computational linguistics perspective. Some of her recent projects include: modeling student behaviors in revising argumentative essays, identifying symbolisms in visual rhetorics, and understanding idiomatic expressions. Dr Hwa is a recipient of the NSF CAREER Award. Her work has also been supported by NIH and DARPA. 
+Bio: Rebecca Hwa is an Associate Professor in the Department of Computer Science at the University of Pittsburgh. Her recent research focuses on understanding persuasion from a computational linguistics perspective. Some of her recent projects include: modeling student behaviors in revising argumentative essays, identifying symbolisms in visual rhetorics, and understanding idiomatic expressions. Dr Hwa is a recipient of the NSF CAREER Award. Her work has also been supported by NIH and DARPA.
 <br>
 </font>
 </span>
@@ -1055,13 +1064,13 @@ Conversational Question Answering
 <b>Abstract:</b> Humans seek information in a conversational manner, by asking follow-up questions for additional information based on what they have already learned.  In this talk, I will first introduce the task of sequential question answering [1], which aims to fulfill user's information need by answering a series of simple, but interdependent questions regarding a given table.  Treating this task as a semantic parsing problem, we developed a policy shaping mechanism that incorporates prior knowledge and an update equation that generalizes three different families of learning algorithms [2].  After that, I will then talk briefly about QuAC, a new dataset for Question Answering in Context.  QuAC targets the scenario where the information source is unstructured text [3] and thus can be viewed as a conversational machine comprehension task.  New, unpublished model ideas will also be discussed.
 <p>
  [1] Mohit Iyyer, Wen-tau Yih and Ming-Wei Chang. Search-based Neural Structured Learning for Sequential Question Answering. ACL-2017.
-<p> 
+<p>
  [2] Dipendra Misra, Ming-Wei Chang, Xiaodong He and Wen-tau Yih. Policy Shaping and Generalized Update Equations for Semantic Parsing from Denotations. EMNLP-2018.
 <p>
 [3] Eunsol Choi, He He, Mohit Iyyer, Mark Yatskar, Wen-tau Yih, Yejin Choi, Percy Liang and Luke Zettlemoyer. QuAC: Question Answering in Context. EMNLP-2018.
-<p>  
+<p>
   Bio:
-   
+
    Scott Wen-tau Yih is a Principal Research Scientist at Allen Institute for Artificial Intelligence (AI2). His research interests include natural language processing, machine learning and information retrieval.  Yih received his Ph.D. in computer science at the University of Illinois at Urbana-Champaign.  His work on joint inference using integer linear programming (ILP) has been widely adopted in the NLP community for numerous structured prediction problems. Prior to joining AI2, Yih has spent 12 years at Microsoft Research, working on a variety of projects including email spam filtering, keyword extraction and search & ad relevance. His recent work focuses on continuous representations and neural network models, with applications in knowledge base embedding, semantic parsing and question answering. Yih received the best paper award from CoNLL-2011, an outstanding paper award from ACL-2015 and has served as area co-chairs (HLT-NAACL-12, ACL-14, EMNLP-16,17,18), program co-chairs (CEAS-09, CoNLL-14) and action/associated editors (TACL, JAIR) in recent years. He is also a co-presenter for several tutorials on topics including Semantic Role Labeling (NAACL-HLT-06, AAAI-07), Deep Learning for NLP (SLT-14, NAACL-HLT-15, IJCAI-16), NLP for Precision Medicine (ACL-17, AAAI-18).
 <br>
 </font>
@@ -1089,7 +1098,7 @@ that languages exhibit differences in vocabulary,
 grammar, written form, or syntax, one
 would expect that embedding spaces of different
 languages have different structures especially
-for distant languages. I will present our work on understanding 
+for distant languages. I will present our work on understanding
 the behavior of linear maps learned by word translation methods.
 Additionally, I will present some initial solutions to the shortcomings of such linear maps.
 <p>
@@ -14260,8 +14269,10 @@ that we will need to wait that long :-).
 <br>
 </font>
 </span>
-</td></tr></table><br><br>
-<div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-This web page was last generated on Thu Aug 23 20:09:40 2018.<br>
-</font></div>
-</body></html>
+</td></tr></table class>
+</div>
+<br/>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+</body>
+</html>

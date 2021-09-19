@@ -8,6 +8,14 @@
         <!-- Load NLG website page content-->
 		<link rel="stylesheet" href="NLGSite.css" type="text/css" />
 		<?php include('includes/setup.php'); ?>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-X2JT6D84MD"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-X2JT6D84MD');
+        </script>
 	</head>
 	
 	<body background="images/bg-stripes-light.gif">
