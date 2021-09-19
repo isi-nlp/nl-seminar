@@ -1,0 +1,373 @@
+body {
+  background-color: #f4f4f4; 
+  background-image: url("images/bg-stripes-light.gif");
+  margin: 0px;
+  color: #666666;
+  font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+  font-size: .9em;
+
+}
+.main {
+ width: 702px;
+ margin-left: 100px;
+}
+.box {
+  margin: 0px;
+  padding: 0px;
+  border: 1px solid #c0c0c0;
+}
+.content {
+  background-color: #f4f4f4;
+  padding: 15px 10px 5px 10px;
+}
+.topMenu {
+  background-color: #f4f4f4;
+  text-align: center;
+  position: relative;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.menuItem {
+  font-size: 1.1em;
+  font-weight: bold;
+  padding: 10px 15px 10px 15px; 
+  
+}
+.topMenu a:link {
+ color: #a0a0a0;
+ text-decoration: none;
+}
+.topMenu a:visited {
+ color: #a0a0a0;
+ text-decoration: none;
+}
+.topMenu a:hover {
+  color: red;
+
+}
+ .copyright {
+   font-size: .7em;
+ }
+h2 {
+  font-weight: normal;
+}
+
+table {
+  font-size: 100%;
+}
+
+code {
+  font-size: small;
+}
+ 
+a {
+	color: #404040;
+}
+a:hover {
+ 	color: red;
+}
+
+ .nlg-heading {
+	/* color: #666666;*/
+	color: #404040;
+	font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', 'sans-serif';
+    font-size: 1.2em;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-top: 5px;
+ }
+.nlg-software-link {
+	/* color: #666666;*/
+	color: #404040;
+	font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', 'sans-serif';
+    font-size: .9em;
+    font-weight: bold;
+}
+.nlg-software-description {
+	font-style: italic;
+	font-family: 'Helvetica Neue', 'Arial', 'sans-serif';
+    font-size: .9em;
+}
+.nlg-software-citation {
+	font-family: 'Helvetica Neue', 'Arial', 'sans-serif';
+    font-size: .9em;
+}
+.nlg-floatBoxGreyBg {
+
+	border: 1px solid #c0c0c0;
+	background-color: #e6e6e6;
+	padding: 5px 10px 5px 10px;
+}
+.nlg-floatBoxGreyBg-software {
+
+	border: 1px dotted #666666;
+	background-color: #dadada;
+	right: 0px;
+}
+.nlg-text-block-greyBg {
+	background-color: #dfdfdf;
+	color: #505050;
+	padding: 5px 5px 5px 10px;
+	border: 1px solid #c0c0c0;
+	font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+}
+.nlg-text-block-Lt1 {
+	background-color: #ffffcc;
+	color: #505050;
+	padding: 5px 5px 15px 5px;
+	border: 1px solid #c0c0c0;
+	line-height: 1.4;
+	font-size: 1.0em;
+	font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+}
+.nlg-text-block-Lt2 {
+	background-color: #c4f3ff;
+	color: #505050;
+	padding: 5px;
+	border: 1px solid #c0c0c0;
+	line-height: 1.4;
+	font-size: .9em;
+	font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+}
+.nlg-text-block-Lt3 {
+	background-color: #b5feaf;
+	color: #505050;
+	padding: 5px 5px 15px 5px;
+	border: 1px solid #c0c0c0;
+	line-height: 1.4;
+	font-size: 1.0em;
+	font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+}  
+.nlg-text-block {
+	color: #505050;
+	padding: 0px 0px 0px 0px;
+	line-height: 1.4;
+	font-size: .9em;
+	font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+} 
+
+/* Research Topics panel design: ResearchPanel.java */
+
+.nlg-researchHeading1 {
+  font-weight: bold;
+  color: #128081;
+}
+.nlg-researchHeading2 {
+  font-weight: bold;
+  color: #963465;
+}
+.nlg-researchHeading3 {
+  font-weight: bold;
+  color: #353398;
+}
+.nlg-researchHeading4 {
+  font-weight: bold;
+  color: #c96835;
+}
+.nlg-researchHeading5 {
+  font-weight: bold;
+  color: #0c9835;
+}
+.nlg-researchHeading6 {
+  font-weight: bold;
+  color: #ca0D05;
+}
+
+/* People Panel */
+
+.nlg-person-info {
+	padding: 0px 0px 0px 10px;
+}
+.nlg-isiFacultyBox {
+	padding: 0px 0px 5px 0px;
+	width: 100%;
+}
+.nlg-isiStaffBox {
+	padding: 5px 0px 5px 0px;
+	width: 100%;
+}
+.nlg-visitingFacultyBox {
+	padding: 5px 0px 5px 0px;
+	width: 100%;
+
+}
+
+.nlg-facultyPanel {
+	width: 360px;
+}
+
+.nlg-isiStudentsBox {
+	padding: 0px 0px 5px 0px;
+}
+
+.nlg-visitingStudentsBox {
+	padding: 5px 0px 5px 0px;
+}
+.nlg-imagesBox {
+	padding: 15px 0px 0px 0px;
+}
+.nlg-employeeLinkedName {
+	color: #404040;
+	padding: 5px 0px 0px 0px;
+}
+.nlg-people-horizPanel {
+  padding: 5px 0px 10px 0px;
+}
+
+.nlg-alumniPanel {
+  padding: 10px 0px 0px 0px;
+  width: 100%;
+
+}
+.nlg-alumniYearPanel {
+	border: 1px dotted #cccccc;
+	width: 100%;
+	padding: 5px;
+	background-color: #ffffcc;
+	/* line-height: 1.4; */
+	font-size: .9em;
+	font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+}
+
+#mainInternshipLink {
+ font-weight: bold;
+ font-size: 1.2em;
+
+}
+.nlheader {
+  padding-left: 10px;
+}
+
+a.imglink, a.imglink img {
+  text-decoration: none;
+  border: none;
+}
+
+.speakerItem {
+  background-color: #f0f0f0;
+}
+.seminarTableHeader {
+  background-color: #ddddff;
+}
+/* Menu item for the current page is bold */
+div#home span#home a {
+ color: #505050;
+}
+div#research span#research a {
+ color: #505050;
+}
+div#academics span#academics a {
+ color: #505050;
+}
+div#people span#people a {
+ color: #505050;
+}
+div#get_involved span#get_involved a {
+ color: #505050;
+}
+div#nl_seminar span#nl_seminar a {
+ color: #505050;
+}
+.pagebanner img {
+ width: 700px;
+}
+.twoColumnContent {
+ border-spacing: 10px;
+}
+.twoColumnContent tr {
+ vertical-align: top;
+}
+#researchLeftCol {
+ width: 350px;
+}
+#get_involved .twoColumnContent {
+ width: 100%;
+}
+#involvedLeftCol {
+/* width: 475px; */
+}
+#researchTopicsTable{
+ width: 430px;
+ border: 0px;
+ margin-left: 100px;
+ text-align: top;
+ border-spacing: 4px;
+}
+.researchTopicCell {
+ width: 200px;
+ background-color: #e0e0e0;
+ border: 1px solid #c0c0c0;
+ margin: 5px;
+ padding-left: 5px;
+ font-size: 0.9em;
+}
+#downloadableSoftware {
+  width: 275px;
+
+}
+.smalltext {
+ font-size: 1.0em;
+ line-height: 1.3em;
+}
+.topicBox {
+  margin-bottom: 20px;
+}
+
+#downloadableSoftwareBox {
+ padding-left: 20px;
+ padding-bottom: 15px;
+}
+#home .content {
+ padding-left: 40px;
+ padding-right: 40px;
+
+}
+#academics .nlg-text-block-greyBg{
+ width: 650px;
+}
+#people .twoColumnContent {
+ width: 625px;
+
+}
+#people .twoColumnContent .leftCol {
+ width: 66%;
+}
+.affiliation {
+ padding-left: 10px;
+ font-size: 0.9em;
+}
+#people .annotation {
+ padding-left: 10px;
+ font-size: 0.9em;
+}
+.person {
+ padding-bottom: 5px;
+}
+#people .topicBox {
+ margin-bottom: 5px;
+}
+.courseListings {
+ margin-left: 20px;
+}
+.courseGroup {
+ margin-bottom: 5px;
+}
+.name {
+ color: #404040;
+}
+#projects .subtitle {
+ 
+}
+#projects .description {
+ margin: 20px 10px 10px 10px;
+}
+#projects .fundingFrom {
+ border-top: solid 1px #c0c0c0;
+ margin: 20px 10px 0px 10px;
+ font-size: 0.9em;
+}
+#projects .contractNumber {
+ margin: 0px 10px 0px 10px;
+ font-size: 0.9em;
+}

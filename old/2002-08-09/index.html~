@@ -1,0 +1,488 @@
+<html> <head>
+<title>The Natural Language Seminar Series at ISI</title>
+</head>
+<body BACKGROUND="../projects/prp_stc.jpg">
+
+<h1 align=center>Natural Language (NL) Seminars
+<br>
+Summer 2002
+</h1>
+
+
+<p align=center><table border=5 cellpadding=5  width=700 align=center>
+
+
+<th>Date</th>
+<th>Time</th>
+<th>Speaker</th>
+<th>Title</th>
+<th>Location</th><tr>
+
+<td valign=top>Fri, June 14, 2002</td>
+<td valign=top>3 pm</td>
+<td>Chris Ackerman</td>
+<td><a href=#ackerman>Speech Dialogue Classification</a></td>
+<td valign=top>11<sup>th</sup> floor large</td><tr>
+
+
+<td valign=top>Fri, June 21, 2002</td>
+<td valign=top>3 pm</td>
+<td>Bo Pang</td>
+<td><a href=#pang>Thumbs up? Sentiment Classification using Machine Learning
+Techniques</a></td>
+<td valign=top>11<sup>th</sup> floor large</td><tr>
+
+
+<td valign=center>Monday, June 24, 2002</td>
+<td valign=center>3 pm</b></td>
+<td>
+<p>Hal Daume III</p>
+<p>Abdessamad Echihabi</p>
+<p>Stefan Munteanu</p>
+</td>
+<td>
+<p><a href=#daume> A Noisy-Channel Model for Document Compression</a></p>
+<p><a href=#echihabi> Recognizing Discourse Relations in Unrestricted Text (ACL Practice talk)</a></p>
+<p><a href=#munteanu> Processing Comparable Corpora With Bilingual Suffix
+Trees</a></p>
+</td>
+<td valign=center>11<sup>th</sup> floor large</td><tr>
+
+
+<td valign=center>Friday, June 28, 2002</td>
+<td valign=center><b>2:30 pm</b></td>
+<td>
+<p>Hal Daume III</p>
+<p>Daniel Marcu</p>
+<p>Daniel Marcu</p>
+</td>
+<td>
+<p><a href=#daume2> The Importance of Lexicalized Syntax Models for
+Natural Language Generation Tasks</a></p>
+<p><a href=#marcu> GLEANS: A Generator of Logical Extracts and Abstracts for Nice
+Summaries</a></p>
+<p><a href=#marcu2> A Phrase-Based, Joint Probability Model for
+Statistical Machine Translation</a></p>
+</td>
+<td valign=center>11<sup>th</sup> floor large</td><tr>
+
+
+<td valign=top>Monday, July 1, 2002</td>
+<td valign=top>3 pm</td>
+<td>Kevin Knight</td>
+<td><a href=#knight>Search</a></td>
+<td valign=top>11<sup>th</sup> floor large</td><tr>
+
+
+<td valign=top>Monday, July 15, 2002</td>
+<td valign=top>3 pm</td>
+<td><a href="ng-schedule.html">Hwee Tou Ng</a></td>
+<td><a href=#ng>A Maximum Entropy Approach to Information Extraction from
+Semi-Structured and Free Text</a></td>
+<td valign=top><b>10<sup>th</sup> floor</b></td><tr>
+
+
+<td valign=top>Friday, July 19, 2002</td>
+<td valign=top>3 pm</td>
+<td>Keonhoe Cha</td>
+<td><a href=#cha>Identification of pairs of translated web pages</a></td>
+<td valign=top>11<sup>th</sup> floor large</td><tr>
+
+
+<td valign=top>Monday, July 22, 2002</td>
+<td valign=top>3 pm</td>
+<td><a href="he-schedule.html">Daqing He</a></td>
+<td><a href=#he>Evaluation of an Interactive Cross-Language Retrieval
+System</a></td>
+<td valign=top>11<sup>th</sup> floor large</td><tr>
+
+
+<td valign=top>Tuesday, July 23, 2002</td>
+<td valign=top>3 pm</td>
+<td>Hal Daume III</td>
+<td><a href=#daume3>Abstracts </a></td>
+<td valign=top><b>11<sup>th</sup> floor small</b></td><tr>
+
+
+<td valign=top>Monday, August 5, 2002</td>
+<td valign=top>3 pm</td>
+<td>Ulrich Germann</td>
+<td><a href=#germann>Integrating rule-based components into the
+statistical MT process: Results of a feasibility experiment with dates
+and numbers </a></td>
+<td valign=top>11<sup>th</sup> floor large</td><tr>
+
+
+<td valign=top>Monday, August 12, 2002</td>
+<td valign=top>3 pm</td>
+<td>Greg Kondrak</td>
+<td><a href=#kondrak>Algorithms for Language Reconstruction </a></td>
+<td valign=top>11<sup>th</sup> floor large</td><tr>
+<!--
+<td valign=top><b>10<sup>th</sup> floor </b></td><tr>
+-->
+
+<td colspan=5 align=left>
+
+</table>
+
+<hr>
+
+<h2 align=center>Featured Speakers and Abstracts</h2>
+
+
+<hr>
+<h3 align=center>
+<a name=ackerman>Chris Ackerman</a> <br> <font color=blue> Speech Dialogue Classification</font></h3>
+<p><b>Abstract:</b></p>
+<p>
+This talk describes work on the classification of spoken dialogue in an 
+interactive training scenario, wherein a human user interacts with
+characters on a movie screen. Based on what the user says, the
+training program advances to one of several possible states in the
+film, as determined by a prewritten script. The NLP problem is
+recognizing what the user said and mapping it onto 
+the appropriate state transition.
+</p>
+
+
+<hr>
+<h3 align=center>
+<a name=pang>Bo Pang</a> <br> <font color=blue>Thumbs up? Sentiment
+Classification using Machine Learning Techniques </font></h3>
+<p><i>This work was done in collaboration with Lillian Lee and
+Shivakumar Vaithyanathan</i></p>
+<p><b>Abstract:</b></p>
+<p>
+We consider the problem of classifying documents not by topic, but by
+overall sentiment, e.g., determining whether a review is positive or
+negative. Using movie reviews as data, we find that standard machine
+learning techniques definitively outperform human-produced baselines.
+However, the three machine learning methods we employed (Naive Bayes,
+maximum entropy classification, and support vector machines) do not
+perform as well on sentiment classification as on traditional topic-based
+categorization. We conclude by examining factors that make the sentiment
+classification problem more challenging.
+</p>
+
+
+<hr>
+<h3 align=center>
+<a name=daume>Hal Daume III</a> <br> <font color=blue> A Noisy-Channel Model for Document Compression</font></h3>
+<p><b>Abstract:</b></p>
+<p>
+We present a document compression system that uses a hierarchical
+  noisy-channel model of text production.  Our compression system
+  first automatically derives the syntactic structure of each sentence
+  and the overall discourse structure of the text given as input.  The
+  system then uses a statistical hierarchical model of text production
+  in order to drop non-important syntactic and discourse constituents
+  so as to generate coherent, grammatical document compressions of
+  arbitrary length.  The system outperforms both a baseline and a
+  sentence-based compression system that operates by simplifying
+  sequentially all sentences in a text.  Our results support
+  the claim that discourse knowledge plays an important
+  role in document summarization.
+</p>
+<p><i>
+This is a practice talk for my presentation at ACL.  For those of you
+  where attended the new student orientation, this is very similar to
+  what you already saw; you're not required to come this time, but if
+  you do, you'll actually get to see my pretty animations.
+</i></p>
+
+
+<hr>
+<h3 align=center>
+<a name=echihabi>Abdessamad Echihabi</a> <br> <font color=blue> Recognizing Discourse Relations in Unrestricted Text (ACL Practice talk)</font></h3>
+<p><b>Abstract:</b></p>
+<p>
+We present a Bayesian approach to recognizing discourse relations of
+  CONTRAST, EXPLANATION-EVIDENCE, CONDITION, and ELABORATION that hold
+  between arbitrary spans of texts.
+</p>
+<p>
+  We show that discourse relation classifiers trained on massive amounts of
+  data can be used to distinguish between some of these relations with
+  accuracies as high as 93%, even when the relations are not explicitly
+  marked by cue phrases.
+</p>
+
+
+<hr>
+<h3 align=center>
+<a name=munteanu>Stefan Munteanu</a> <br> <font color=blue>Processing Comparable Corpora With Bilingual Suffix Trees </font></h3>
+<p><b>Abstract:</b></p>
+<p>
+We introduce Bilingual Suffix Trees (BST), a data structure that is suitable
+  for exploiting comparable corpora. We discuss algorithms that use BSTs in
+  order to create parallel corpora and learn translations of unseen words from
+  comparable corpora. Starting with a small bilingual dictionary that was
+  derived automatically from a corpus of 5.000 parallel sentences, we have
+  automatically extracted a corpus of 33.926 parallel phrases of size greater
+  than 3, and learned 9 new word translations from a comparable corpus of 1.3M
+  words (100.000 sentences).
+</p>
+
+
+<hr>
+<h3 align=center>
+<a name=daume2>Hal Daume III </a> <br> <font color=blue>The Importance
+of Lexicalized Syntax Models for Natural Language Generation Tasks </font></h3>
+<p><b>Abstract:</b></p>
+<p>
+The parsing community has long recognized the importance of
+  lexicalized models of syntax.  By contrast, these models do not
+  appear to have had an impact on the statistical NLG community.  To
+  prove their importance in NLG, we show that a lexicalized model of
+  syntax improves the performance of a statistical text compression
+  system, and show results that suggest it would also improve the
+  performances of an MT application and a pure natural language
+  generation system.
+</p>
+<p><i> This is a practice talk for my presentation at INLG.</i>
+</p>
+
+
+<hr>
+<h3 align=center>
+<a name=marcu>Daniel Marcu </a> <br> <font color=blue>GLEANS: A
+Generator of Logical Extracts and Abstracts for Nice Summaries </font></h3>
+<p><i>This work was done in collaboration with Hal Daume III,
+Abdessamad Echihabi,  Dragos Stefan Munteanu, and Radu Soricut; to be presented at DUC 2002</i></p>
+<p><b>Abstract:</b></p>
+<p>
+Subtitle: "How to build a smart summarizer that scores poorly"
+</p>
+<p> Disclaimer: I don't plan to use the subtitle at DUC :-)</p>
+
+
+<hr>
+<h3 align=center>
+<a name=marcu2>Daniel Marcu </a> <br> <font color=blue> A
+Phrased-Based, Joint Probability Model for Statistical Machine Translation</font></h3>
+<p><i>This work was done in collaboration with William Wong; to be
+presented at EMNLP 2002</i></p>
+<p><b>Abstract:</b></p>
+<p>
+Subtitle: "How to build a dumb MT system that scores highly"
+</p>
+<p> Disclaimer: I don't plan to use the subtitle at EMNLP :-)</p>
+
+
+<hr>
+<h3 align=center>
+<a name=knight>Kevin Knight </a> <br> <font color=blue>Search </font></h3>
+<p><b>Abstract:</b></p>
+<p>
+Kevin will present some new ideas.
+</p>
+
+
+<hr>
+<h3 align=center>
+<a name=ng>Hwee Tou Ng </a> <br> <font color=blue>A Maximum Entropy
+Approach to Information Extraction from Semi-Structured and Free Text </font></h3>
+<p><i>This work was done in collaboration with Hai Leong Chieu.</i></p>
+<p><b>Abstract:</b></p>
+<p>
+In this talk, I will present a classification-based approach towards
+single-slot as well as multi-slot information extraction (IE). For
+single-slot IE, we worked on the domain of Seminar Announcements, where
+each document contains information on only one seminar. For multi-slot
+IE, we worked on the domain of Management Succession. For this domain,
+we restrict ourselves to extracting information sentence by sentence, in
+the same way as (Soderland 1999).  Each sentence can contain information
+on several management succession events. By using a classification
+approach based on a maximum entropy framework, our system achieves
+higher accuracy than the best previously published results in both
+domains. This work is jointly done with Hai Leong Chieu.
+</p>
+<p><b>Biography:</b></p>
+<p>
+Hwee Tou Ng is an Associate Professor in the Department of Computer
+Science, National University of Singapore. Prior to joining NUS in April
+2002, he was with the DSO National Laboratories, Singapore, where his
+last position is Principal Member of Technical Staff and Head of
+Informatics Lab. He received a PhD in Computer Science from the
+University of Texas at Austin, USA in 1992, under the supervision of
+Professor Raymond Mooney. His research interest is in natural language
+processing and information retrieval, and has published in premier
+journals and conferences including Computational Linguistics journal,
+AAAI, ACL, and SIGIR. He has served as program committee member or
+reviewer of conferences including ACL, NAACL, and SIGIR. He is the
+tutorial chair of ACL-02 and SENSEVAL committee member of ACL SIGLEX.
+</p>
+
+
+<hr>
+<h3 align=center>
+<a name=cha>Keonhoe Cha </a> <br> <font color=blue>Identification of
+pairs of translated web pages </font></h3>
+<p><b>Abstract:</b></p>
+<p>
+It is desirable to collect multilingual corpus with as small human labor
+as possible. We present some algorithms to identify pairs of translated
+web pages on World Wide Web, which is a plentiful resource for the
+multilingual corpus. Three different topologies - linear, parallel, and
+random - are first defined, and then different searching techniques
+are described for the three topologies, while all using basically Gale
+& Church's alignment distance measure.
+</p>
+<p>
+Experiments show that greedy search with a well-chosen threshold value of
+the Gale & Church's alignment score is nearly optimal hyperplane for the
+binary classification to make a decision on whether a pair is translated one
+or not.
+</p>
+
+
+<hr>
+<h3 align=center>
+<a name=he> Daqing He </a>: <br> <font color=blue> Evaluation of an
+Interactive Cross-Language Retrieval System </font></h3>
+<p><b>Abstract:</b></p>
+<p>
+As the linguistic diversity on the World Wide Web has grown, there has
+been increasing interest in the deployment of usable Cross-Language
+Information Retrieval (CLIR) systems.  One important application for
+CLIR technology is interactive searching, an iterative process in
+which searcher and system seek to leverage their complementary
+strengths to find useful documents.  In this presentation, I will
+describe a user study that we recently conducted for the 2002
+Cross-Language Evaluation Forum's Interactive Track (iCLEF).  I will
+start with a brief overview of the state of the art in CLIR and prior
+work on interactive CLIR, and then focus on our experiment design and
+the preliminary results of that experiment.  Official relevance
+judgments are not yet available, so this talk describes work in
+progress.
+</p>
+<p><b>Biography:</b></p>
+<p>
+Daqing He is a postdoctoral researcher at the University of Maryland
+Institute for Advanced Computer Systems (UMIACS). He obtained his
+Ph.D. from the University of Edinburgh in natural language
+understanding and worked after graduation on interactive information
+retrieval as a research fellow at the Robert Gordon University in
+Aberdeen, UK.  His current research interests include interactive
+information retrieval, user context modeling and natural language
+processing.  Additional information is available at 
+<a
+href="http://www.scms.rgu.ac.uk/research/ir/members/dqh/dqh.htm"> http://www.scms.rgu.ac.uk/research/ir/members/dqh/dqh.htm
+</a>
+</p>
+
+<hr>
+<h3 align=center>
+<a name=daume3>Hal Daume III </a> <br> <font color=blue> Abstracts </font></h3>
+<p><b>Abstract:</b></p>
+<p>
+"A Noisy-Channel Model for Document Abstraction"?  Is it
+possible?  Where does data come from?  How do we train it?  What is a good
+(or even workable) generative story?  What other requirements are imposed
+when one wants to do abstracts?  These and many other questions will be
+asked, though likely not answered.  
+</p>
+<p>Come ready to discuss :).
+</p>
+
+<hr>
+<h3 align=center>
+<a name=germann>Ulrich Germann </a> <br> <font color=blue> Integrating
+rule-based components into the statistical MT process: Results of a
+feasibility experiment with dates and numbers. </font></h3>
+<p><b>Abstract:</b></p>
+<p>
+Dates and number expressions pose a serious challenge to surface-based 
+statistical approaches to machine translation, as they are highly
+productive and frequent as a class (so they matter) but rare
+individually. (Exercise: How much parallel data is required to ensure
+that the system has seen every natural number at least 5 times?) On
+the other hand, they constitute a fairly regular sublanguage of the
+language that they are part of, "fairly regular" meaning that the
+grammar required to describe them is small compared to the grammar 
+of the "full language". In addition, the vocabulary used to construct such
+expressions is closed. Therefore, attacking the translation of dates
+and numbers with a rule based system seems like a reasonable
+approach. In my talk, I will present details and results of a
+feasibility study in which dates, numbers and similar expressions were
+recognized and translated separately during preprocessing, and then
+integrated in to the statistical decoding process by an adapted version
+of the ReWrite decoder.
+</p>
+
+
+<hr>
+<h3 align=center>
+<a name=kondrak> Greg Kondrak</a>: <br> <font color=blue>Algorithms for Language Reconstruction</font></h3>
+<p><b>Abstract:</b></p>
+<p>
+Languages that are genetically related (such as English and German),
+originate from a common proto-language. In the absence of historical
+records, proto-languages have to be reconstructed from surviving
+cognates, that is words from that existed in the proto-language and
+are still present in some form in its descendants. The language
+reconstruction methods have so far been largely based on informal and
+intuitive criteria. I will present techniques and algorithms for
+performing various stages of the reconstruction process automatically.
+The proposed solutions are related to recent advances in computational
+linguistics, computer science and bioinformatics. The applications of
+the new techniques are not limited to diachronic phonology, but extend
+to other areas of computational linguistics, such as machine
+translation.
+</p>
+
+
+
+<hr>
+
+
+<!--
+
+<hr>
+<h3 align=center>
+<a name=> Speaker name</a>: <br> <font color=blue> talk title </font></h3>
+<p><b>Abstract:</b></p>
+<p>
+
+</p>
+<hr>
+
+
+<h3><a name=jones>
+Rosie Jones</a>: You're Not From Round Here, Are You? Naive Bayes Detection of Non-native Utterance Text</h3>
+<p>Rosie Jones is a PhD student at the CMU Language Technology Institute</p>
+<p><b>Abstract:</b></p>
+<i>This work was done in collaboration with Laura Mayfield</i></p>
+<p>
+Native and non-native use of language differs, depending on the
+proficiency of the speaker, in clear and quantifiable ways.  It has
+been shown that customizing the acoustic and language models of a
+natural language understanding system can significantly improve handling
+of non-native input; in order to make such a switch, however, the
+nativeness status of the user must be known.  In this talk, I'll show that
+naive Bayes classification can be used to identify non-native utterances
+of English. The advantage of our method is that it relies on text, not on
+acoustic features, and can be used when the acoustic source is not
+available.</p>
+<p>
+We demonstrate that both read and spontaneous utterances can be
+classified with high accuracy, and that classification of errorful
+speech recognizer hypotheses is \emph{more} accurate than classification
+of perfect transcriptions. We also characterize part-of-speech sequences
+that play a role in detecting non-native speech.
+</p>
+<hr>
+
+-->
+
+
+<p ALIGN=RIGHT><b><i>Maintained by <a
+HREF="mailto:erikabn@isi.edu">Erika Barragan-Nunez</i></p></b></font>
+
+
+
+
+</body>
+</html>
+

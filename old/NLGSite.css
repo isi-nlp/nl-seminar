@@ -1,0 +1,521 @@
+body {
+  background-color: #f4f4f4; 
+  margin: 0px;
+  color: #666666;
+  font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+  font-size: .9em;
+
+}
+
+.nlg_mainTable {
+  border: 1px solid #c0c0c0;
+}
+ .copyright {
+   font-size: .7em;
+ }
+h2 {
+  font-weight: normal;
+}
+
+table {
+  font-size: 100%;
+}
+
+code {
+  font-size: small;
+}
+ 
+a {
+	color: #404040;
+}
+a:hover {
+ 	color: red;
+}
+
+.nav a:link {
+  text-decoration: none;
+  color: #888888;
+  white-space: nowrap;
+}
+.nav a:visited {
+  text-decoration: none;
+  color: #888888;
+  white-space: nowrap;
+}
+
+.nav a:hover {
+  color: #cc0000; 
+  white-space: nowrap;
+}
+
+a.nav:link {
+  text-decoration: none;
+  color: #888888;
+}
+a.nav:visited {
+  text-decoration: none;
+  color: #888888;
+}
+a.nav:hover {
+  color: #cc0000; 
+ }
+ 
+ .nlg-heading {
+	/* color: #666666;*/
+	color: #404040;
+	font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', 'sans-serif';
+    font-size: 1.2em;
+    font-weight: bold;
+ }
+.nlg-software-link {
+	/* color: #666666;*/
+	color: #404040;
+	font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', 'sans-serif';
+    font-size: .9em;
+    font-weight: bold;
+}
+.nlg-software-description {
+	font-style: italic;
+	font-family: 'Helvetica Neue', 'Arial', 'sans-serif';
+    font-size: .9em;
+}
+.nlg-software-citation {
+	font-family: 'Helvetica Neue', 'Arial', 'sans-serif';
+    font-size: .9em;
+}
+.nlg-floatBoxGreyBg {
+
+	border: 1px solid #c0c0c0;
+	background-color: #e6e6e6;
+	padding: 5px 10px 5px 10px;
+}
+.nlg-floatBoxGreyBg-software {
+
+	border: 1px dotted #666666;
+	background-color: #dadada;
+	right: 0px;
+}
+.nlg-txtPanelObj td {
+	
+	padding: 5px 0px 5px 0px;
+}
+.nlg-imagesPanelObj td {
+	
+	padding: 10px 10px 10px 10px;
+}
+.nlg-GIPanelObj tr {
+	
+	padding: 10px 10px 10px 10px;
+}
+.gwt-BorderedPanel {
+}
+
+.gwt-Button {
+  background:#f5f5f5;
+  border:1px solid #aaa;
+  border-top:1px solid #ddd;
+  border-left:1px solid #ddd;
+  padding: 2px;
+  width: 12em;
+}
+
+.gwt-Button:active {
+  border:1px solid #aaa;
+  border-bottom:1px solid #ccc;
+  border-right:1px solid #ccc;
+}
+
+.gwt-Button[disabled] {
+  background: #ccc;
+  border:1px solid #999;
+  border-top:1px solid #ccc;
+  border-left:1px solid #ccc;
+  color: #888;
+}
+
+.gwt-Canvas {
+}
+
+.gwt-CheckBox {
+}
+
+.gwt-DialogBox {
+  border: 2px outset;
+  background-color: white;
+}
+
+.gwt-DialogBox .Caption {
+  background-color: #C3D9FF;
+  padding: 3px;
+  margin: 2px;
+  font-weight: bold;
+  cursor: default;
+}
+
+.gwt-MenuBar {
+  background-color: #C3D9FF;
+  border: 1px solid #87B3FF;
+  cursor: default;
+}
+
+.gwt-MenuBar .gwt-MenuItem {
+  padding: 1px 4px 1px 4px;
+  cursor: default;
+}
+
+.gwt-MenuBar .gwt-MenuItem-selected {
+  background-color: #E8EEF7;
+}
+
+.gwt-PasswordTextBox {
+}
+
+.gwt-RadioButton {
+}
+
+.gwt-TabPanel {
+  margin-top: 4px;
+
+ /*  border: 1px dotted #CCCCCC; */
+ 
+}
+
+.gwt-TabPanelBottom {
+}
+
+.gwt-TabBar {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  align: center;
+}
+
+.gwt-TabBar .gwt-TabBarFirst {
+	padding-left: 30px;
+ 
+}
+
+.gwt-TabBar .gwt-TabBarRest {
+}
+
+.gwt-TabBar .gwt-TabBarItem {
+  padding: 15px;
+  border: 6px;
+  #cursor: hand;
+  font-weight: bold;
+  font-size: 1.05em;
+ 
+  margin-right: 2px;
+  border-bottom: 2px;
+  
+}
+
+.gwt-TabBar .gwt-TabBarItem-selected {
+
+  border: 6px;
+  cursor: default;
+  border-bottom: 2px;
+  margin-right: 2px;
+ 
+}
+
+.gwt-TabBar .gwt-TabBarItem-selected a{
+	color: #404040;
+}
+.gwt-TextArea {
+}
+
+.gwt-TextBox {
+}
+
+.gwt-TextBox-readonly {
+  color: #888;
+}
+
+.gwt-Tree {
+  background: white;
+}
+
+.gwt-Tree .gwt-TreeItem {
+}
+
+.gwt-Tree .gwt-TreeItem-selected {
+  background-color: #C3D9FF;
+}
+
+
+
+.gwt-HorizontalSplitPanel {
+  border: 8px solid #C3D9FF;
+}
+
+.gwt-HorizontalSplitPanel .hsplitter {
+  background-color: #C3D9FF;
+  cursor: move;
+}
+
+.gwt-HorizontalSplitPanel .left {
+  background-color: #E8EEF7;
+}
+
+.gwt-VerticalSplitPanel {
+}
+
+.gwt-VerticalSplitPanel .splitter {
+  background-color: #C3D9FF;
+  height: 8px;
+  cursor: move;
+}
+
+.gwt-SuggestBoxPopup {
+  border: 2px solid #C3D9FF;
+}
+
+.gwt-SuggestBoxPopup .item {
+  padding: 2px;
+}
+
+.gwt-SuggestBoxPopup .item-selected {
+  background-color: #C3D9FF;
+  padding: 2px;
+}
+
+.nlg-text-block-greyBg {
+	background-color: #dfdfdf;
+	color: #505050;
+	padding: 5px;
+	border: 1px solid #c0c0c0;
+	line-height: 1.4;
+	font-size: .9em;
+	font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+}
+.nlg-text-block-Lt1 {
+	background-color: #ffffcc;
+	color: #505050;
+	padding: 5px;
+	border: 1px solid #c0c0c0;
+	line-height: 1.4;
+	font-size: .9em;
+	font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+}
+.nlg-text-block-Lt2 {
+	background-color: #c4f3ff;
+	color: #505050;
+	padding: 5px;
+	border: 1px solid #c0c0c0;
+	line-height: 1.4;
+	font-size: .9em;
+	font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+}
+.nlg-text-block-Lt3 {
+	background-color: #b5feaf;
+	color: #505050;
+	padding: 5px;
+	border: 1px solid #c0c0c0;
+	line-height: 1.4;
+	font-size: .9em;
+	font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+}  
+.nlg-text-block {
+	color: #505050;
+	padding: 0px 0px 0px 0px;
+	line-height: 1.4;
+	font-size: .9em;
+	font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+} 
+
+/* Research Topics panel design: ResearchPanel.java */
+
+.nlg-researchHeading1 {
+  font-weight: bold;
+  color: #128081;
+}
+.nlg-researchHeading2 {
+  font-weight: bold;
+  color: #963465;
+}
+.nlg-researchHeading3 {
+  font-weight: bold;
+  color: #353398;
+}
+.nlg-researchHeading4 {
+  font-weight: bold;
+  color: #c96835;
+}
+.nlg-researchHeading5 {
+  font-weight: bold;
+  color: #0c9835;
+}
+.nlg-researchHeading6 {
+  font-weight: bold;
+  color: #ca0D05;
+}
+.nlg-researchAreas {
+  font-size: .9em;
+  
+	
+}
+
+.nlg-researchAreaCell1 {
+  background-color: #e6e6e6;
+  border: 1px solid #c0c0c0;
+}
+.nlg-researchAreaCell2 {
+  background-color: #e6e6e6;
+  border: 1px solid #c0c0c0;
+}
+.nlg-researchAreaCell3 {
+  background-color: #e6e6e6;
+  border: 1px solid #c0c0c0;
+}
+.nlg-researchAreaCell4 {
+  background-color: #e6e6e6;
+  border: 1px solid #c0c0c0;
+}
+.nlg-researchAreaCell5 {
+  background-color: #e6e6e6;
+  border: 1px solid #c0c0c0;
+}
+.nlg-researchAreaCell6 {
+  background-color: #e6e6e6;
+  border: 1px solid #c0c0c0;
+}
+
+.gwt-DisclosurePanel-headerJ .header {
+	text-decoration: none;
+ 	font-weight: bold; 
+}
+	.gwt-DisclosurePanel-headerJ .header td {
+		font-size: 1.2em;
+		font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+	/*	font-weight: bold; */
+		text-decoration: none;
+	}	
+.gwt-DisclosurePanel-headerJ .content {
+	 background-color: #dcdcdc;
+	/* border: 2px groove; */
+}
+.research-proj-items {
+	max-width: 578px;
+}
+
+.research-proj-items .header {
+	max-width: 578px;
+	min-width: 578px;
+}
+	.research-proj-items .header td {
+		color: #666666;
+		font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+		 font-weight: bold;
+		font-size: .9em;
+		
+	}
+	.research-proj-items .header a {
+		text-decoration: none;
+	}
+.research-proj-items .content {
+	font-size: .8em;
+	font-weight: normal;
+	background-color: #f5f5a5;
+	padding: 3px;
+	border: 1px dotted #666666;
+	 max-width: 570px; 
+	 min-width: 570px; 
+}
+
+/* People Panel */
+
+.nlg-person-info {
+	padding: 0px 0px 0px 10px;
+}
+.nlg-isiFacultyBox {
+	padding: 0px 0px 5px 0px;
+	width: 100%;
+}
+.nlg-isiStaffBox {
+	padding: 5px 0px 5px 0px;
+	width: 100%;
+}
+.nlg-visitingFacultyBox {
+	padding: 5px 0px 5px 0px;
+	width: 100%;
+
+}
+
+.nlg-facultyPanel {
+	width: 360px;
+}
+
+.nlg-isiStudentsBox {
+	padding: 0px 0px 5px 0px;
+}
+
+.nlg-visitingStudentsBox {
+	padding: 5px 0px 5px 0px;
+}
+.nlg-imagesBox {
+	padding: 15px 0px 0px 0px;
+}
+.nlg-employeeLinkedName {
+	color: #404040;
+	padding: 5px 0px 0px 0px;
+}
+.nlg-people-horizPanel {
+  padding: 5px 0px 10px 0px;
+}
+.gwt-StackPanel {
+  padding: 10px 0px 10px 0px;
+  width: 500px;
+
+}
+
+.nlg-alumniPanel {
+  padding: 10px 0px 0px 0px;
+  width: 100%;
+
+}
+.nlg-alumniYearPanel {
+	border: 1px dotted #cccccc;
+	width: 100%;
+	padding: 5px;
+	background-color: #ffffcc;
+	/* line-height: 1.4; */
+	font-size: .9em;
+	font-family: 'HelveticaNeue', 'Arial', 'sans-serif';
+}
+.gwt-StackPanel .gwt-StackPanelItem {
+  background-color: #eeeebb;
+  cursor: pointer;
+  cursor: hand;
+  border: 1px solid #bbbb99; 
+  font-weight: bold;
+}
+
+.gwt-StackPanel .gwt-StackPanelItem-selected {
+ /* background-color: #ffe6e6; */
+ background-color: #eeeebb;
+  border: 1px thin solid #bbbb99; 
+/*  color: #cc0000; */
+  font-weight: bold;
+    
+}
+
+#mainInternshipLink {
+ font-weight: bold;
+ font-size: 1.2em;
+
+}
+.nlheader {
+  padding-left: 10px;
+}
+
+a.imglink, a.imglink img {
+  text-decoration: none;
+  border: none;
+}
+
+.speakerItem {
+  background-color: #F0F0F0;
+}
+.seminarTableHeader {
+  backgruond-color: #DDDDFF;
+}
