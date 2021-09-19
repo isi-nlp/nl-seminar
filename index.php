@@ -6,7 +6,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="css/NLGSite.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="css/NLGSite.css" /> -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-X2JT6D84MD"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -16,6 +16,29 @@
     </script>
     <meta name="Keywords" content="USC, ISI, natural, language, research, processing, reading group, nlp, computational, linguistics, ontologies, machine learning, statistical, machine translation, information, retrieval, extraction, semantics, parsing, grammars, summarization, question answering, transducers, language modeling">
     <title>USC ISI NL Seminar</title>
+  <style type="text/css">
+  <!--
+    A:link    { text-decoration: none; color: #000099}
+    A:active  { text-decoration: none; color: #000099}
+    A:visited { text-decoration: none; color: #000099} 
+    A:hover   { text-decoration: none; color: #990099}
+  //-->
+  </style>
+
+  <script type="text/javascript">
+    <!--
+function exp_coll(ind) {
+ s = document.getElementById(ind);
+
+ if (s.style.display == 'none') {
+   s.style.display = 'block';
+ } else if (s.style.display == 'block') {
+   s.style.display = 'none';
+ }
+}
+-->
+  </script>
+
   </head>
 <body class="container-lg">
 <?php include('includes/usc-header.php'); ?><br/>
