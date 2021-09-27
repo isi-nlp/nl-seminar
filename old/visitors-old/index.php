@@ -13,7 +13,6 @@
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-
             gtag('config', 'G-X2JT6D84MD');
         </script>
 	</head>
@@ -44,8 +43,6 @@ If you are a scheduled visiting speaker, the receptionist will notify us of your
 				Marina del Rey, CA 90292
 				</div>
 			</div>
-
-
 
 		</div>
 	    </div>
