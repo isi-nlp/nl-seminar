@@ -3,7 +3,7 @@
     <h2 class="display-6">USC ISI NL Seminar</h2>
     <div class="col-lg-7 mx-auto">
         <p class="lead">
-           It's a weekly meeting of the <a href="https://nlg.isi.edu">Natural Language Group</a>. <br/>
+           A weekly meeting of the <a href="https://nlg.isi.edu">Natural Language Group</a>. <br/>
             Seminars usually take place on <b>Thursdays from 11:00am until 12:00pm</b>.<br/>
         </p>
         <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
