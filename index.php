@@ -21,9 +21,9 @@
 <h3>Upcoming talks:</h3>
 <table class="table table-striped table-light table-hover table-responsive-sm">
     <tr class="seminarTableHeader">
-        <th style="width:14%;">Date</th>
-        <th style="width:25%;">Speaker</th>
-        <th style="">Title</th>
+        <th style="width:14%; text-align: left">Date</th>
+        <th style="width:25%; text-align: left">Speaker</th>
+        <th style="text-align: left">Title</th>
     </tr>
     <tr class="speakerItem">
         <td> 7 Oct 2021</td>
@@ -76,15 +76,15 @@
 <h3>Past talks:</h3>
 <table class="table table-striped table-hover">
 <tr class="seminarTableHeader">
-    <td align=left style="width:14%;"><b>Date</b></td>
-    <td align=left style="width:25%;"><b>Speaker</b></td>
-    <td align=left><b>Title</b></td>
+    <td style="width:14%; text-align: left"><b>Date</b></td>
+    <td style="width:25%; text-align: left"><b>Speaker</b></td>
+    <td style="text-align: left"><b>Title</b></td>
 </tr>
 
 <tr class="speakerItem" border=0 >
-    <td align=left>26 Aug 2021</td>
-    <td align=left>Shanxiu He (ISI Intern)</td>
-    <td align=left>
+    <td>26 Aug 2021</td>
+    <td>Shanxiu He (ISI Intern)</td>
+    <td>
     <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Aug_2021');">
     From Constrained Event Sequences Generation to Text Generation</a><br>
     <span id=abs26_Aug_2021 style="display:none;">
@@ -102,9 +102,9 @@
 </tr>
 
 <tr class="speakerItem" border=0 >
-    <td align=left>19 Aug 2021</td>
-    <td align=left>Shira Wein (ISI Intern)<br>Leo Zeyu Liu (ISI Intern)</td>
-    <td align=left>
+    <td>19 Aug 2021</td>
+    <td>Shira Wein (ISI Intern)<br>Leo Zeyu Liu (ISI Intern)</td>
+    <td>
     <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Aug_2021');">
         Leveraging Abstract Meaning Representations to Amplify the Semantic Information Captured in Transformer Models /<br>
         Improving Multilingual Encoders with Contrastive Objective and Luna
@@ -129,9 +129,9 @@
 </tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>12 Aug 2021</td>
-<td align=left>Sabrina J. Mielke (JHU)</td>
-<td align=left>
+<td>12 Aug 2021</td>
+<td>Sabrina J. Mielke (JHU)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Aug_2021');">
 Fair Comparisons and Fundamental Ideas for Open-Vocabulary Generative Language and Translation Models</a><br>
 <span id=abs12_Aug_2021 style="display:none;">
@@ -148,9 +148,9 @@ Fair Comparisons and Fundamental Ideas for Open-Vocabulary Generative Language a
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>29 Jul 2021</td>
-<td align=left>Nishant Subramani (AI2)</td>
-<td align=left>
+<td>29 Jul 2021</td>
+<td>Nishant Subramani (AI2)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_Jul_2021');">
 Fantastic Continuous-valued Sentence Representations and How to Find Them</a><br>
 <span id=abs29_Jul_2021 style="display:none;">
@@ -168,9 +168,9 @@ Fantastic Continuous-valued Sentence Representations and How to Find Them</a><br
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>28 Jul 2021</td>
-<td align=left>Manuel Ciosici (ISI)</td>
-<td align=left>
+<td>28 Jul 2021</td>
+<td>Manuel Ciosici (ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Jul_2021');">Should PTLMs go to school?</a><br>
 <span id=abs28_Jul_2021 style="display:none;">
 <font size=-1>
@@ -186,9 +186,9 @@ Fantastic Continuous-valued Sentence Representations and How to Find Them</a><br
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>22 Jul 2021</td>
-<td align=left>Kevin Yang (Berkeley)</td>
-<td align=left>
+<td>22 Jul 2021</td>
+<td>Kevin Yang (Berkeley)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Jul_2021');">
 Predictor-Guided Controlled Generation</a><br>
 <span id=abs22_Jul_2021 style="display:none;">
@@ -205,9 +205,9 @@ Predictor-Guided Controlled Generation</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>1 Jul 2021</td>
-<td align=left>Kalpesh Krishna (UMass Amherst)</td>
-<td align=left>
+<td>1 Jul 2021</td>
+<td>Kalpesh Krishna (UMass Amherst)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs01_Jul_2021');">
 Advances in Text Generation and the Perils of its Automatic Evaluation</a><br>
 <span id=abs01_Jul_2021 style="display:none;">
@@ -225,9 +225,9 @@ Advances in Text Generation and the Perils of its Automatic Evaluation</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>17 Jun 2021</td>
-<td align=left>Xiang Lisa Li (Stanford)</td>
-<td align=left>
+<td>17 Jun 2021</td>
+<td>Xiang Lisa Li (Stanford)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Jun_2021');">
 Prefix-Tuning: Optimizing Continuous Prompts for Generation</a><br>
 <span id=abs17_Jun_2021 style="display:none;">
@@ -244,9 +244,9 @@ Prefix-Tuning: Optimizing Continuous Prompts for Generation</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>6 May 2021</td>
-<td align=left>Zhou Yu (Columbia University)</td>
-<td align=left>
+<td>6 May 2021</td>
+<td>Zhou Yu (Columbia University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_May_2021');">
 Interactively Teaching Machines with Natural Languages</a><br>
 <span id=abs06_May_2021 style="display:none;">
@@ -263,9 +263,9 @@ Interactively Teaching Machines with Natural Languages</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>15 Apr 2021</td>
-<td align=left>R. Thomas McCoy (JHU)</td>
-<td align=left>
+<td>15 Apr 2021</td>
+<td>R. Thomas McCoy (JHU)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Apr_2021');">
 Universal Linguistic Inductive Biases via Meta-Learning</a><br>
 <span id=abs22_Apr_2021 style="display:none;">
@@ -281,9 +281,9 @@ Universal Linguistic Inductive Biases via Meta-Learning</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>18 Mar 2021</td>
-<td align=left>Daniel Khashabi (AI2)</td>
-<td align=left>
+<td>18 Mar 2021</td>
+<td>Daniel Khashabi (AI2)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Mar_2021');">
 Leave No Question Behind!: Broadening the Scope of Machine Comprehension</a><br>
 <span id=abs18_Mar_2021 style="display:none;">
@@ -299,9 +299,9 @@ Leave No Question Behind!: Broadening the Scope of Machine Comprehension</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>4 Mar 2021</td>
-<td align=left>Jason Weston (FAIR, NYU)</td>
-<td align=left>
+<td>4 Mar 2021</td>
+<td>Jason Weston (FAIR, NYU)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Mar_2021');">LIGHT: Training agents that can act and speak with other models and humans in a rich text adventure game world</a><br>
 <span id=abs04_Mar_2021 style="display:none;">
 <font size=-1>
@@ -316,9 +316,9 @@ Leave No Question Behind!: Broadening the Scope of Machine Comprehension</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>25 Feb 2021</td>
-<td align=left>Robin Jia (FAIR --> USC CS)</td>
-<td align=left>
+<td>25 Feb 2021</td>
+<td>Robin Jia (FAIR --> USC CS)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Feb_2021');">
 Insights from Re-evaluating NLP Systems</a><br>
 <span id=abs25_Feb_2021 style="display:none;">
@@ -334,9 +334,9 @@ Insights from Re-evaluating NLP Systems</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>4 Feb 2021</td>
-<td align=left>Jesse Thomason (Amazon Alexa AI --> USC CS)</td>
-<td align=left>
+<td>4 Feb 2021</td>
+<td>Jesse Thomason (Amazon Alexa AI --> USC CS)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Feb_2021');">
 From Human Language to Agent Action</a><br>
 <span id=abs04_Feb_2021 style="display:none;">
@@ -352,9 +352,9 @@ From Human Language to Agent Action</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>28 Jan 2021</td>
-<td align=left>Sandeep Soni (Georgia Tech)</td>
-<td align=left>
+<td>28 Jan 2021</td>
+<td>Sandeep Soni (Georgia Tech)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Jan_2021');">
 Computational Models of Language Change from Diachronic Text</a><br>
 <span id=abs28_Jan_2021 style="display:none;">
@@ -370,9 +370,9 @@ Computational Models of Language Change from Diachronic Text</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>21 Jan 2021</td>
-<td align=left>Christopher Chu (DiDi)</td>
-<td align=left>
+<td>21 Jan 2021</td>
+<td>Christopher Chu (DiDi)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_Jan_2021');">
 Historical Applications of NLP</a><br>
 <span id=abs21_Jan_2021 style="display:none;">
@@ -388,9 +388,9 @@ Historical Applications of NLP</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>14 Jan 2021</td>
-<td align=left>Yezhou Yang (ASU)</td>
-<td align=left>
+<td>14 Jan 2021</td>
+<td>Yezhou Yang (ASU)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Jan_2021');">
 Visual Recognition beyond Appearances, and its Robotic Applications</a><br>
 <span id=abs14_Jan_2021 style="display:none;">
@@ -406,9 +406,9 @@ Visual Recognition beyond Appearances, and its Robotic Applications</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>10 Dec 2020</td>
-<td align=left>Thomas Wolf (HuggingFace)</td>
-<td align=left>
+<td>10 Dec 2020</td>
+<td>Thomas Wolf (HuggingFace)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Dec_2020');">
 An Introduction to Transfer Learning in NLP and HuggingFace</a><br>
 <span id=abs10_Dec_2020 style="display:none;">
@@ -424,9 +424,9 @@ An Introduction to Transfer Learning in NLP and HuggingFace</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>3 Dec 2020</td>
-<td align=left>Elena Voita (University of Edinburgh, University of Amsterdam)</td>
-<td align=left>
+<td>3 Dec 2020</td>
+<td>Elena Voita (University of Edinburgh, University of Amsterdam)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Dec_2020');">
 Information-Theoretic Probing with Minimum Description Length
 </a><br>
@@ -443,9 +443,9 @@ Information-Theoretic Probing with Minimum Description Length
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>12 Nov 2020</td>
-<td align=left>John Hewitt (Stanford) </td>
-<td align=left>
+<td>12 Nov 2020</td>
+<td>John Hewitt (Stanford) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Nov_2020');">
 The Unreasonable Syntactic Expressivity of RNNs</a><br>
 <span id=abs12_Nov_2020 style="display:none;">
@@ -461,9 +461,9 @@ The Unreasonable Syntactic Expressivity of RNNs</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>15 Oct 2020</td>
-<td align=left>Wei Xu (Georgia Tech) </td>
-<td align=left>
+<td>15 Oct 2020</td>
+<td>Wei Xu (Georgia Tech) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Oct_2020');">
 Natural Language Understanding for Noisy Text</a><br>
 <span id=abs15_Oct_2020 style="display:none;">
@@ -479,9 +479,9 @@ Natural Language Understanding for Noisy Text</a><br>
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>27 Aug 2020</td>
-<td align=left>Ugur Yavuz (ISI intern) </td>
-<td align=left>
+<td>27 Aug 2020</td>
+<td>Ugur Yavuz (ISI intern) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Aug_2020');">Translation of Asylum Testimonials from Low-Resource Languages</a>
 <span id=abs27_Aug_2020 style="display:none;">
 <font size=-1>
@@ -496,9 +496,9 @@ Ugur Yavuz is a summer intern working at the Natural Language Group with Dr. Jon
 </td></tr>
 
   <tr class="speakerItem" border=0 >
-<td align=left>20 Aug 2020</td>
-<td align=left>Weiqiu You (ISI intern) </td>
-<td align=left>
+<td>20 Aug 2020</td>
+<td>Weiqiu You (ISI intern) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Aug_2020');">Qualitative Analysis of Unsupervised Neural Machine Translation</a>
 <span id=abs20_Aug_2020 style="display:none;">
 <font size=-1>
@@ -514,9 +514,9 @@ Ugur Yavuz is a summer intern working at the Natural Language Group with Dr. Jon
 </td></tr>
 
   <tr class="speakerItem" border=0 >
-<td align=left>13 Aug 2020</td>
-<td align=left>Naitian Zhou and Omar Shaikh (ISI interns) </td>
-<td align=left>
+<td>13 Aug 2020</td>
+<td>Naitian Zhou and Omar Shaikh (ISI interns) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Aug_2020');">
 Improving Dialogue Agents with a Social Dimension /<br>Understanding Monolingual Pre-Training for Bilingual Models</a><br>
 <span id=abs13_Aug_2020 style="display:none;">
@@ -536,9 +536,9 @@ Omar is a Summer 2020 intern with Dr. Jon May. He’s also a rising junior at Ge
 </td></tr>
 
   <tr class="speakerItem" border=0 >
-<td align=left>30 Jul 2020</td>
-<td align=left>Emily M. Bender (UW) </td>
-<td align=left>
+<td>30 Jul 2020</td>
+<td>Emily M. Bender (UW) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Jul_2020');">
 A Typology of Ethical Risks in Language Technology with an Eye Towards Where Transparent Documentation Can Help</a><br>
 <span id=abs30_Jul_2020 style="display:none;">
@@ -554,9 +554,9 @@ Emily M. Bender is a Professor of Linguistics at the University of Washington an
 </td></tr>
 
   <tr class="speakerItem" border=0 >
-<td align=left>16 Jul 2020</td>
-<td align=left> Mohit Iyyer (UMass Amherst) </td>
-<td align=left>
+<td>16 Jul 2020</td>
+<td> Mohit Iyyer (UMass Amherst) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Jul_2020');">
 Towards interactive story generation</a><br>
 <span id=abs16_Jul_2020 style="display:none;">
@@ -572,9 +572,9 @@ Mohit Iyyer is an assistant professor in computer science at the University of M
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>21 May 2020</td>
-<td align=left> Liang Huang (Oregon State University/Baidu) </td>
-<td align=left>
+<td>21 May 2020</td>
+<td> Liang Huang (Oregon State University/Baidu) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Mar_2020');">Fighting COVID-19 using Linear-Time Algorithms from Computational Linguistics
 </a><br>
 <span id=abs12_Mar_2020 style="display:none;">
@@ -592,9 +592,9 @@ Liang Huang is currently an Assistant Professor of EECS at Oregon State Universi
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>27 Feb 2020</td>
-<td align=left> Ellie Pavlick (Brown University) </td>
-<td align=left>
+<td>27 Feb 2020</td>
+<td> Ellie Pavlick (Brown University) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Feb_2020');">What do (and should) language models know about language?
 </a><br>
 <span id=abs27_Feb_2020 style="display:none;">
@@ -612,9 +612,9 @@ Ellie Pavlick is an Assistant Professor of Computer Science at Brown University.
 
 
 <tr class="speakerItem" border=0 >
-<td align=left>05 Feb 2020</td>
-<td align=left> Gabriel Kahn (USC Annenberg) </td>
-<td align=left>
+<td>05 Feb 2020</td>
+<td> Gabriel Kahn (USC Annenberg) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Feb_2020');">Why journalism is broken and how data can help fix it
 </a><br>
 <span id=abs05_Feb_2020 style="display:none;">
@@ -631,9 +631,9 @@ Gabriel Kahn has worked as a newspaper correspondent and editor for three decade
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>30 Jan 2020</td>
-<td align=left> Sarah Wiegreffe (Georgia Tech) </td>
-<td align=left>
+<td>30 Jan 2020</td>
+<td> Sarah Wiegreffe (Georgia Tech) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Jan_2019');">BlackBox NLP: What are we looking for, and where do we stand?
 </a><br>
 <span id=abs30_Jan_2019 style="display:none;">
@@ -650,9 +650,9 @@ Sarah Wiegreffe is a Computer Science PhD student in the School of Interactive C
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>16 Jan 2020</td>
-<td align=left> Samee Ibraheem (UC Berkeley) </td>
-<td align=left>
+<td>16 Jan 2020</td>
+<td> Samee Ibraheem (UC Berkeley) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Jan_2019');">Leveraging Context for Natural Language Processing
 </a><br>
 <span id=abs16_Jan_2019 style="display:none;">
@@ -669,9 +669,9 @@ Samee Ibraheem is a PhD student in Computer Science at UC Berkeley working with 
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>12 Dec 2019</td>
-<td align=left> Soravit (Beer) Changpinyo (Google AI) </td>
-<td align=left>
+<td>12 Dec 2019</td>
+<td> Soravit (Beer) Changpinyo (Google AI) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Dec_2019');">Tightly Connecting Vision and Language
 </a><br>
 <span id=abs12_Dec_2019 style="display:none;">
@@ -688,9 +688,9 @@ Soravit (Beer) Changpinyo is a Software Engineer at Google AI. His research inte
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>21 Nov 2019</td>
-<td align=left> Hoifung Poon (MSR/UW) </td>
-<td align=left>
+<td>21 Nov 2019</td>
+<td> Hoifung Poon (MSR/UW) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_Nov_2019');"> Machine Reading for Precision Medicine
 </a><br>
 <span id=abs21_Nov_2019 style="display:none;">
@@ -707,9 +707,9 @@ The advent of big data promises to revolutionize medicine by making it more pers
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>24 Oct 2019</td>
-<td align=left> Wenjuan Han (ShanghaiTech University/UCLA) </td>
-<td align=left>
+<td>24 Oct 2019</td>
+<td> Wenjuan Han (ShanghaiTech University/UCLA) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Oct_2019');">Neural Unsupervised Dependency Parsing
 </a><br>
 <span id=abs24_Oct_2019 style="display:none;">
@@ -728,9 +728,9 @@ Dependency parsing, as an essential task in Natural Language Processing, is a ke
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>17 Oct 2019</td>
-<td align=left> Peng Qi (Stanford) </td>
-<td align=left>
+<td>17 Oct 2019</td>
+<td> Peng Qi (Stanford) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Oct_2019');">Answering Complex Questions in the Wild
 </a><br>
 <span id=abs17_Oct_2019 style="display:none;">
@@ -749,9 +749,9 @@ In this talk, I will present our recent work on enabling text-based multi-hop re
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>03 Oct 2019</td>
-<td align=left> Alex Spangher (USC/ISI) </td>
-<td align=left>
+<td>03 Oct 2019</td>
+<td> Alex Spangher (USC/ISI) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Oct_2019');">
   NLP in Computational Journalism: notes from the field at the New York Times
 </a><br>
@@ -772,9 +772,9 @@ Many exciting developments in computational journalism require research in NLP. 
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>26 Sep 2019</td>
-<td align=left> Nicola De Cao (University of Amsterdam) </td>
-<td align=left>
+<td>26 Sep 2019</td>
+<td> Nicola De Cao (University of Amsterdam) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Sep_2019');">
 Question Answering by Reasoning Across Documents with Graph Convolutional Networks
 </a><br>
@@ -793,9 +793,9 @@ Most research in reading comprehension has focused on answering questions based 
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>19 Sep 2019</td>
-<td align=left> Seraphina Goldfarb-Tarrant (USC/ISI) </td>
-<td align=left>
+<td>19 Sep 2019</td>
+<td> Seraphina Goldfarb-Tarrant (USC/ISI) </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Sep_2019');">
 Practical Workshop on AllenNLP
 </a><br>
@@ -814,9 +814,9 @@ This is a practical talk that highlights some of the areas where AllenNLP (the N
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>05 Sep 2019</td>
-<td align=left> Denis Emelin (University of Edinburgh) and Prince Wang </td>
-<td align=left>
+<td>05 Sep 2019</td>
+<td> Denis Emelin (University of Edinburgh) and Prince Wang </td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Sep_2019');">
 More than the sum of their parts: Translating idioms without destroying their meaning
 </a><br>
@@ -849,9 +849,9 @@ translation, natural language understanding, and linguistics.
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>15 Aug 2019</td>
-<td align=left> Xusen Yin (USC/ISI)</td>
-<td align=left>
+<td>15 Aug 2019</td>
+<td> Xusen Yin (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Aug_2019');">
 Comprehensible context-driven text game playing
 </a><br>
@@ -869,9 +869,9 @@ Xusen Yin is a 3rd-year Ph.D. student at USC/ISI, advised by Dr. Jonathan May.
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>08 Aug 2019</td>
-<td align=left> Ekaterina Shutova (University of Amsterdam)</td>
-<td align=left>
+<td>08 Aug 2019</td>
+<td> Ekaterina Shutova (University of Amsterdam)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Aug_2019');">
 Modelling the interplay of metaphor and emotion, and a peek at the underlying cognitive mechanisms
 </a><br>
@@ -892,9 +892,9 @@ Bio: Ekaterina Shutova is an Assistant Professor at the Institute for Logic, Lan
 
 
 <tr class="speakerItem" border=0 >
-<td align=left>11 Jul 2019</td>
-<td align=left> Sandy LaTourrette (Northwestern University)</td>
-<td align=left>
+<td>11 Jul 2019</td>
+<td> Sandy LaTourrette (Northwestern University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Jul_2019');">
 Learning from language: Intersections of infant and machine learning
 </a><br>
@@ -911,9 +911,9 @@ Bio: Sandy LaTourrette is a 5th-year Ph.D. student in Cognitive Psychology at No
 </span>
 </td></tr>
 <tr class="speakerItem" border=0 >
-<td align=left>21 Jun 2019</td>
-<td align=left> Malihe Alikhani (Rutgers University)</td>
-<td align=left>
+<td>21 Jun 2019</td>
+<td> Malihe Alikhani (Rutgers University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_Jun_2019');">
 Multimodal Communication: A Discourse Approach
 </a><br>
@@ -929,9 +929,9 @@ The integration of textual and visual information is fundamental to the way peop
 </span>
 </td></tr>
 <tr class="speakerItem" border=0 >
-<td align=left>30 May 2019</td>
-<td align=left> Manuel Rafael Ciosici (Aarhus University)</td>
-<td align=left>
+<td>30 May 2019</td>
+<td> Manuel Rafael Ciosici (Aarhus University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_May_2019');">
 Quantifying the morphosyntactic content of Brown Clusters
 </a><br>
@@ -948,9 +948,9 @@ Manuel is a soon-to-graduate Ph.D. student at Aarhus University, Denmark. His re
 </span>
 </td></tr>
 <tr class="speakerItem" border=0 >
-<td align=left>16 May 2019</td>
-<td align=left> Martha Palmer (University of Colorado Boulder )</td>
-<td align=left>
+<td>16 May 2019</td>
+<td> Martha Palmer (University of Colorado Boulder )</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_May_2019');">
 The Blocks World Redux
 </a><br>
@@ -967,9 +967,9 @@ This talk will discuss some of the challenges arising from the Blocks World scen
 </span>
 </td></tr>
 <tr class="speakerItem" border=0 >
-<td align=left>15 May 2019</td>
-<td align=left> Dan Roth (University of Illinois at Urbana-Champaign) <p> Co-op with USC/ISI AI Seminar</td>
-<td align=left>
+<td>15 May 2019</td>
+<td> Dan Roth (University of Illinois at Urbana-Champaign) <p> Co-op with USC/ISI AI Seminar</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_May_2019');">
 Natural Language Understanding with Incidental Supervision
 </a><br>
@@ -992,9 +992,9 @@ Prof. Roth received his B.A Summa cum laude in Mathematics from the Technion, Is
 </span>
 </td></tr>
 <tr class="speakerItem" border=0 >
-<td align=left>18 Apr 2019</td>
-<td align=left> Kenton Murray (University of Notre Dame)</td>
-<td align=left>
+<td>18 Apr 2019</td>
+<td> Kenton Murray (University of Notre Dame)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Apr_2019');">
 Learning Neural Network Hyperparameters for Machine Translation
 </a><br>
@@ -1011,9 +1011,9 @@ Bio: Kenton Murray is a 5th year PhD Candidate at the University of Notre Dame w
 </span>
 </td></tr>
 <tr class="speakerItem" border=0 >
-<td align=left>07 Mar 2019</td>
-<td align=left> Rebecca Hwa (University of Pittsburgh)</td>
-<td align=left>
+<td>07 Mar 2019</td>
+<td> Rebecca Hwa (University of Pittsburgh)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Mar_2019');">
 Separating the Sheep from the Goats: On Recognizing the Literal and Figurative Usages of Idioms
 </a><br>
@@ -1031,9 +1031,9 @@ Bio: Rebecca Hwa is an Associate Professor in the Department of Computer Science
 </span>
 </td></tr>
 <tr class="speakerItem" border=0 >
-<td align=left>09 Nov 2018</td>
-<td align=left>Waleed Ammar (AI2)</td>
-<td align=left>
+<td>09 Nov 2018</td>
+<td>Waleed Ammar (AI2)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Nov_2018');">
 Taming the scientific literature: progress and challenges
 </a><br>
@@ -1052,9 +1052,9 @@ Bio: Waleed Ammar is a senior research scientist at the Allen Institute for Arti
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>01 Nov 2018</td>
-<td align=left> Robin Jia (Stanford)</td>
-<td align=left>
+<td>01 Nov 2018</td>
+<td> Robin Jia (Stanford)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs01_Nov_2018');">
 Exposing Brittleness in Reading Comprehension Systems
 </a><br>
@@ -1070,9 +1070,9 @@ Bio: Robin Jia is a fifth-year PhD student advised by Percy Liang at Stanford Un
 </span>
 </td></tr>
 <tr class="speakerItem" border=0 >
-<td align=left>25 Oct 2018</td>
-<td align=left>Scott Yih (AI2)</td>
-<td align=left>
+<td>25 Oct 2018</td>
+<td>Scott Yih (AI2)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Oct_2018');">
 Conversational Question Answering
 </a><br>
@@ -1097,9 +1097,9 @@ Conversational Question Answering
 </span>
 </td></tr>
 <tr class="speakerItem" border=0 >
-<td align=left>12 Oct 2018</td>
-<td align=left>Ndapa Nakashole (UC San Diego)</td>
-<td align=left>
+<td>12 Oct 2018</td>
+<td>Ndapa Nakashole (UC San Diego)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Oct_2018');">
 Mapping Functions for Multilingual Word Embeddings
 </a><br>
@@ -1129,9 +1129,9 @@ Ndapa Nakashole is an Assistant Professor  in the Department of Computer Science
 </span>
 </td></tr>
 <tr class="speakerItem" border=0 >
-<td align=left>04 Oct 2018</td>
-<td align=left>Siva Reddy (Stanford University)</td>
-<td align=left>
+<td>04 Oct 2018</td>
+<td>Siva Reddy (Stanford University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Oct_2018');">
 CoQA: A Conversational Question Answering Challenge
 </a><br>
@@ -1149,9 +1149,9 @@ CoQA: A Conversational Question Answering Challenge
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>14 Sep 2018</td>
-<td align=left>Daniel Fried (UC Berkeley)</td>
-<td align=left>
+<td>14 Sep 2018</td>
+<td>Daniel Fried (UC Berkeley)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Sep_2018');">
 Pragmatic Models for Generating and Following Grounded Instructions
 </a><br>
@@ -1170,9 +1170,9 @@ Daniel Fried is a PhD student at UC Berkeley, working with Dan Klein on grounded
 </td></tr>
 
 <tr class="speakerItem" border=0 >
-<td align=left>07 Sep 2018</td>
-<td align=left>Vivek Srikumar (The University of Utah)</td>
-<td align=left>
+<td>07 Sep 2018</td>
+<td>Vivek Srikumar (The University of Utah)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Sep_2018');">
 Natural Language Processing in the Wild: Opportunities & Challenges
 </a><br>
@@ -1215,9 +1215,9 @@ awards from NSF, BSF, Google and Intel.
 </span>
 </td></tr>
 <tr class="speakerItem" border=0 >
-<td align=left>24 Aug 2018</td>
-<td align=left>Mozhdeh Gheini, Xinyu Wang (ISI intern)</td>
-<td align=left>
+<td>24 Aug 2018</td>
+<td>Mozhdeh Gheini, Xinyu Wang (ISI intern)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Aug_2018');">
 T1. Constraints for Transfer Learning for Neural Machine Translation T2. Say Yes-and: Building a Specialized Corpus for Digital Improvised Comedy
 </a><br>
@@ -1237,9 +1237,9 @@ Bio: Xinyu is a 2018 summer intern working with Dr. Jonathan May and Dr. Nanyun 
 </font>
 </span>
 <tr class="speakerItem" border=0 >
-<td align=left>17 Aug 2018</td>
-<td align=left>Ronald Cardenas (ISI intern)</td>
-<td align=left>
+<td>17 Aug 2018</td>
+<td>Ronald Cardenas (ISI intern)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Aug_2018');">
 Decipherment for Universal Language Tools: a case study for Unsupervised Part of Speech Induction
 </a><br>
@@ -1264,9 +1264,9 @@ At ISI, he works with Jonatan May on developing universal language tools.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Aug 2018</td>
-<td align=left>James Mullenbach (ISI intern)</td>
-<td align=left>
+<td>10 Aug 2018</td>
+<td>James Mullenbach (ISI intern)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Aug_2018');">
 Reasoning about objects, their components, and their descriptors
 </a><br>
@@ -1281,9 +1281,9 @@ Bio: James is a Master’s Student in Computer Science at the Georgia Institute 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Jul 2018</td>
-<td align=left>Matt Gardner (AI2)</td>
-<td align=left>
+<td>27 Jul 2018</td>
+<td>Matt Gardner (AI2)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Jul_2018');">
 A Tale of Two Question Answering Systems
 </a><br>
@@ -1298,9 +1298,9 @@ Bio: Matt Gardner is a research scientist at the Allen Institute for Artificial 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Jul 2018</td>
-<td align=left>Wei-Lun (Harry) Chao (USC --> OSU)</td>
-<td align=left>
+<td>20 Jul 2018</td>
+<td>Wei-Lun (Harry) Chao (USC --> OSU)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Jul_2018');">
 Visual Question Answering: the Good, the Bad, and the Ugly
 </a><br>
@@ -1319,9 +1319,9 @@ Bio: Wei-Lun (Harry) Chao is a Computer Science PhD candidate at University of S
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Jun 2018</td>
-<td align=left>Rui Yan (Peking University)</td>
-<td align=left>
+<td>22 Jun 2018</td>
+<td>Rui Yan (Peking University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Jun_2018');">
 Recent Advances and Challenges on Human-Computer Conversational Systems
 </a><br>
@@ -1336,9 +1336,9 @@ Bio: Dr. Rui Yan is an assistant professor at Peking University, an adjunct prof
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 May 2018</td>
-<td align=left>Yulia Tsvetkov (CMU)</td>
-<td align=left>
+<td>11 May 2018</td>
+<td>Yulia Tsvetkov (CMU)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_May_2018');">
 Towards Flexible but Controllable Language Generation
 </a><br>
@@ -1353,9 +1353,9 @@ Bio: Yulia Tsvetkov is an assistant professor in the Language Technologies Insti
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>04 May 2018</td>
-<td align=left>Marjan Ghazvininejad (ISI)</td>
-<td align=left>
+<td>04 May 2018</td>
+<td>Marjan Ghazvininejad (ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_May_2018');">
 Neural Creative Language Generation (PhD Defense Practice Talk)
 </a><br>
@@ -1374,9 +1374,9 @@ Bio: Marjan Ghazvininejad is a Ph.D. student at ISI working with Professor Kevin
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Apr 2018</td>
-<td align=left>Jay Pujara (ISI)</td>
-<td align=left>
+<td>27 Apr 2018</td>
+<td>Jay Pujara (ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Apr_2018');">
 Extracting and Aligning Quantitative Data with Text
 </a><br>
@@ -1391,9 +1391,9 @@ Bio: Jay Pujara is a research scientist at the University of Southern California
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Apr 2018</td>
-<td align=left>Mark Yatskar (AI2)</td>
-<td align=left>
+<td>20 Apr 2018</td>
+<td>Mark Yatskar (AI2)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Apr_2018');">
 Language as a Scaffold for Visual Recognition
 </a><br>
@@ -1408,9 +1408,9 @@ Bio: Mark Yatskar is a post-doc at the Allen Institute for Artificial Intelligen
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>13 Apr 2018</td>
-<td align=left>Yuanhang Su (USC)</td>
-<td align=left>
+<td>13 Apr 2018</td>
+<td>Yuanhang Su (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Apr_2018');">
 Finding memory in time
 </a><br>
@@ -1429,9 +1429,9 @@ Bio: Yuanhang Su received the dual B.S. degree in Electrical Engineering & Autom
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Mar 2018</td>
-<td align=left>Mohit Iyyer (AI2, UMass Amherst)</td>
-<td align=left>
+<td>30 Mar 2018</td>
+<td>Mohit Iyyer (AI2, UMass Amherst)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Mar_2018');">
 Generating Adversarial Examples with Syntactically Controlled Paraphrase Networks
 </a><br>
@@ -1449,9 +1449,9 @@ Bio: Mohit Iyyer will be joining UMass Amherst as an assistant professor in Fall
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Feb 2018</td>
-<td align=left>Miriam Posner, Dave Shepard, and Andrew Wallace (UCLA)</td>
-<td align=left>
+<td>23 Feb 2018</td>
+<td>Miriam Posner, Dave Shepard, and Andrew Wallace (UCLA)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Feb_2018');">
 Digital Humanities: Lots of Text-Based Corpora, Lots of Questions
 </a><br>
@@ -1470,9 +1470,9 @@ Bio: Andrew Wallace is a software developer in the UCLA digital library. He rece
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Feb 2018</td>
-<td align=left>Nima Pourdamghani(USC/ISI)</td>
-<td align=left>
+<td>12 Feb 2018</td>
+<td>Nima Pourdamghani(USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Feb_2018');">
 Non-traditional resources and improved tools for low-resource machine translation
 </a><br>
@@ -1487,9 +1487,9 @@ Bio: Nima Pourdamghani is a phd student at USC/ISI working with professor Kevin 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Feb 2018</td>
-<td align=left>Hongning Wang (University of Virginia)</td>
-<td align=left>
+<td>09 Feb 2018</td>
+<td>Hongning Wang (University of Virginia)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Feb_2018');">
 Contextual Bandits in a Collaborative Environment
 </a><br>
@@ -1526,9 +1526,9 @@ Enhancement Award.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Feb 2018</td>
-<td align=left>Manuel Ciosici(Aarhus University, Denmark)</td>
-<td align=left>
+<td>08 Feb 2018</td>
+<td>Manuel Ciosici(Aarhus University, Denmark)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Feb_2018');">
 Abbreviation Disambiguation and NLP Deployment in Industrial Settings
 </a><br>
@@ -1544,9 +1544,9 @@ Bio: Manuel is a 3rd year PhD student at Aarhus University in Denmark. His PhD i
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Jan 2018</td>
-<td align=left>Ashish Vaswani, Jakob Uszkoreit, and Niki Parmar  (Google Brain)</td>
-<td align=left>
+<td>19 Jan 2018</td>
+<td>Ashish Vaswani, Jakob Uszkoreit, and Niki Parmar  (Google Brain)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Jan_2018');">
 Attention Is All You Need
 </a><br>
@@ -1565,9 +1565,9 @@ Bio: Niki Parmar is currently a Research Engineer in Google Brain, where she wor
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Dec 2017</td>
-<td align=left>Nasrin Mostafazadeh (BenevolentAI lab)</td>
-<td align=left>
+<td>08 Dec 2017</td>
+<td>Nasrin Mostafazadeh (BenevolentAI lab)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Dec_2017');">
 [Canceled] Language Comprehension & Language Generation in Eventful Contexts
 </a><br>
@@ -1582,9 +1582,9 @@ Bio: Nasrin Mostafazadeh is a senior research scientist at BenevolentAI labs. Sh
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Nov 2017</td>
-<td align=left>Margaret Mitchell (Google)</td>
-<td align=left>
+<td>20 Nov 2017</td>
+<td>Margaret Mitchell (Google)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Nov_2017');">
 Algorithmic Bias in Artificial Intelligence: The Seen and Unseen Factors Influencing Machine Perception of Images and Language
 </a><br>
@@ -1599,9 +1599,9 @@ Bio: Margaret Mitchell is a Senior Research Scientist in Google's Research & Mac
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Nov 2017</td>
-<td align=left>Jonathan Gordon (USC/ISI)</td>
-<td align=left>
+<td>17 Nov 2017</td>
+<td>Jonathan Gordon (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Nov_2017');">
 Learning and Reading
 </a><br>
@@ -1617,9 +1617,9 @@ Bio: Jonathan Gordon is a postdoctoral researcher at the USC Information Science
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Nov 2017</td>
-<td align=left>Anssi Yli-Jyrä</td>
-<td align=left>
+<td>10 Nov 2017</td>
+<td>Anssi Yli-Jyrä</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Nov_2017');">
 On Real-Time Graph Transducers
 </a><br>
@@ -1662,9 +1662,9 @@ flow in agile programming and simultaneous translation.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Nov 2017</td>
-<td align=left>Kai-Wei Chang (UCLA)</td>
-<td align=left>
+<td>03 Nov 2017</td>
+<td>Kai-Wei Chang (UCLA)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Nov_2017');">
 Structured Predictions: Practical Advancements and Applications in Natural Language Processing
 </a><br>
@@ -1699,9 +1699,9 @@ Best Paper Award (2010), and the Yahoo! Key Scientific Challenges Award
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>13 Oct 2017</td>
-<td align=left>Yangfeng Ji (University of Washington)</td>
-<td align=left>
+<td>13 Oct 2017</td>
+<td>Yangfeng Ji (University of Washington)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Oct_2017');">
 Context is Everything: From language modeling to language generation
 </a><br>
@@ -1717,9 +1717,9 @@ Bio: Yangfeng Ji is a postdoc researcher at University of Washington working wit
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Sep 2017</td>
-<td align=left>Leon Cheung, Nelson Liu (ISI Intern)</td>
-<td align=left>
+<td>08 Sep 2017</td>
+<td>Leon Cheung, Nelson Liu (ISI Intern)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Sep_2017');">
 1)Improving Low Resource Neural Machine Translation 2)Language-Independent Translation of Out-of-Vocabulary Words
 </a><br>
@@ -1747,9 +1747,9 @@ Nelson Liu is an undergraduate at the University of Washington, where he works w
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>31 Aug 2017</td>
-<td align=left>Yining Chen,  Sasha Mayn (ISI Intern)</td>
-<td align=left>
+<td>31 Aug 2017</td>
+<td>Yining Chen,  Sasha Mayn (ISI Intern)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs31_Aug_2017');">
 THURSDAY TALK:  1)Recurrent Neural Networks as Weighted Language Recognizers 2)Gloss-to-English: Improving Low Resource Language Translation Using Alignment Tables
 </a><br>
@@ -1769,9 +1769,9 @@ Sasha Mayn is a summer intern at ISI’s Natural Language Group. She is particul
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 Aug 2017</td>
-<td align=left>Marjan Ghazvininejad (USC/ISI)</td>
-<td align=left>
+<td>18 Aug 2017</td>
+<td>Marjan Ghazvininejad (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Aug_2017');">
 Neural Creative Language Generation
 </a><br>
@@ -1791,9 +1791,9 @@ Bio: Marjan Ghazvininejad is a PhD student at ISI working  with Professor Kevin 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Aug 2017</td>
-<td align=left>Nima Pourdamghani (USC/ISI)</td>
-<td align=left>
+<td>11 Aug 2017</td>
+<td>Nima Pourdamghani (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Aug_2017');">
 Improving machine translation from low resource languages
 </a><br>
@@ -1808,9 +1808,9 @@ Bio: Nima Pourdamghani is a fourth year Ph.D. student at ISI. He works with Prof
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>21 Jul 2017</td>
-<td align=left>Xing Shi (USC/ISI)</td>
-<td align=left>
+<td>21 Jul 2017</td>
+<td>Xing Shi (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_Jul_2017');">
 Neural Sequence Models: Interpretation and Augmentation
 </a><br>
@@ -1834,9 +1834,9 @@ Bio: Xing Shi is a PhD student at ISI working with Prof. Kevin Knight.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Jul 2017</td>
-<td align=left>Sorcha Gilroy (University of Edinburgh)</td>
-<td align=left>
+<td>14 Jul 2017</td>
+<td>Sorcha Gilroy (University of Edinburgh)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Jul_2017');">
 Parsing Graphs with Regular Graph Grammars
 </a><br>
@@ -1853,9 +1853,9 @@ Live here: http://webcastermshd.isi.edu/Mediasite/Play/c523b7ef95b443e8b29cfac30
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Jul 2017</td>
-<td align=left>Amir Hossein Yazdavar (Wright state University)</td>
-<td align=left>
+<td>07 Jul 2017</td>
+<td>Amir Hossein Yazdavar (Wright state University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Jul_2017');">
 Semi-Supervised Approach to Monitoring Clinical Depressive Symptoms in Social Media
 </a><br>
@@ -1871,9 +1871,9 @@ Bio: Amir is a 2nd year Ph.D. Researcher at Kno.e.sis Center Wright State Univer
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Jun 2017</td>
-<td align=left>Mayank Kejriwal (ISI)</td>
-<td align=left>
+<td>16 Jun 2017</td>
+<td>Mayank Kejriwal (ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Jun_2017');">
 From Noisy Information Extraction to Rich Information Retrieval in Unusual Domains
 </a><br>
@@ -1888,9 +1888,9 @@ Bio: Mayank Kejriwal is a computer scientist in the Information integration grou
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Jun 2017</td>
-<td align=left>Benjamin Girault (USC)</td>
-<td align=left>
+<td>09 Jun 2017</td>
+<td>Benjamin Girault (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Jun_2017');">
 Introduction to Graph Signal Processing: Tools for Harmonic Analysis on Irregular Structures.
 </a><br>
@@ -1921,9 +1921,9 @@ behavior.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 May 2017</td>
-<td align=left>Yannis Konstas (UW)</td>
-<td align=left>
+<td>26 May 2017</td>
+<td>Yannis Konstas (UW)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_May_2017');">
 Building Adaptable and Scalable Natural Language Generation Systems
 </a><br>
@@ -1939,9 +1939,9 @@ He has received BSc in Computer Science from AUEB (Greece) in 2007, and MSc in A
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 May 2017</td>
-<td align=left>Sayan Ghosh (USC/ICT)</td>
-<td align=left>
+<td>05 May 2017</td>
+<td>Sayan Ghosh (USC/ICT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_May_2017');">
 Representation Learning for Human Affect Recognition  (PhD Proposal Practice Talk)
 </a><br>
@@ -1956,9 +1956,9 @@ Sayan is a fourth-year PhD student at the University of Southern California, wor
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>28 Apr 2017</td>
-<td align=left>Andreas Stuhlmüller (Stanford)</td>
-<td align=left>
+<td>28 Apr 2017</td>
+<td>Andreas Stuhlmüller (Stanford)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Apr_2017');">
 Modeling Dialog using Probabilistic Programs
 </a><br>
@@ -1973,9 +1973,9 @@ Bio: Andreas Stuhlmüller is a post-doctoral researcher at Stanford, working in 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>21 Apr 2017</td>
-<td align=left>Kallirroi Georgila (USC/ICT)</td>
-<td align=left>
+<td>21 Apr 2017</td>
+<td>Kallirroi Georgila (USC/ICT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_Apr_2017');">
 Reinforcement learning of negotiation dialogue policies
 </a><br>
@@ -1991,9 +1991,9 @@ Kallirroi Georgila is a Research Assistant Professor at the Institute for Creati
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Apr 2017</td>
-<td align=left>Kevin Knight (USC/ISI)</td>
-<td align=left>
+<td>14 Apr 2017</td>
+<td>Kevin Knight (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Apr_2017');">
 Why is it harder to build a tic-tac-toe playing robot than a tic-tac-toe playing program?
 </a><br>
@@ -2008,9 +2008,9 @@ Kevin Knight is a Research Director at the Information Sciences Institute (ISI) 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Apr 2017</td>
-<td align=left>Reihane Boghrati (USC)</td>
-<td align=left>
+<td>07 Apr 2017</td>
+<td>Reihane Boghrati (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Apr_2017');">
 ConversAtion level Syntax SImilarity Metric (CASSIM)
 </a><br>
@@ -2026,9 +2026,9 @@ Bio: Reihane is a forth year Ph.D student at USC, working with Morteza Dehghani 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>31 Mar 2017</td>
-<td align=left>Danqi Chen (Stanford)</td>
-<td align=left>
+<td>31 Mar 2017</td>
+<td>Danqi Chen (Stanford)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs31_Mar_2017');">
 Towards the Machine Comprehension of Text
 </a><br>
@@ -2045,9 +2045,9 @@ Bio:Danqi Chen is a Ph.D. candidate in Computer Science at Stanford University, 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Mar 2017</td>
-<td align=left>Stephen Kobourov (Arizona)</td>
-<td align=left>
+<td>27 Mar 2017</td>
+<td>Stephen Kobourov (Arizona)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Mar_2017');">
 Analyzing the Language of Food on Social Media
 </a><br>
@@ -2086,9 +2086,9 @@ University in Prague.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Mar 2017</td>
-<td align=left>Sameer Singh (UCI)</td>
-<td align=left>
+<td>24 Mar 2017</td>
+<td>Sameer Singh (UCI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Mar_2017');">
 Intuitive Interactions with Black-box Machine Learning
 </a><br>
@@ -2103,9 +2103,9 @@ Bio: Sameer Singh is an Assistant Professor of Computer Science at the Universit
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Mar 2017</td>
-<td align=left>Kuan Liu (USC/ISI)</td>
-<td align=left>
+<td>17 Mar 2017</td>
+<td>Kuan Liu (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Mar_2017');">
 Heterogeneous Attribute Embedding and Sequence Modeling for Recommendation with Implicit Feedback
 </a><br>
@@ -2122,9 +2122,9 @@ Kuan Liu is a fifth year Ph.D. student at ISI/USC working with Prof. Prem Natara
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Mar 2017</td>
-<td align=left>He He (Stanford)</td>
-<td align=left>
+<td>10 Mar 2017</td>
+<td>He He (Stanford)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Mar_2017');">
 Learning agents that interact with humans
 </a><br>
@@ -2139,9 +2139,9 @@ He He is a post-doc at Stanford University, working with Percy Liang. Prior to S
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Mar 2017</td>
-<td align=left>Alessandro Achille (UCLA)</td>
-<td align=left>
+<td>07 Mar 2017</td>
+<td>Alessandro Achille (UCLA)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Mar_2017');">
 Information Dropout: Learning Optimal Representations Through Noisy Computation
 </a><br>
@@ -2158,9 +2158,9 @@ Bio: Alessandro Achille is a PhD student in Computer Science at UCLA, working wi
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Mar 2017</td>
-<td align=left>Lili Mou (Peking University)</td>
-<td align=left>
+<td>03 Mar 2017</td>
+<td>Lili Mou (Peking University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Mar_2017');">
 Coupling distributed and symbolic execution for natural language queries
 </a><br>
@@ -2175,9 +2175,9 @@ Lili Mou received his BS degree in computer science from Peking University in 20
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Feb 2017</td>
-<td align=left>Nanyun Peng (Johns Hopkins)</td>
-<td align=left>
+<td>23 Feb 2017</td>
+<td>Nanyun Peng (Johns Hopkins)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Feb_2017');">
 Representation Learning with Joint Models for Information Extraction
 </a><br>
@@ -2192,9 +2192,9 @@ Nanyun Peng is a PhD candidate in the Department of Computer Science at Johns Ho
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Feb 2017</td>
-<td align=left>Yonatan Bisk (USC/ISI)</td>
-<td align=left>
+<td>10 Feb 2017</td>
+<td>Yonatan Bisk (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Feb_2017');">
 The Limits of Unsupervised Syntax and the Importance of Grounding in Language Acquisition
 </a><br>
@@ -2211,9 +2211,9 @@ Yonatan Bisk’s research focuses on Natural Language Processing from naturally 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Feb 2017</td>
-<td align=left>Melissa Roemmele (UCS/ICT)</td>
-<td align=left>
+<td>03 Feb 2017</td>
+<td>Melissa Roemmele (UCS/ICT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Feb_2017');">
 Recurrent Neural Networks for Narrative Prediction
 </a><br>
@@ -2228,9 +2228,9 @@ Bio: I’m a PhD candidate at USC’s Institute for Creative Technologies advise
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Jan 2017</td>
-<td align=left>Jonathan May (USC/ISI)</td>
-<td align=left>
+<td>20 Jan 2017</td>
+<td>Jonathan May (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Jan_2017');">
 How I Learned to Stop Worrying and Love Evaluations (and Keep Worrying)
 </a><br>
@@ -2268,9 +2268,9 @@ processing, machine translation, and machine learning.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Jan 2017</td>
-<td align=left>David Chiang (Notre Dame)</td>
-<td align=left>
+<td>10 Jan 2017</td>
+<td>David Chiang (Notre Dame)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Jan_2017');">
 Speech-to-Translation Alignment for Documentation of Endangered Languages
 </a><br>
@@ -2286,9 +2286,9 @@ David Chiang (PhD, University of Pennsylvania, 2004) is an associate professor i
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 Jan 2017</td>
-<td align=left>Kenton Murray (Notre Dame)</td>
-<td align=left>
+<td>06 Jan 2017</td>
+<td>Kenton Murray (Notre Dame)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Jan_2017');">
 Learning Neural Network Structures for Natural Language
 </a><br>
@@ -2304,9 +2304,9 @@ Kenton Murray is a PhD student in the Natural Language Processing Lab at the Uni
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Dec 2016</td>
-<td align=left>Radu Soricut (Google)</td>
-<td align=left>
+<td>09 Dec 2016</td>
+<td>Radu Soricut (Google)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Dec_2016');">
 Multimodal Machine Comprehension: Tasks and Approaches
 </a><br>
@@ -2321,9 +2321,9 @@ Radu Soricut is a Staff Research Scientist in the Research and Machine Intellige
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>02 Dec 2016</td>
-<td align=left>Yejin Choi (UW)</td>
-<td align=left>
+<td>02 Dec 2016</td>
+<td>Yejin Choi (UW)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs02_Dec_2016');">
 Procedural Language and Knowledge
 </a><br>
@@ -2341,9 +2341,9 @@ Yejin Choi is an assistant professor at the Computer Science & Engineering Depar
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 Nov 2016</td>
-<td align=left>Ramesh R Manuvinakurike (USC/ICT)</td>
-<td align=left>
+<td>18 Nov 2016</td>
+<td>Ramesh R Manuvinakurike (USC/ICT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Nov_2016');">
 Incremental spoken dialogue system for reference resolution in images
 </a><br>
@@ -2375,9 +2375,9 @@ colleagues on agent Eve won 'Best paper' award at Sigdial 2015.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>28 Oct 2016</td>
-<td align=left>Yu Su (UCSB)</td>
-<td align=left>
+<td>28 Oct 2016</td>
+<td>Yu Su (UCSB)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Oct_2016');">
 Learning from Zero: Recent Advances in Bootstrapping Semantic Parsers using Crowdsourcing
 </a><br>
@@ -2392,9 +2392,9 @@ Yu Su is a fifth year PhD candidate in the Computer Science Department at UCSB, 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>21 Oct 2016</td>
-<td align=left>Marjan Ghazvininejad and Yonatan Bisk (USC/ISI)</td>
-<td align=left>
+<td>21 Oct 2016</td>
+<td>Marjan Ghazvininejad and Yonatan Bisk (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_Oct_2016');">
 EMNLP practice talk: 1) Generating Topical Poetry & 2) Unsupervised Neural Hidden Markov Models
 </a><br>
@@ -2411,9 +2411,9 @@ Yonatan Bisk is a Postdoc at ISI working with Prof. Daniel Marcu.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Oct 2016</td>
-<td align=left>Xing Shi (USC)</td>
-<td align=left>
+<td>14 Oct 2016</td>
+<td>Xing Shi (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Oct_2016');">
 EMNLP practice talk: Understanding Neural Machine Translation: length control and syntactic structure
 </a><br>
@@ -2428,9 +2428,9 @@ Bio: Xing Shi is a PhD student at ISI working with Prof. Kevin Knight.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Sep 2016</td>
-<td align=left>Andrea Gagliano (UC Berkeley)</td>
-<td align=left>
+<td>26 Sep 2016</td>
+<td>Andrea Gagliano (UC Berkeley)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Sep_2016');">
 Poetry at the Metaphorical Intersection
 </a><br>
@@ -2448,9 +2448,9 @@ Previously, Andrea received her BS in Mathematics and BA in Business Administrat
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Sep 2016</td>
-<td align=left>Burr Settles (Duolingo)</td>
-<td align=left>
+<td>19 Sep 2016</td>
+<td>Burr Settles (Duolingo)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Sep_2016');">
 Duolingo: Improving Language Learning and Assessment with Data
 </a><br>
@@ -2465,9 +2465,9 @@ Burr Settles is a scientist, engineer, and head of research at Duolingo: the mos
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Sep 2016</td>
-<td align=left>Zachary Chase Lipton (UCSD)</td>
-<td align=left>
+<td>16 Sep 2016</td>
+<td>Zachary Chase Lipton (UCSD)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Sep_2016');">
 Efficient Exploration for Dialog Policy Learning with BBQ Networks & Replay Buffer Spiking
 </a><br>
@@ -2483,9 +2483,9 @@ I am a graduate student in the Artificial Intelligence Group at the University o
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Sep 2016</td>
-<td align=left>Nada Aldarrab (USC)</td>
-<td align=left>
+<td>09 Sep 2016</td>
+<td>Nada Aldarrab (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Sep_2016');">
 How we Cracked the “Borg” Cipher + First Steps Towards Deciphering from Images
 </a><br>
@@ -2502,9 +2502,9 @@ Nada is a graduate student at USC, working on her thesis under the supervision o
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Aug 2016</td>
-<td align=left>Ke Tran (ISI Intern)</td>
-<td align=left>
+<td>26 Aug 2016</td>
+<td>Ke Tran (ISI Intern)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Aug_2016');">
 Unsupervised learning linguistic structures with deep neural networks
 </a><br>
@@ -2522,9 +2522,9 @@ Bio: Ke is a PhD candidate at University of Amsterdam. He is interning at ISI, w
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Aug 2016</td>
-<td align=left>Xiang Li (ISI Intern)</td>
-<td align=left>
+<td>19 Aug 2016</td>
+<td>Xiang Li (ISI Intern)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Aug_2016');">
 Event extraction from AMR representations
 </a><br>
@@ -2543,9 +2543,9 @@ Bio: Xiang Li(Lorraine) is a 2016 summer intern under the supervision of Prof Ke
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Aug 2016</td>
-<td align=left>Angeliki Lazaridou (University of Trento)</td>
-<td align=left>
+<td>03 Aug 2016</td>
+<td>Angeliki Lazaridou (University of Trento)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Aug_2016');">
 Can machines understand and generate stories?
 </a><br>
@@ -2564,9 +2564,9 @@ Webcast: http://webcastermshd.isi.edu/Mediasite/Play/6f51b67c1a304a0c83297dd2f9b
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 Jul 2016</td>
-<td align=left>Sebastian Mielke (ISI Intern)</td>
-<td align=left>
+<td>29 Jul 2016</td>
+<td>Sebastian Mielke (ISI Intern)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_Jul_2016');">
 Let's not be clever: simple pre- and post-processing tricks in machine translation
 </a><br>
@@ -2582,9 +2582,9 @@ Bio: Sebastian is currently pursuing a CS masters degree in Dresden, Germany wit
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Jul 2016</td>
-<td align=left>Stephen Rawls / Huaigu Cao (ISI)</td>
-<td align=left>
+<td>22 Jul 2016</td>
+<td>Stephen Rawls / Huaigu Cao (ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Jul_2016');">
 Title: LSTM's for OCR
 </a><br>
@@ -2601,9 +2601,9 @@ Huaigu Cao is a computer scientist at USC ISI. His interest of research includes
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Jul 2016</td>
-<td align=left>Xiang Li (ISI Intern)</td>
-<td align=left>
+<td>15 Jul 2016</td>
+<td>Xiang Li (ISI Intern)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Jul_2016');">
 Title: Commonsense Knowledge Base Completion
 </a><br>
@@ -2618,9 +2618,9 @@ Bio: Xiang Li is a 2016 summer intern under the supervision of Prof Kevin Knight
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Jul 2016</td>
-<td align=left>Aliya Deri (USC/ISI)</td>
-<td align=left>
+<td>08 Jul 2016</td>
+<td>Aliya Deri (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Jul_2016');">
 Title: Grapheme-to-Phoneme Models for (Almost) Any Language
 </a><br>
@@ -2635,9 +2635,9 @@ Bio: Aliya Deri is a PhD candidate in Computer Science at USC, advised by Profes
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Jun 2016</td>
-<td align=left>Yue Zhang (Singapore University of Technology and Design)</td>
-<td align=left>
+<td>23 Jun 2016</td>
+<td>Yue Zhang (Singapore University of Technology and Design)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Jun_2016');">
 Title: Neural network models for structured prediction
 </a><br>
@@ -2652,9 +2652,9 @@ Bio: Yue Zhang is currently an assistant professor at Singapore University of Te
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Jun 2016</td>
-<td align=left>Yoav Goldberg (Bar Ilan University)</td>
-<td align=left>
+<td>10 Jun 2016</td>
+<td>Yoav Goldberg (Bar Ilan University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Jun_2016');">
 Title: Doing stuff with LSTMs
 </a><br>
@@ -2672,9 +2672,9 @@ Live here: http://webcasterms1.isi.edu/mediasite/Viewer/?peid=3d82a6274df44b89a9
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Jun 2016</td>
-<td align=left>Ke Tran (University of Amsterdam)</td>
-<td align=left>
+<td>03 Jun 2016</td>
+<td>Ke Tran (University of Amsterdam)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Jun_2016');">
 Title: Memorization and Exploration in Recurrent Neural Language Models
 </a><br>
@@ -2691,9 +2691,9 @@ Bio: Ke is a third year PhD candidate at University of Amsterdam, advised by Chr
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 May 2016</td>
-<td align=left>Yonatan Bisk (ISI)</td>
-<td align=left>
+<td>20 May 2016</td>
+<td>Yonatan Bisk (ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_May_2016');">
 Title: Natural Language Communication with Computers
 </a><br>
@@ -2708,9 +2708,9 @@ Bio: Yonatan Bisk received his PhD from UIUC in 2015 under Professor Julia Hocke
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>13 May 2016</td>
-<td align=left>Angeliki Lazaridou (University of Trento)</td>
-<td align=left>
+<td>13 May 2016</td>
+<td>Angeliki Lazaridou (University of Trento)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_May_2016');">
 Towards Multi-Agent Communication-Based Language Learning
 </a><br>
@@ -2727,9 +2727,9 @@ Bio: Angeliki is a final year PhD student at the Center for Mind/Brain Sciences 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 May 2016</td>
-<td align=left>Gully Burns (ISI)</td>
-<td align=left>
+<td>06 May 2016</td>
+<td>Gully Burns (ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_May_2016');">
 Title: The TechKnAcq Project: Building Pedagogically Tuned Reading Lists from Technical Corpora
 </a><br>
@@ -2744,9 +2744,9 @@ Bio: Gully Burns' focus is to develop pragmatic knowledge engineering systems fo
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 Apr 2016</td>
-<td align=left>Zhengping Che (USC)</td>
-<td align=left>
+<td>29 Apr 2016</td>
+<td>Zhengping Che (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_Apr_2016');">
 Deep learning solutions to computational phenotyping in health care
 </a><br>
@@ -2761,9 +2761,9 @@ Bio: Zhengping Che is a third year PhD candidate in the Computer Science Departm
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Apr 2016</td>
-<td align=left>Morteza Dehghani (USC)</td>
-<td align=left>
+<td>15 Apr 2016</td>
+<td>Morteza Dehghani (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Apr_2016');">
 Decoding Neuro-Semantic Representation of Stories across Languages
 </a><br>
@@ -2778,9 +2778,9 @@ Bio: Morteza is an Assistant Professor of psychology, computer science and the B
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Apr 2016</td>
-<td align=left>Hao Wu (USC/ISI)</td>
-<td align=left>
+<td>08 Apr 2016</td>
+<td>Hao Wu (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Apr_2016');">
 Learning Distributed Representations from Network Data and Human Navigation
 </a><br>
@@ -2795,9 +2795,9 @@ Bio: Hao Wu is a PhD student at USC/ISI, advised by Kristina Lerman.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>01 Apr 2016</td>
-<td align=left>Julian McAuley (UCSD)</td>
-<td align=left>
+<td>01 Apr 2016</td>
+<td>Julian McAuley (UCSD)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs01_Apr_2016');">
 Harnessing reviews to build richer models of opinions
 </a><br>
@@ -2812,9 +2812,9 @@ Bio: Dr. McAuley has been an Assistant Professer in the Computer Science Departm
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Mar 2016</td>
-<td align=left>Jonathan Kummerfeld (Berkeley)</td>
-<td align=left>
+<td>25 Mar 2016</td>
+<td>Jonathan Kummerfeld (Berkeley)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Mar_2016');">
 Capturing More Linguistic Structure with Graph-Structured Parsing
 </a><br>
@@ -2830,9 +2830,9 @@ Bio: Jonathan is a Ph.D. candidate at UC Berkeley working on natural language pr
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Mar 2016</td>
-<td align=left>Sahil Garg (USC/ISI)</td>
-<td align=left>
+<td>11 Mar 2016</td>
+<td>Sahil Garg (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Mar_2016');">
 Extracting Biomolecular Interactions Using Semantic Parsing of Biomedical Text
 </a><br>
@@ -2847,9 +2847,9 @@ Bio: Sahil Garg is a PhD student, advised by Prof. Aram Galstyan, in computer sc
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>04 Mar 2016</td>
-<td align=left>David Jurgens (Stanford)</td>
-<td align=left>
+<td>04 Mar 2016</td>
+<td>David Jurgens (Stanford)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Mar_2016');">
 Linguistic Annotation Using Video Games with a Purpose
 </a><br>
@@ -2864,9 +2864,9 @@ Bio: David Jurgens is postdoctoral scholar in the department of Computer Science
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Feb 2016</td>
-<td align=left>Angel Chang (Stanford)</td>
-<td align=left>
+<td>26 Feb 2016</td>
+<td>Angel Chang (Stanford)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Feb_2016');">
 Interactive scene design using natural language
 </a><br>
@@ -2883,9 +2883,9 @@ Webcast link: http://webcasterms1.isi.edu/mediasite/Viewer/?peid=735bfbb4ba1a4b7
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Feb 2016</td>
-<td align=left>Ehsan Ebrahimzadeh (UCLA)</td>
-<td align=left>
+<td>19 Feb 2016</td>
+<td>Ehsan Ebrahimzadeh (UCLA)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Feb_2016');">
 Chasing vaccination in social media: Narrative discovery from an unstructured corpus of text
 </a><br>
@@ -2901,9 +2901,9 @@ Bio. Ehsan Ebrahimzadeh is a PhD candidate in the Electrical Engineering Departm
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Feb 2016</td>
-<td align=left>Thang Luong (Stanford)</td>
-<td align=left>
+<td>12 Feb 2016</td>
+<td>Thang Luong (Stanford)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Feb_2016');">
 Recent Advances in Neural Machine Translation
 </a><br>
@@ -2919,9 +2919,9 @@ Bio. Thang Luong is currently a 5th-year PhD student in the Stanford NLP group u
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Feb 2016</td>
-<td align=left>Linhong Zhu (ISI)</td>
-<td align=left>
+<td>05 Feb 2016</td>
+<td>Linhong Zhu (ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Feb_2016');">
 Deciphering Dark Web through k-partite Graph Summarization
 </a><br>
@@ -2936,9 +2936,9 @@ Bio: Linhong Zhu is currently a computer scientist at Information Sciences Insti
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 Jan 2016</td>
-<td align=left>Reid Swanson (USC/ICT)</td>
-<td align=left>
+<td>29 Jan 2016</td>
+<td>Reid Swanson (USC/ICT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_Jan_2016');">
 Leveraging the Social Web to Enable Open-Domain Interactive Storytelling
 </a><br>
@@ -2966,9 +2966,9 @@ In August of 2015 he rejoined the Institute of Technologies as a Research Scient
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Jan 2016</td>
-<td align=left>Jiwei Li (Stanford)</td>
-<td align=left>
+<td>22 Jan 2016</td>
+<td>Jiwei Li (Stanford)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Jan_2016');">
 Extracting User Information from Online Social Media
 </a><br>
@@ -2986,9 +2986,9 @@ Webcast link: http://webcasterms1.isi.edu/mediasite/Viewer/?peid=6b5348f2f8dc4a4
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Jan 2016</td>
-<td align=left>Gabor Angeli (Stanford)</td>
-<td align=left>
+<td>15 Jan 2016</td>
+<td>Gabor Angeli (Stanford)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Jan_2016');">
 Learning Open Domain Knowledge From Text
 </a><br>
@@ -3003,9 +3003,9 @@ Bio. Gabor is a new graduate from Chris Manning's natural language processing la
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>04 Dec 2015</td>
-<td align=left>Eli Pincus (USC / ICT)</td>
-<td align=left>
+<td>04 Dec 2015</td>
+<td>Eli Pincus (USC / ICT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Dec_2015');">
 What Can We Learn From An Agent that Plays Word-Guessing Games?
 </a><br>
@@ -3020,9 +3020,9 @@ Bio. Eli Pincus is a 3rd year USC PhD student and a graduate research assistant 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Nov 2015</td>
-<td align=left>Jia Xu (Chinese Academy of Sciences</td>
-<td align=left>
+<td>20 Nov 2015</td>
+<td>Jia Xu (Chinese Academy of Sciences</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Nov_2015');">
 Better Bootstraps, Better Translation.
 </a><br>
@@ -3039,9 +3039,9 @@ Bio:  Jia Xu is an associate professor at ICT/CAS, after being an assistant prof
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>13 Nov 2015</td>
-<td align=left>Satish Kumar Thittamaranahalli (USC)</td>
-<td align=left>
+<td>13 Nov 2015</td>
+<td>Satish Kumar Thittamaranahalli (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Nov_2015');">
 Notes on the Constraint Composite Graph
 </a><br>
@@ -3056,9 +3056,9 @@ Bio. Dr. Satish Kumar Thittamaranahalli (T. K. Satish Kumar) is a Research Scien
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 Nov 2015</td>
-<td align=left>Fabrizio Morbini (USC / ICT)</td>
-<td align=left>
+<td>06 Nov 2015</td>
+<td>Fabrizio Morbini (USC / ICT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Nov_2015');">
 Text generation from abductive interpretations
 </a><br>
@@ -3071,9 +3071,9 @@ Text generation from abductive interpretations
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Oct 2015</td>
-<td align=left>Farshad Kooti (USC / ISI)</td>
-<td align=left>
+<td>23 Oct 2015</td>
+<td>Farshad Kooti (USC / ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Oct_2015');">
 Fine-grained Temporal Patterns of Online Content Consumption
 </a><br>
@@ -3089,9 +3089,9 @@ Before joining USC, I got my master's from Max Planck Institute for Software Sys
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Oct 2015</td>
-<td align=left>Liron Cohen (USC)</td>
-<td align=left>
+<td>09 Oct 2015</td>
+<td>Liron Cohen (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Oct_2015');">
 Using Highways for Bounded-Suboptimal Multi-Agent Path Finding
 </a><br>
@@ -3108,9 +3108,9 @@ Bio: Liron received a B.S. in Computer Engineering in 2007 and an M.S. in Comput
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>02 Oct 2015</td>
-<td align=left>David Kale (USC / ISI)</td>
-<td align=left>
+<td>02 Oct 2015</td>
+<td>David Kale (USC / ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs02_Oct_2015');">
 Automated Deep Multi-Phenotyping with Noisy Labels
 </a><br>
@@ -3126,9 +3126,9 @@ BIO: Dave Kale is a fourth year PhD student in Computer Science and an Alfred E.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Sep 2015</td>
-<td align=left>Guido Zarrella (MITRE)</td>
-<td align=left>
+<td>11 Sep 2015</td>
+<td>Guido Zarrella (MITRE)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Sep_2015');">
 Neuromorphic Language Understanding
 </a><br>
@@ -3143,9 +3143,9 @@ Bio: Guido Zarrella is a Principal Artificial Intelligence Engineer at the MITRE
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>04 Sep 2015</td>
-<td align=left>Barret Zoph (USC/ISI)</td>
-<td align=left>
+<td>04 Sep 2015</td>
+<td>Barret Zoph (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Sep_2015');">
 How Much Information Does a Human Translator Add to the Original?
 </a><br>
@@ -3160,9 +3160,9 @@ pression: given a source text, how many bits of additional information are requi
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>28 Aug 2015</td>
-<td align=left>Sudha Rao (Maryland / ISI Intern)</td>
-<td align=left>
+<td>28 Aug 2015</td>
+<td>Sudha Rao (Maryland / ISI Intern)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Aug_2015');">
 Distant supervision for relation extraction using AMR
 </a><br>
@@ -3178,9 +3178,9 @@ Bio. I am a PhD student from University of Maryland, College Park working under 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Aug 2015</td>
-<td align=left>Wenduan Xu (Cambridge / ISI Intern)</td>
-<td align=left>
+<td>25 Aug 2015</td>
+<td>Wenduan Xu (Cambridge / ISI Intern)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Aug_2015');">
 Using HyTER networks for short-answer scoring
 </a><br>
@@ -3198,9 +3198,9 @@ Bio. Wenduan Xu is a graduate student in Cambridge advised by Stephen Clark, wor
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Aug 2015</td>
-<td align=left>Qing Dou (USC / ISI)</td>
-<td align=left>
+<td>14 Aug 2015</td>
+<td>Qing Dou (USC / ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Aug_2015');">
 Beyond Parallel Data - A Decipherment Approach for Better Quality Machine Translation
 </a><br>
@@ -3251,9 +3251,9 @@ research in industrial settings to solve exciting large scale problems.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Aug 2015</td>
-<td align=left>Marius Pasca (Google)</td>
-<td align=left>
+<td>07 Aug 2015</td>
+<td>Marius Pasca (Google)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Aug_2015');">
 Understanding the World's Compositional Concepts
 </a><br>
@@ -3283,9 +3283,9 @@ its applications to Web search.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Jul 2015</td>
-<td align=left>Sudha Rao (Maryland / ISI Intern)</td>
-<td align=left>
+<td>24 Jul 2015</td>
+<td>Sudha Rao (Maryland / ISI Intern)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Jul_2015');">
 Dialogue focus tracking for zero pronoun resolution
 </a><br>
@@ -3301,9 +3301,9 @@ Bio. I am a PhD student from University of Maryland, College Park working under 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Jul 2015</td>
-<td align=left>Wenduan Xu (Cambridge / ISI Intern)</td>
-<td align=left>
+<td>17 Jul 2015</td>
+<td>Wenduan Xu (Cambridge / ISI Intern)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Jul_2015');">
 Shift-Reduce CCG Parsing with a Dependency Model
 </a><br>
@@ -3330,9 +3330,9 @@ working on CCG parsing.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Jul 2015</td>
-<td align=left>Deniz Yuret (Koç University / ISI Visitor)</td>
-<td align=left>
+<td>10 Jul 2015</td>
+<td>Deniz Yuret (Koç University / ISI Visitor)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Jul_2015');">
 Parsing with word vectors
 </a><br>
@@ -3348,9 +3348,9 @@ Bio. Deniz Yuret is an associate professor of Computer Engineering at Koç Unive
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Jun 2015</td>
-<td align=left>Vivi Nastase (FBK / ISI Visitor)</td>
-<td align=left>
+<td>26 Jun 2015</td>
+<td>Vivi Nastase (FBK / ISI Visitor)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Jun_2015');">
 Metonymy resolution with multi-faceted knowledge from Wikipedia
 </a><br>
@@ -3369,9 +3369,9 @@ from the University of Ottawa, Canada, and has previously worked at the Heidelbe
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Jun 2015</td>
-<td align=left>Sravana Reddy (Dartmouth / ISI Visitor)</td>
-<td align=left>
+<td>23 Jun 2015</td>
+<td>Sravana Reddy (Dartmouth / ISI Visitor)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Jun_2015');">
 Automated tools for analyzing sociophonetic variation
 </a><br>
@@ -3385,9 +3385,9 @@ I will present ongoing work on an application that allows sociophoneticians to i
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Jun 2015</td>
-<td align=left>Yan Liu (USC/MELADY)</td>
-<td align=left>
+<td>12 Jun 2015</td>
+<td>Yan Liu (USC/MELADY)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Jun_2015');">
 Group Anomaly Detection in Social Media Analysis
 </a><br>
@@ -3402,9 +3402,9 @@ Bio: Yan Liu is an assistant professor in Computer Science Department at Univers
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 May 2015</td>
-<td align=left>Aliya Deri (USC/ISI)</td>
-<td align=left>
+<td>29 May 2015</td>
+<td>Aliya Deri (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_May_2015');">
 How to Make a Frenemy: Multitape FSTs for Portmanteau Generation
 </a><br>
@@ -3420,9 +3420,9 @@ Aliya Deri is a PhD candidate at USC/ISI.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 May 2015</td>
-<td align=left>Marjan Ghazvininejad (USC/ISI)</td>
-<td align=left>
+<td>22 May 2015</td>
+<td>Marjan Ghazvininejad (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_May_2015');">
 How to Memorize a Random 60-Bit String
 </a><br>
@@ -3438,9 +3438,9 @@ Bio: Marjan Ghazvininejad is a second year PhD student in Computer Science at Un
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 May 2015</td>
-<td align=left>Dehua Cheng (USC/Melady)</td>
-<td align=left>
+<td>15 May 2015</td>
+<td>Dehua Cheng (USC/Melady)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_May_2015');">
 Exploring LDA: Parallel Inference and Model Selection
 </a><br>
@@ -3456,9 +3456,9 @@ Bio: Dehua Cheng is a third year Ph.D. student in the CS department at USC, advi
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Apr 2015</td>
-<td align=left>David Kauchak (Pomona )</td>
-<td align=left>
+<td>24 Apr 2015</td>
+<td>David Kauchak (Pomona )</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Apr_2015');">
 Learning To Simplify Text One Sentence at a Time
 </a><br>
@@ -3475,9 +3475,9 @@ Bio: David Kauchak is currently an assistant professor in the Computer Science D
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Apr 2015</td>
-<td align=left>Longhua Qian (Soochow / ISI)</td>
-<td align=left>
+<td>17 Apr 2015</td>
+<td>Longhua Qian (Soochow / ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Apr_2015');">
 Exploiting Bilingual Corpora for Relation Extraction
 </a><br>
@@ -3492,9 +3492,9 @@ Bio: Longhua Qian is a visiting researcher from the School of Computer Science a
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Apr 2015</td>
-<td align=left>Atefeh Farzindar (NLP Technologies)</td>
-<td align=left>
+<td>10 Apr 2015</td>
+<td>Atefeh Farzindar (NLP Technologies)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Apr_2015');">
 TRANSLI, NLP-based social media analytics and monitoring
 </a><br>
@@ -3521,9 +3521,9 @@ In 2013, Dr. Farzindar won  Femmessor-Montréal’s contest,  Succeeding with a 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Apr 2015</td>
-<td align=left>Don Metzler (Google)</td>
-<td align=left>
+<td>03 Apr 2015</td>
+<td>Don Metzler (Google)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Apr_2015');">
 Keeping Topic Models Fresh: Technical and Practical Challenges
 </a><br>
@@ -3539,9 +3539,9 @@ Bio: Donald Metzler is a Staff Software Engineer at Google Inc. Prior to that, h
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Mar 2015</td>
-<td align=left>Tomer Levinboim (Notre Dame)</td>
-<td align=left>
+<td>20 Mar 2015</td>
+<td>Tomer Levinboim (Notre Dame)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Mar_2015');">
 Multitask Word Alignment with Random-Walk Regularizers
 </a><br>
@@ -3566,9 +3566,9 @@ He is generously hosted by Kevin Knight at USC/ISI.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 Mar 2015</td>
-<td align=left>Neda Jahanshad (USC/ISI)</td>
-<td align=left>
+<td>06 Mar 2015</td>
+<td>Neda Jahanshad (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Mar_2015');">
 Multi-site genetic analysis of the brain’s white matter: ENIGMA-DTI
 </a><br>
@@ -3585,9 +3585,9 @@ Bio. Neda Jahanshad is an assistant professor of Neurology at USC in the Imaging
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Feb 2015</td>
-<td align=left>Jonathan May (USC/ISI)</td>
-<td align=left>
+<td>20 Feb 2015</td>
+<td>Jonathan May (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Feb_2015');">
 Semantic Parsing as Machine Translation
 </a><br>
@@ -3604,9 +3604,9 @@ Bio: Jonathan May is a computer scientist at USC-ISI, where he also received a P
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>13 Feb 2015</td>
-<td align=left>Dogan Can (USC/SAIL)</td>
-<td align=left>
+<td>13 Feb 2015</td>
+<td>Dogan Can (USC/SAIL)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Feb_2015');">
 Efficient Computation of Substring Posteriors from Lattices using Weighted Factor Automata
 </a><br>
@@ -3621,9 +3621,9 @@ Bio: Dogan Can is a fifth year Ph.D. student at USC SAIL (Signal Analysis and In
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Jan 2015</td>
-<td align=left>Derrek Hibar (USC/INI)</td>
-<td align=left>
+<td>30 Jan 2015</td>
+<td>Derrek Hibar (USC/INI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Jan_2015');">
 Neuroimaging Genetics in the ENIGMA Consortium
 </a><br>
@@ -3639,9 +3639,9 @@ Bio: Derrek Hibar is an assistant professor in the Department of Neurology in th
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Jan 2015</td>
-<td align=left>Devin Griffiths (USC/Dornsife)</td>
-<td align=left>
+<td>23 Jan 2015</td>
+<td>Devin Griffiths (USC/Dornsife)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Jan_2015');">
 Understanding Analogies: Theory and Method
 </a><br>
@@ -3658,9 +3658,9 @@ Webcast Link: http://webcasterms1.isi.edu/mediasite/Viewer/?peid=56439af4a5cb41f
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Jan 2015</td>
-<td align=left>Jonathan Gordon (USC/ISI)</td>
-<td align=left>
+<td>16 Jan 2015</td>
+<td>Jonathan Gordon (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Jan_2015');">
 Towards the Interpretation of Metaphoric Language
 </a><br>
@@ -3676,9 +3676,9 @@ Jonathan Gordon is a postdoctoral researcher at the USC Information Sciences Ins
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Dec 2014</td>
-<td align=left>Kingson Man (USC/BCI)</td>
-<td align=left>
+<td>05 Dec 2014</td>
+<td>Kingson Man (USC/BCI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Dec_2014');">
 Multisensory integration in a neural framework for concepts
 </a><br>
@@ -3698,9 +3698,9 @@ I am a research associate at the Brain and Creativity Institute of the Universit
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Nov 2014</td>
-<td align=left>Robert Munro (Idibon)</td>
-<td align=left>
+<td>20 Nov 2014</td>
+<td>Robert Munro (Idibon)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Nov_2014');">
 Technologies for every language: how machine learning can reach everyone in the world
 </a><br>
@@ -3717,9 +3717,9 @@ Robert Munro is the CEO of Idibon, a company with the objective of providing lan
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Nov 2014</td>
-<td align=left>Gully Burns (USC/ISI)</td>
-<td align=left>
+<td>14 Nov 2014</td>
+<td>Gully Burns (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Nov_2014');">
 Machine Reading of the Biomedical Literature: It's All About Data
 </a><br>
@@ -3734,9 +3734,9 @@ Bio: Gully Burns develops pragmatic biomedical knowledge engineering systems for
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Nov 2014</td>
-<td align=left>Nima Pourdamghani (USC/ISI)</td>
-<td align=left>
+<td>07 Nov 2014</td>
+<td>Nima Pourdamghani (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Nov_2014');">
 Aligning English Strings with Abstract Meaning Representation Graphs
 </a><br>
@@ -3752,9 +3752,9 @@ Nima Pourdamghani is a second year Ph.D. student at ISI. He works with Professor
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>31 Oct 2014</td>
-<td align=left>Nikolaos Malandrakis (USC/SAIL)</td>
-<td align=left>
+<td>31 Oct 2014</td>
+<td>Nikolaos Malandrakis (USC/SAIL)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs31_Oct_2014');">
 Generating Psycholinguistic Norms
 </a><br>
@@ -3769,9 +3769,9 @@ Bio: Nikolaos Malandrakis is a third year PhD student at the USC Computer Scienc
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Oct 2014</td>
-<td align=left>Qing Dou (USC/ISI)</td>
-<td align=left>
+<td>17 Oct 2014</td>
+<td>Qing Dou (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Oct_2014');">
 Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation [EMNLP Practice Talk]
 </a><br>
@@ -3786,9 +3786,9 @@ Qing Dou is a fifth year Ph.D. student at ISI. He works with Professor Kevin Kni
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Oct 2014</td>
-<td align=left>Boris Gutman (USC/ISI)</td>
-<td align=left>
+<td>10 Oct 2014</td>
+<td>Boris Gutman (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Oct_2014');">
 Interplay between Continuous and Discrete Aspects of Brain Image Analysis
 </a><br>
@@ -3807,9 +3807,9 @@ Bio: Boris Gutman received his B.S. in Applied Mathematics and PhD in Biomedical
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Oct 2014</td>
-<td align=left>Kevin Knight (USC/ISI)</td>
-<td align=left>
+<td>03 Oct 2014</td>
+<td>Kevin Knight (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Oct_2014');">
 Getting Good at Research
 </a><br>
@@ -3824,9 +3824,9 @@ Bio: Kevin Knight is the director of the ISI Natural Language group, a professor
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Sep 2014</td>
-<td align=left>Bill MacCartney (Google/Stanford)</td>
-<td align=left>
+<td>26 Sep 2014</td>
+<td>Bill MacCartney (Google/Stanford)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Sep_2014');">
 Semantic Parsing at Google
 </a><br>
@@ -3841,9 +3841,9 @@ Bio: Bill MacCartney is a Senior Research Scientist at Google, working primarily
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Sep 2014</td>
-<td align=left>Markus Dreyer (SDL)</td>
-<td align=left>
+<td>19 Sep 2014</td>
+<td>Markus Dreyer (SDL)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Sep_2014');">
 An open-source toolkit for the representation, manipulation and optimization of weighted hypergraphs
 </a><br>
@@ -3875,9 +3875,9 @@ Jason Eisner. For more information, see http://goo.gl/d6mHUi.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Sep 2014</td>
-<td align=left>Eunsol Choi (University of Washington) and Matic Horvat (Cambridge)</td>
-<td align=left>
+<td>11 Sep 2014</td>
+<td>Eunsol Choi (University of Washington) and Matic Horvat (Cambridge)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Sep_2014');">
 Towards automatic extraction of experimental data from scientific papers [Intern final talk]
 </a><br>
@@ -3895,9 +3895,9 @@ Matic Horvat is a PhD student at University of Cambridge researching integration
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Sep 2014</td>
-<td align=left>Claire Bonial (University of Colorado, Boulder)</td>
-<td align=left>
+<td>05 Sep 2014</td>
+<td>Claire Bonial (University of Colorado, Boulder)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Sep_2014');">
 Take a look at this!  Form, Function and Productivity of English Light Verb Constructions
 </a><br>
@@ -3916,9 +3916,9 @@ http://webcasterms1.isi.edu/mediasite/Viewer/?peid=c389f52cfb16424facb6386ff180d
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 Aug 2014</td>
-<td align=left>Allen Schmaltz (Harvard) and Julian Schamper (RWTH Aachen)</td>
-<td align=left>
+<td>29 Aug 2014</td>
+<td>Allen Schmaltz (Harvard) and Julian Schamper (RWTH Aachen)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_Aug_2014');">
 Toward Semantic Parsing [Intern final talk]
 </a><br>
@@ -3940,9 +3940,9 @@ Julian Schamper studies computer science at RWTH Aachen University. He did his b
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Aug 2014</td>
-<td align=left>Allen Schmaltz (Harvard)</td>
-<td align=left>
+<td>22 Aug 2014</td>
+<td>Allen Schmaltz (Harvard)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Aug_2014');">
 Determinantal Point Processes for Human-Augmented Machine Translation [Intern talk]
 </a><br>
@@ -3961,9 +3961,9 @@ Bio: Allen Schmaltz is a Ph.D. student in Computer Science in the School of Engi
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Aug 2014</td>
-<td align=left>Tim Schlippe (Karlsruhe Institute of Technology)</td>
-<td align=left>
+<td>08 Aug 2014</td>
+<td>Tim Schlippe (Karlsruhe Institute of Technology)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Aug_2014');">
 Rapid Generation of Pronunciation Dictionaries for New Domains and Languages
 </a><br>
@@ -3985,9 +3985,9 @@ Multilingual speech recognition with a focus on rapid adaptation of speech recog
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>31 Jul 2014</td>
-<td align=left>Ali Borji (USC)</td>
-<td align=left>
+<td>31 Jul 2014</td>
+<td>Ali Borji (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs31_Jul_2014');">
 Computational Modeling of Bottom-up and Top-down Visual Attention
 </a><br>
@@ -4008,9 +4008,9 @@ His research interests include computer vision, machine learning, and neuroscien
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Jul 2014</td>
-<td align=left>Daniel Lamprecht (TU Graz)</td>
-<td align=left>
+<td>25 Jul 2014</td>
+<td>Daniel Lamprecht (TU Graz)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Jul_2014');">
 Navigation Dynamics in Networks
 </a><br>
@@ -4025,9 +4025,9 @@ Bio: Daniel Lamprecht is a PhD student at Graz University of Technology and is i
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 Jul 2014</td>
-<td align=left>Jonathan May (USC/ISI)</td>
-<td align=left>
+<td>18 Jul 2014</td>
+<td>Jonathan May (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Jul_2014');">
 An Arabizi-English Social Media Statistical Machine Translation System
 </a><br>
@@ -4045,9 +4045,9 @@ Jonathan May is a computer scientist at USC-ISI, where he also received a PhD in
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Jul 2014</td>
-<td align=left>Yang Feng (USC/ISI)</td>
-<td align=left>
+<td>11 Jul 2014</td>
+<td>Yang Feng (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Jul_2014');">
 Factored Markov Translation with Robust Modeling
 </a><br>
@@ -4062,9 +4062,9 @@ Bio: Yang Feng is a postdoctoral scholar in Kevin Knight's NLP group in USC/ISI.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>02 Jul 2014</td>
-<td align=left>Matic Horvat (Cambridge)</td>
-<td align=left>
+<td>02 Jul 2014</td>
+<td>Matic Horvat (Cambridge)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs02_Jul_2014');">
 A Graph-Based Approach to String Regeneration [Intern talk]
 </a><br>
@@ -4081,9 +4081,9 @@ Bio: I am a PhD student at University of Cambridge researching integration of se
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Jun 2014</td>
-<td align=left>Eunsol Choi (University of Washington)</td>
-<td align=left>
+<td>30 Jun 2014</td>
+<td>Eunsol Choi (University of Washington)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Jun_2014');">
 Open Domain Semantic Parser for QA / Information Extraction [Intern talk]
 </a><br>
@@ -4099,9 +4099,9 @@ Bio: Eunsol Choi is a Ph.D student at the University of Washington, advised by P
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Jun 2014</td>
-<td align=left>Dirk Hovy (University of Copenhagen)</td>
-<td align=left>
+<td>16 Jun 2014</td>
+<td>Dirk Hovy (University of Copenhagen)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Jun_2014');">
 Two ways to deal with annotation bias
 </a><br>
@@ -4121,9 +4121,9 @@ His other interests include cooking, cross-fit, and medieval art and literature.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Jun 2014</td>
-<td align=left>Julian Schamper (RWTH Aachen)</td>
-<td align=left>
+<td>11 Jun 2014</td>
+<td>Julian Schamper (RWTH Aachen)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Jun_2014');">
 Solving Homophonic Sustitution Ciphers [Intern talk]
 </a><br>
@@ -4140,9 +4140,9 @@ Julian Schamper studies computer science at RWTH Aachen University. He did its b
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 Jun 2014</td>
-<td align=left>Elnaz Nouri (USC/ICT)</td>
-<td align=left>
+<td>06 Jun 2014</td>
+<td>Elnaz Nouri (USC/ICT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Jun_2014');">
 Cultural Negotiating Agents
 </a><br>
@@ -4158,9 +4158,9 @@ Bio: Elnaz Nouri is a PhD student in the Natural Language group at USC's Institu
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 May 2014</td>
-<td align=left>Xing Shi (USC/ISI)</td>
-<td align=left>
+<td>23 May 2014</td>
+<td>Xing Shi (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_May_2014');">
 How to Speak a Language Without Knowing It
 </a><br>
@@ -4175,9 +4175,9 @@ Xing Shi is a PhD student at USC, advised by Professor Kevin Knight.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 May 2014</td>
-<td align=left>Hans Chalupsky (USC/ISI)</td>
-<td align=left>
+<td>16 May 2014</td>
+<td>Hans Chalupsky (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_May_2014');">
 Story-Level Inference to Improve Machine Reading
 </a><br>
@@ -4223,9 +4223,9 @@ detection and semantic interoperability.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 May 2014</td>
-<td align=left>Qing Dou (USC/ISI)</td>
-<td align=left>
+<td>14 May 2014</td>
+<td>Qing Dou (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_May_2014');">
 Beyond Parallel Data [Qualification practice talk]
 </a><br>
@@ -4247,9 +4247,9 @@ Qing Dou is a fourth year PhD student at USC/ISI, advised by Professor Kevin Kni
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 May 2014</td>
-<td align=left>Aram Galstyan (USC/ISI)</td>
-<td align=left>
+<td>09 May 2014</td>
+<td>Aram Galstyan (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_May_2014');">
 Deciphering Social Interactions from Text
 </a><br>
@@ -4271,9 +4271,9 @@ Aram Galstyan is a Project Leader at the USC Information Sciences Institute and 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Apr 2014</td>
-<td align=left>Hui Zhang (USC/ISI)</td>
-<td align=left>
+<td>25 Apr 2014</td>
+<td>Hui Zhang (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Apr_2014b');">
 [ACL2014 practice talk] Kneser-Ney Smoothing on Expected Counts
 </a><br>
@@ -4288,9 +4288,9 @@ Hui Zhang is a fourth year PhD student working with Professor David Chiang at th
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Apr 2014</td>
-<td align=left>Linhong Zhu (USC/ISI)</td>
-<td align=left>
+<td>25 Apr 2014</td>
+<td>Linhong Zhu (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Apr_2014');">
 Partitioning Networks with Node Attributes by Compressing Information Flow
 </a><br>
@@ -4308,9 +4308,9 @@ Linhong Zhu is currently a Postdoctoral  Research Associate at Information Scien
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Apr 2014</td>
-<td align=left>Derek Abbott (University of Adelaide)</td>
-<td align=left>
+<td>16 Apr 2014</td>
+<td>Derek Abbott (University of Adelaide)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Apr_2014');">
 The Mystery of the Tamam Shud Code
 </a><br>
@@ -4325,9 +4325,9 @@ Derek Abbott received a B.Sc. (Hons) in physics from Loughborough University, U.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Apr 2014</td>
-<td align=left>Farshad Kooti (USC/ISI)</td>
-<td align=left>
+<td>11 Apr 2014</td>
+<td>Farshad Kooti (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Apr_2014');">
 Network Weirdness: Exploring the Origins of Network Paradoxes
 </a><br>
@@ -4341,9 +4341,9 @@ Network Weirdness: Exploring the Origins of Network Paradoxes
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>28 Feb 2014</td>
-<td align=left>Kenji Sagae (USC/ICT)</td>
-<td align=left>
+<td>28 Feb 2014</td>
+<td>Kenji Sagae (USC/ICT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Feb_2014');">
 Dependency parsing with directed graph output
 </a><br>
@@ -4365,9 +4365,9 @@ Kenji Sagae is a Research Scientist in the Institute for Creative Technolgies at
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Feb 2014</td>
-<td align=left>Hal Daumé III (University of Maryland)</td>
-<td align=left>
+<td>14 Feb 2014</td>
+<td>Hal Daumé III (University of Maryland)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Feb_2014');">
 Predicting Linguistic Structures Accurately and Efficiently
 </a><br>
@@ -4384,9 +4384,9 @@ Hal's homepage: http://www.umiacs.umd.edu/~hal/
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Jan 2014</td>
-<td align=left>Mohsen Taheriyan (USC/ISI)</td>
-<td align=left>
+<td>17 Jan 2014</td>
+<td>Mohsen Taheriyan (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Jan_2014');">
 A Graph-based Approach to Learn Semantic Descriptions of Data Sources
 </a><br>
@@ -4401,9 +4401,9 @@ Mohsen's webpage: http://www-scf.usc.edu/~taheriya/
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 Dec 2013</td>
-<td align=left>Shiwali Mohan (University of Michigan)</td>
-<td align=left>
+<td>06 Dec 2013</td>
+<td>Shiwali Mohan (University of Michigan)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Dec_2013');">
 Learning Hierarchical Tasks from Situated Interactive Instruction
 </a><br>
@@ -4418,9 +4418,9 @@ Bio: Shiwali Mohan is a Ph.D. candidate in the department of Computer Science an
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Nov 2013</td>
-<td align=left>Vikram Ramanarayanan (USC)</td>
-<td align=left>
+<td>15 Nov 2013</td>
+<td>Vikram Ramanarayanan (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Nov_2013');">
 Data-Driven Techniques for Modeling Speech Motor Control
 </a><br>
@@ -4435,9 +4435,9 @@ We present a computational, data-driven approach to derive interpretable movemen
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Nov 2013</td>
-<td align=left>Giuseppe Carenini (University of British Columbia, Canada)</td>
-<td align=left>
+<td>08 Nov 2013</td>
+<td>Giuseppe Carenini (University of British Columbia, Canada)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Nov_2013');">
 Modeling Topics, Opinions and Discourse Structure in Asynchronous Conversations
 </a><br>
@@ -4454,9 +4454,9 @@ IBM CASCON Best Exhibit Award in 2007 and 2010 respectively.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>01 Nov 2013</td>
-<td align=left>Greg Ver Steeg (USC/ISI)</td>
-<td align=left>
+<td>01 Nov 2013</td>
+<td>Greg Ver Steeg (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs01_Nov_2013');">
 Coarse-graining Text
 </a><br>
@@ -4471,9 +4471,9 @@ Greg Ver Steeg is a research professor at ISI. His research explores practical m
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Oct 2013</td>
-<td align=left>Roy Schwartz (NLP Lab, Hebrew University in Jerusalem)</td>
-<td align=left>
+<td>25 Oct 2013</td>
+<td>Roy Schwartz (NLP Lab, Hebrew University in Jerusalem)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Oct_2013');">
 Semantic Representation using Flexible Patterns
 </a><br>
@@ -4487,9 +4487,9 @@ Semantic Representation using Flexible Patterns
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Oct 2013</td>
-<td align=left>Kuzman Ganchev (Google Research)</td>
-<td align=left>
+<td>24 Oct 2013</td>
+<td>Kuzman Ganchev (Google Research)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Oct_2013');">
 Cross lingual transfer and learning with side information
 </a><br>
@@ -4523,9 +4523,9 @@ York.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Oct 2013</td>
-<td align=left>Qing Dou (USC/ISI)</td>
-<td align=left>
+<td>16 Oct 2013</td>
+<td>Qing Dou (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Oct_2013b');">
 Dependency Based Decipherment for Resource-Limited Machine Translation (EMNLP2013 practice talk)
 </a><br>
@@ -4539,9 +4539,9 @@ Dependency Based Decipherment for Resource-Limited Machine Translation (EMNLP201
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Sep 2013</td>
-<td align=left>Andrew S. Gordon (USC/ICT)</td>
-<td align=left>
+<td>27 Sep 2013</td>
+<td>Andrew S. Gordon (USC/ICT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Sep_2013');">
 Heider-Simmel Interactive Theater
 </a><br>
@@ -4557,9 +4557,9 @@ Before coming to the talk, please sign up and play "Triangle Charades" at the fo
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Sep 2013</td>
-<td align=left>Yang Feng (USC/ISI)</td>
-<td align=left>
+<td>20 Sep 2013</td>
+<td>Yang Feng (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Sep_2013');">
 A Markov Model of Machine Translation using Non-parametric Bayesian Inference (ACL 2013)
 </a><br>
@@ -4575,9 +4575,9 @@ Yang Feng is a posdoc of the natural language group in USC/ISI. She got her ph.D
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>13 Sep 2013</td>
-<td align=left>Kevin Knight (USC/ISI)</td>
-<td align=left>
+<td>13 Sep 2013</td>
+<td>Kevin Knight (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Sep_2013');">
 Some Potential NLP Thesis Topics and Other Fun Research Projects
 </a><br>
@@ -4591,9 +4591,9 @@ Some Potential NLP Thesis Topics and Other Fun Research Projects
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 Sep 2013</td>
-<td align=left>Jeon-Hyung Kang (USC/ISI)</td>
-<td align=left>
+<td>06 Sep 2013</td>
+<td>Jeon-Hyung Kang (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Sep_2013');">
 LA-CTR: A Limited Attention Collaborative Topic Regression for Social Media
 </a><br>
@@ -4607,9 +4607,9 @@ LA-CTR: A Limited Attention Collaborative Topic Regression for Social Media
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Aug 2013</td>
-<td align=left>Tomer Levinboim (USC/ISI)</td>
-<td align=left>
+<td>30 Aug 2013</td>
+<td>Tomer Levinboim (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Aug_2013');">
 MKL and Low Rank Multiplicative Shaping
 </a><br>
@@ -4626,9 +4626,9 @@ Given time, I will present our own non-linear (yet still convex) MKL formulation
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Aug 2013</td>
-<td align=left>Jonathan May (SDL Research)</td>
-<td align=left>
+<td>23 Aug 2013</td>
+<td>Jonathan May (SDL Research)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Aug_2013');">
 Models of Translation Competitions (long paper at ACL2013)
 </a><br>
@@ -4642,9 +4642,9 @@ Models of Translation Competitions (long paper at ACL2013)
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Aug 2013</td>
-<td align=left>Gully Burns (USC/ISI)</td>
-<td align=left>
+<td>16 Aug 2013</td>
+<td>Gully Burns (USC/ISI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Aug_2013');">
 Bridging Between Bioinformatics and Natural Language Processing
 </a><br>
@@ -4660,9 +4660,9 @@ Students, colleagues! You are very welcome to the workshop: <a href=http://www.i
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Jul 2013</td>
-<td align=left>Fabienne Braune (University of Stuttgart)</td>
-<td align=left>
+<td>26 Jul 2013</td>
+<td>Fabienne Braune (University of Stuttgart)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Jul_2013');">
 Multi bottom-up tree transducers in statistical machine translation
 </a><br>
@@ -4677,9 +4677,9 @@ We then present a complete translation system integrating XMBOT. The two main co
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Jul 2013</td>
-<td align=left>Jacqueline Lee (MIT)</td>
-<td align=left>
+<td>19 Jul 2013</td>
+<td>Jacqueline Lee (MIT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Jul_2013');">
 Bayesian Approaches to Acoustic Model and Pronunciation Lexicon Discovery
 </a><br>
@@ -4694,9 +4694,9 @@ The creation of a pronunciation lexicon remains the most inefficient process in 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Jul 2013</td>
-<td align=left>Daniel Bauer (Columbia)</td>
-<td align=left>
+<td>12 Jul 2013</td>
+<td>Daniel Bauer (Columbia)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Jul_2013');">
 Understanding Descriptions of Visual Scenes Using Graph Grammars
 </a><br>
@@ -4716,9 +4716,9 @@ Daniel Bauer is a PhD candidate at Columbia University. His research interests i
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Jul 2013</td>
-<td align=left>Victor Chahuneau (CMU)</td>
-<td align=left>
+<td>10 Jul 2013</td>
+<td>Victor Chahuneau (CMU)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Jul_2013');">
 Translating into Morphologically Rich Languages with Synthetic Phrases
 </a><br>
@@ -4733,9 +4733,9 @@ We present a simple and effective approach that deals with the problem in two ph
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Jun 2013</td>
-<td align=left>Malte Nuhn (Aachen University, Germany)</td>
-<td align=left>
+<td>07 Jun 2013</td>
+<td>Malte Nuhn (Aachen University, Germany)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Jun_2013');">
 Is Decipherment Difficult?
 </a><br>
@@ -4758,9 +4758,9 @@ Having studied Physics and Computer Science at RWTH Aachen University, I'm curre
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Jun 2013</td>
-<td align=left>Dirk Hovy</td>
-<td align=left>
+<td>05 Jun 2013</td>
+<td>Dirk Hovy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Jun_2013');">
 Learning Whom to Trust with MACE(NAACL Practice Talk)
 </a><br>
@@ -4776,9 +4776,9 @@ Dirk Hovy is a recent PhD graduate from USC's Information Sciences Institute, wo
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 May 2013</td>
-<td align=left>Qing Dou</td>
-<td align=left>
+<td>17 May 2013</td>
+<td>Qing Dou</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_May_2013');">
 Deciphering Gigaword
 </a><br>
@@ -4791,9 +4791,9 @@ Deciphering Gigaword
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 May 2013</td>
-<td align=left>Dirk Hovy</td>
-<td align=left>
+<td>03 May 2013</td>
+<td>Dirk Hovy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_May_2013');">
 Learning Semantic Types and Relations from Text (Defense Practice Talk)
 </a><br>
@@ -4820,9 +4820,9 @@ Our work opens up interesting avenues for both the typing of existing large coll
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Apr 2013</td>
-<td align=left>Hui Zhang</td>
-<td align=left>
+<td>12 Apr 2013</td>
+<td>Hui Zhang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Apr_2013');">
 Beyond Left-to-Right: Multiple Decomposition Structures for SMT
 </a><br>
@@ -4835,9 +4835,9 @@ Beyond Left-to-Right: Multiple Decomposition Structures for SMT
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Apr 2013</td>
-<td align=left>Abe Kazemzadeh</td>
-<td align=left>
+<td>05 Apr 2013</td>
+<td>Abe Kazemzadeh</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Apr_2013');">
 Sentiment and Sarcasm in the 2012 US Presidential Election
 </a><br>
@@ -4854,9 +4854,9 @@ This is joint work with Dogan Can, Nikos Malandrakis, Hao Wang, Alex Leavitt, Ke
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 Mar 2013</td>
-<td align=left>Carlo Strapparava</td>
-<td align=left>
+<td>18 Mar 2013</td>
+<td>Carlo Strapparava</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Mar_2013');">
 Computational explorations of creative language
 </a><br>
@@ -4873,9 +4873,9 @@ On June 2011, he was awarded with a Google Research Award on Natural Language Pr
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Mar 2013</td>
-<td align=left>Sujith Ravi</td>
-<td align=left>
+<td>08 Mar 2013</td>
+<td>Sujith Ravi</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Mar_2013');">
 Scalable Unsupervised Learning for Natural Language Processing
 </a><br>
@@ -4896,9 +4896,9 @@ Bio: Sujith Ravi is a Research Scientist at Google. He completed his PhD at Univ
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Feb 2013</td>
-<td align=left>Louis-Philippe Morency</td>
-<td align=left>
+<td>22 Feb 2013</td>
+<td>Louis-Philippe Morency</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Feb_2013');">
 Modeling Human Communication Dynamics: From Depression Assessment to Multimodal Sentiment Analysis
 </a><br>
@@ -4917,9 +4917,9 @@ Louis-Philippe Morency is a Research Assistant Professor in the Department of Co
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Feb 2013</td>
-<td align=left>Kartik Audhkhasi</td>
-<td align=left>
+<td>08 Feb 2013</td>
+<td>Kartik Audhkhasi</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Feb_2013');">
 A Computational Framework for Ensembles of Diverse Experts
 </a><br>
@@ -4936,9 +4936,9 @@ Speaker bio: Kartik Audhkhasi received B.Tech. in Electrical Engineering and M.T
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>01 Feb 2013</td>
-<td align=left>Abeer Alwan</td>
-<td align=left>
+<td>01 Feb 2013</td>
+<td>Abeer Alwan</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs01_Feb_2013');">
 Dealing with Limited and Noisy Data in Speech Processing: A Hybrid Knowledge-Based and Statistical Approach
 </a><br>
@@ -4951,9 +4951,9 @@ Dealing with Limited and Noisy Data in Speech Processing: A Hybrid Knowledge-Bas
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Jan 2013</td>
-<td align=left>Daniel Marcu</td>
-<td align=left>
+<td>25 Jan 2013</td>
+<td>Daniel Marcu</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Jan_2013');">
 The Things I Learned While Doing Research in the Commercial World
 </a><br>
@@ -4967,9 +4967,9 @@ The Things I Learned While Doing Research in the Commercial World
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Jan 2013</td>
-<td align=left>Shrikanth Narayanan</td>
-<td align=left>
+<td>24 Jan 2013</td>
+<td>Shrikanth Narayanan</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Jan_2013');">
 Behavioral Signal Processing: Deriving Human Behavioral Informatics from Multimodal Signals
 </a><br>
@@ -4990,9 +4990,9 @@ Shrikanth (Shri) Narayanan is Andrew J. Viterbi Professor of Engineering at USC,
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Jan 2013</td>
-<td align=left>Abe Kazemzadeh</td>
-<td align=left>
+<td>11 Jan 2013</td>
+<td>Abe Kazemzadeh</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Jan_2013');">
 Natural Language Description of Emotion (Ph.D. Thesis Defense Practice Talk)
 </a><br>
@@ -5045,9 +5045,9 @@ officer at the USC Annenberg Innovation Laboratory (AIL).
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Dec 2012</td>
-<td align=left>Ulf Hermjakob</td>
-<td align=left>
+<td>14 Dec 2012</td>
+<td>Ulf Hermjakob</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Dec_2012');">
 Launching Semantics-Based Machine Translation
 </a><br>
@@ -5071,9 +5071,9 @@ with rule extraction (own work), decoding from source language to AMR
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Dec 2012</td>
-<td align=left>Shu Cai</td>
-<td align=left>
+<td>07 Dec 2012</td>
+<td>Shu Cai</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Dec_2012');">
 Smatch: an Evaluation Metric for Semantic Feature Structures
 </a><br>
@@ -5086,9 +5086,9 @@ Smatch: an Evaluation Metric for Semantic Feature Structures
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Nov 2012</td>
-<td align=left>Jerry Hobbs</td>
-<td align=left>
+<td>16 Nov 2012</td>
+<td>Jerry Hobbs</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Nov_2012');">
 Abduction and Metaphor
 </a><br>
@@ -5101,9 +5101,9 @@ Abduction and Metaphor
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Nov 2012</td>
-<td align=left>Ashish Vaswani and David Chiang</td>
-<td align=left>
+<td>09 Nov 2012</td>
+<td>Ashish Vaswani and David Chiang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Nov_2012');">
 Neural Networks for NLP
 </a><br>
@@ -5116,9 +5116,9 @@ Neural Networks for NLP
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Nov 2012</td>
-<td align=left>Ashish Vaswani and David Chiang</td>
-<td align=left>
+<td>07 Nov 2012</td>
+<td>Ashish Vaswani and David Chiang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Nov_2012');">
 Neural Networks for NLP
 </a><br>
@@ -5131,9 +5131,9 @@ Neural Networks for NLP
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>02 Nov 2012</td>
-<td align=left>Christian Chiarcos</td>
-<td align=left>
+<td>02 Nov 2012</td>
+<td>Christian Chiarcos</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs02_Nov_2012');">
 Linguistic Linked Open Data. Linking Corpora
 </a><br>
@@ -5210,9 +5210,9 @@ heterogeneous linguistic annotations.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>31 Oct 2012</td>
-<td align=left>Marcello Federico (FBK Trento, Italy), Marco Trombetti (Translated srl, Rome - Italy)</td>
-<td align=left>
+<td>31 Oct 2012</td>
+<td>Marcello Federico (FBK Trento, Italy), Marco Trombetti (Translated srl, Rome - Italy)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs31_Oct_2012');">
 Towards  the integration of human and machine translation
 </a><br>
@@ -5230,9 +5230,9 @@ that will be officially released in open source by the end of the year.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 Oct 2012</td>
-<td align=left>Douglas W. Oard, University of Maryland</td>
-<td align=left>
+<td>29 Oct 2012</td>
+<td>Douglas W. Oard, University of Maryland</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_Oct_2012');">
 Evaluating E-Discovery Search: The TREC Legal Track
 </a><br>
@@ -5250,9 +5250,9 @@ Douglas Oard is a Professor at the University of Maryland, College Park, with jo
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Oct 2012</td>
-<td align=left>Philipp Koehn</td>
-<td align=left>
+<td>26 Oct 2012</td>
+<td>Philipp Koehn</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Oct_2012');">
 Computer Aided Translation
 </a><br>
@@ -5270,9 +5270,9 @@ You can also check out a prototype at http://www.caitra.org/
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Oct 2012</td>
-<td align=left>Marc Schulder</td>
-<td align=left>
+<td>19 Oct 2012</td>
+<td>Marc Schulder</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Oct_2012');">
 Metaphor Detection through Term Frequency
 </a><br>
@@ -5290,9 +5290,9 @@ We propose a statistical approach to metaphor detection that utilizes the uncomm
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Oct 2012</td>
-<td align=left>Jagadeesh Jagarlamudi</td>
-<td align=left>
+<td>12 Oct 2012</td>
+<td>Jagadeesh Jagarlamudi</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Oct_2012');">
 Discriminative Interlingual Representations for NLP
 </a><br>
@@ -5309,9 +5309,9 @@ These problem settings arise frequently in real world applications. I choose a c
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Oct 2012</td>
-<td align=left>Victoria Fossum</td>
-<td align=left>
+<td>10 Oct 2012</td>
+<td>Victoria Fossum</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Oct_2012');">
 Sequential vs. hierarchical syntactic models of human sentence processing
 </a><br>
@@ -5355,9 +5355,9 @@ syntactic structure is premature.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Oct 2012</td>
-<td align=left>Dirk Hovy</td>
-<td align=left>
+<td>05 Oct 2012</td>
+<td>Dirk Hovy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Oct_2012');">
 Learning Whom to Trust with MACE
 </a><br>
@@ -5369,9 +5369,9 @@ Learning Whom to Trust with MACE
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 Jul 2012</td>
-<td align=left>Stephan Gouws (Stellenbosch University)</td>
-<td align=left>
+<td>06 Jul 2012</td>
+<td>Stephan Gouws (Stellenbosch University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Jul_2012');">
 Projecting features across domains using deep learning
 </a><br>
@@ -5390,9 +5390,9 @@ Stephan Gouws is a PhD student at Stellenbosch University in South Africa. He is
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Jul 2012</td>
-<td align=left>Ashish Vaswani</td>
-<td align=left>
+<td>03 Jul 2012</td>
+<td>Ashish Vaswani</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Jul_2012');">
 Smaller Alignment Models for Better Translations: Unsupervised Word Alignment with the l0-norm
 </a><br>
@@ -5411,9 +5411,9 @@ Ashish Vaswani is a PhD student at ISI.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 Jun 2012</td>
-<td align=left>Bevan Jones</td>
-<td align=left>
+<td>29 Jun 2012</td>
+<td>Bevan Jones</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_Jun_2012');">
 Semantic Parsing with Bayesian Tree Transducers
 </a><br>
@@ -5432,9 +5432,9 @@ I research computational models of language acquisition, exploring questions of 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Jun 2012</td>
-<td align=left>Vita Markman (Disney Interactive)</td>
-<td align=left>
+<td>22 Jun 2012</td>
+<td>Vita Markman (Disney Interactive)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Jun_2012');">
 Discovering Latent Similarities in Car Models Based On Customer Reviews: Towards a Consumer-Driven Product Recommendation System
 </a><br>
@@ -5451,9 +5451,9 @@ I graduated from Rutgers in 2005 with a PhD in Linguistics. Having taught lingui
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 May 2012</td>
-<td align=left>Liang Huang</td>
-<td align=left>
+<td>25 May 2012</td>
+<td>Liang Huang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_May_2012');">
 Structured Perceptron with Inexact Search (NAACL HLT Practice Talk)
 </a><br>
@@ -5466,9 +5466,9 @@ Structured Perceptron with Inexact Search (NAACL HLT Practice Talk)
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 May 2012</td>
-<td align=left>Dirk Hovy</td>
-<td align=left>
+<td>18 May 2012</td>
+<td>Dirk Hovy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_May_2012b');">
 Exploiting Partial Annotations with EM Training (NAACL HLT Practice Talk)
 </a><br>
@@ -5481,9 +5481,9 @@ Exploiting Partial Annotations with EM Training (NAACL HLT Practice Talk)
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 May 2012</td>
-<td align=left>Jason Riesa</td>
-<td align=left>
+<td>18 May 2012</td>
+<td>Jason Riesa</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_May_2012');">
 Automatic Parallel Fragment Extraction From Noisy Data (NAACL HLT Practice Talk)
 </a><br>
@@ -5496,9 +5496,9 @@ Automatic Parallel Fragment Extraction From Noisy Data (NAACL HLT Practice Talk)
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 May 2012</td>
-<td align=left>Dirk Hovy</td>
-<td align=left>
+<td>03 May 2012</td>
+<td>Dirk Hovy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_May_2012');">
 Using Syntactic Information for Unsupervised Relation Extraction and Typing (Thesis Proposal Practice Talk)
 </a><br>
@@ -5522,9 +5522,9 @@ I present several techniques for discovering relations from text. I show how to 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Apr 2012</td>
-<td align=left>Christian Chiarcos (Uni Potsdam)</td>
-<td align=left>
+<td>27 Apr 2012</td>
+<td>Christian Chiarcos (Uni Potsdam)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Apr_2012');">
 Towards operationalizable models of discourse phenomena: Addressing discourse relations
 </a><br>
@@ -5591,9 +5591,9 @@ Since 2006, he worked in the Applied Computational Linguistics group at the Univ
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Mar 2012</td>
-<td align=left>Jason Riesa</td>
-<td align=left>
+<td>16 Mar 2012</td>
+<td>Jason Riesa</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Mar_2012');">
 Syntactic Alignment Models for Large-Scale Translation (PhD Defense Practice Talk)
 </a><br>
@@ -5608,9 +5608,9 @@ We advance the state-of-the-art in search, modeling, and learning of alignments 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Feb 2012</td>
-<td align=left>Adam Pauls (UC Berkeley)</td>
-<td align=left>
+<td>17 Feb 2012</td>
+<td>Adam Pauls (UC Berkeley)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Feb_2012');">
 Large Scale Syntactic Language Modeling with Treelets
 </a><br>
@@ -5623,9 +5623,9 @@ Large Scale Syntactic Language Modeling with Treelets
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Feb 2012</td>
-<td align=left>Liang Huang</td>
-<td align=left>
+<td>10 Feb 2012</td>
+<td>Liang Huang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Feb_2012');">
 Efficient Search and Learning for Language Understanding and Translation
 </a><br>
@@ -5676,9 +5676,9 @@ resembles human translation.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>13 Jan 2012</td>
-<td align=left>Hercules Dalianis (Stockholm University)</td>
-<td align=left>
+<td>13 Jan 2012</td>
+<td>Hercules Dalianis (Stockholm University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Jan_2012');">
 Reusing clinical documentation for better health
 </a><br>
@@ -5704,9 +5704,9 @@ Dalianis is a professor in Computer and Systems Sciences at Stockholm University
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Dec 2011</td>
-<td align=left>Chris Dyer (Carnegie Mellon)</td>
-<td align=left>
+<td>16 Dec 2011</td>
+<td>Chris Dyer (Carnegie Mellon)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Dec_2011');">
 Generate-and-Test Models for Alignment and Machine Translation
 </a><br>
@@ -5765,9 +5765,9 @@ techniques, and "big data" problems in NLP.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Dec 2011</td>
-<td align=left>Gael Dias (University of Caen Basse-Normandie, France)</td>
-<td align=left>
+<td>12 Dec 2011</td>
+<td>Gael Dias (University of Caen Basse-Normandie, France)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Dec_2011');">
 Cross Domain Subjectivity Classification using Multi-View Learning
 </a><br>
@@ -5809,9 +5809,9 @@ Language Processing.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>04 Nov 2011</td>
-<td align=left>Ariya Rastrow (Johns Hopkins)</td>
-<td align=left>
+<td>04 Nov 2011</td>
+<td>Ariya Rastrow (Johns Hopkins)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Nov_2011');">
 Going beyond n-grams: Incorporating non-local dependencies for Speech Recognition
 </a><br>
@@ -5873,9 +5873,9 @@ semi-supervised adaptation techniques for speech recognition.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Oct 2011</td>
-<td align=left>Ekaterina Ovchinnikova</td>
-<td align=left>
+<td>07 Oct 2011</td>
+<td>Ekaterina Ovchinnikova</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Oct_2011');">
 Integration of World Knowledge for Natural Language Understanding
 </a><br>
@@ -5910,9 +5910,9 @@ dependencies.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>04 Oct 2011</td>
-<td align=left>Steve DeNeefe</td>
-<td align=left>
+<td>04 Oct 2011</td>
+<td>Steve DeNeefe</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Oct_2011');">
 Tree-adjoining Machine Translation (Ph.D. Defense Practice Talk)
 </a><br>
@@ -5966,9 +5966,9 @@ medium and large-scale MT tasks using several language pairs.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Sep 2011</td>
-<td align=left>Dirk Hovy</td>
-<td align=left>
+<td>30 Sep 2011</td>
+<td>Dirk Hovy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Sep_2011');">
 Aligning Events and Time Stamps
 </a><br>
@@ -5987,9 +5987,9 @@ We also show that resolution across sentences is a lot harder and cannot be appr
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Sep 2011</td>
-<td align=left>Cerstin Mahlow (University of Zurich)</td>
-<td align=left>
+<td>16 Sep 2011</td>
+<td>Cerstin Mahlow (University of Zurich)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Sep_2011');">
 Linguistically supported editing and revising: concept and prototypical implementation based on interactive NLP resources
 </a><br>
@@ -6032,9 +6032,9 @@ illustrates opportunities and limits of current NLP resources for German.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Sep 2011</td>
-<td align=left>Richard Socher (Stanford University)</td>
-<td align=left>
+<td>09 Sep 2011</td>
+<td>Richard Socher (Stanford University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Sep_2011');">
 Recursive Deep Learning in Natural Language Processing and Computer Vision
 </a><br>
@@ -6087,9 +6087,9 @@ for his work on recursive deep learning.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Aug 2011</td>
-<td align=left>Sravana Reddy</td>
-<td align=left>
+<td>24 Aug 2011</td>
+<td>Sravana Reddy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Aug_2011b');">
 Cracking Running-Key Ciphers and Deciphering Speech (Interns Final Talk)
 </a><br>
@@ -6104,9 +6104,9 @@ The second part of the talk will address the problem of speech recognition witho
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Aug 2011</td>
-<td align=left>Xuchen Yao</td>
-<td align=left>
+<td>24 Aug 2011</td>
+<td>Xuchen Yao</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Aug_2011');">
 Introducing context-dependent features into machine translation (Interns Final Talk)
 </a><br>
@@ -6119,9 +6119,9 @@ Introducing context-dependent features into machine translation (Interns Final T
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Aug 2011</td>
-<td align=left>Stephen Tratz (PhD defense practice talk)</td>
-<td align=left>
+<td>19 Aug 2011</td>
+<td>Stephen Tratz (PhD defense practice talk)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Aug_2011');">
 Semantically-Enriched Parsing for Natural Language Understanding
 </a><br>
@@ -6190,9 +6190,9 @@ informative system for semantically-enriched parsing.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Aug 2011</td>
-<td align=left>Licheng Fang</td>
-<td align=left>
+<td>17 Aug 2011</td>
+<td>Licheng Fang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Aug_2011');">
 Structured Language Modelling for Machine Translation
 </a><br>
@@ -6212,9 +6212,9 @@ search, and parameter smoothing.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Aug 2011</td>
-<td align=left>Dave Uthus</td>
-<td align=left>
+<td>05 Aug 2011</td>
+<td>Dave Uthus</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Aug_2011');">
 Overcoming Information Overload in Navy Chat
 </a><br>
@@ -6231,9 +6231,9 @@ Short Bio: David Uthus is a National Research Council Postdoctoral Fellow hosted
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Jul 2011</td>
-<td align=left>Markus Dreyer (SDL Language Weaver)</td>
-<td align=left>
+<td>15 Jul 2011</td>
+<td>Markus Dreyer (SDL Language Weaver)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Jul_2011b');">
 Discovering Morphological Paradigms from Plain Text Using a Dirichlet Process Mixture Model (EMNLP 2011 practice talk)
 </a><br>
@@ -6264,9 +6264,9 @@ This is joint work with Jason Eisner, JHU.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Jul 2011</td>
-<td align=left>Jonathan May (SDL Language Weaver)</td>
-<td align=left>
+<td>15 Jul 2011</td>
+<td>Jonathan May (SDL Language Weaver)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Jul_2011');">
 Tuning as Ranking (EMNLP 2011 practice talk)
 </a><br>
@@ -6290,9 +6290,9 @@ pairs, using large scale data scenarios.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Jul 2011</td>
-<td align=left>Deniz Yuret (Koc University)</td>
-<td align=left>
+<td>07 Jul 2011</td>
+<td>Deniz Yuret (Koc University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Jul_2011');">
 The Noisy Channel Model for Unsupervised Word Sense Disambiguation
 </a><br>
@@ -6330,9 +6330,9 @@ Computational Linguistics Journal.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>28 Jun 2011</td>
-<td align=left>Suzy Howlett (Macquarie University)</td>
-<td align=left>
+<td>28 Jun 2011</td>
+<td>Suzy Howlett (Macquarie University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Jun_2011');">
 Confidence in Syntax for Statistical Machine Translation
 </a><br>
@@ -6348,9 +6348,9 @@ Suzy Howlett is a PhD student at the Centre for Language Technology at Macquarie
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Jun 2011</td>
-<td align=left>Xuchen Yao</td>
-<td align=left>
+<td>17 Jun 2011</td>
+<td>Xuchen Yao</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Jun_2011');">
 Nonparametric Bayesian Word Sense Induction (ACL practice talk)
 </a><br>
@@ -6366,9 +6366,9 @@ We find that the two models achieve similar levels of induction quality, while t
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Jun 2011</td>
-<td align=left>Sravana Reddy</td>
-<td align=left>
+<td>17 Jun 2011</td>
+<td>Sravana Reddy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Jun_2011b');">
 Unsupervised Discovery of Rhyme Schemes (ACL practice talk)
 </a><br>
@@ -6382,9 +6382,9 @@ Unsupervised Discovery of Rhyme Schemes (ACL practice talk)
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Jun 2011</td>
-<td align=left>Cartic Ramakrishnan</td>
-<td align=left>
+<td>10 Jun 2011</td>
+<td>Cartic Ramakrishnan</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Jun_2011');">
 The Role of Information Extraction in the Design of a Document Triage Application for Biocuration
 </a><br>
@@ -6400,9 +6400,9 @@ represented both as a lexical term and as a semantic category. Our experimental 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 May 2011</td>
-<td align=left>Shu Cai</td>
-<td align=left>
+<td>27 May 2011</td>
+<td>Shu Cai</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_May_2011');">
 Language-Independent Parsing with Empty Elements
 </a><br>
@@ -6417,9 +6417,9 @@ This is a joint work with David Chiang and Yoav Goldberg
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 May 2011</td>
-<td align=left>Abe Kazemzadeh (USC)</td>
-<td align=left>
+<td>06 May 2011</td>
+<td>Abe Kazemzadeh (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_May_2011');">
 Natural Language Descriptions of Emotions
 </a><br>
@@ -6465,9 +6465,9 @@ emotions, games, and algebra.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 Apr 2011</td>
-<td align=left>Marie-Catherine de Marneffe (Stanford University)</td>
-<td align=left>
+<td>29 Apr 2011</td>
+<td>Marie-Catherine de Marneffe (Stanford University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_Apr_2011');">
 Computational models of utterance meaning
 </a><br>
@@ -6492,9 +6492,9 @@ children acquire verb forms in French.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Apr 2011</td>
-<td align=left>Dirk Hovy</td>
-<td align=left>
+<td>22 Apr 2011</td>
+<td>Dirk Hovy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Apr_2011');">
 Models and Training for Unsupervised Preposition Sense Disambiguation
 </a><br>
@@ -6509,9 +6509,9 @@ This is a joint work with Ashish Vaswani, Stephen Tratz, David Chiang, and Eduar
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Apr 2011</td>
-<td align=left>Thomas Schoenemann</td>
-<td align=left>
+<td>15 Apr 2011</td>
+<td>Thomas Schoenemann</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Apr_2011');">
 Computing Viterbi Alignments via Integer Linear Programming
 </a><br>
@@ -6541,9 +6541,9 @@ a time off to explore other fields and broaden his scope.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 Mar 2011</td>
-<td align=left>Sujith Ravi (PhD defense practice talk)</td>
-<td align=left>
+<td>18 Mar 2011</td>
+<td>Sujith Ravi (PhD defense practice talk)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Mar_2011');">
 Deciphering Natural Language
 </a><br>
@@ -6558,9 +6558,9 @@ This thesis work aims to bring together techniques from classical cryptography, 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Mar 2011</td>
-<td align=left>Cosmin Adrian Bejan (ICT)</td>
-<td align=left>
+<td>11 Mar 2011</td>
+<td>Cosmin Adrian Bejan (ICT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Mar_2011');">
 Nonparametric Bayesian Models for Clustering Feature-Rich Linguistic Objects
 </a><br>
@@ -6596,9 +6596,9 @@ semantics, semantic parsing, commonsense causal reasoning, unsupervised learning
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>04 Mar 2011</td>
-<td align=left>Steve DeNeefe (practice job talk)</td>
-<td align=left>
+<td>04 Mar 2011</td>
+<td>Steve DeNeefe (practice job talk)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Mar_2011');">
 Tree Adjoining Machine Translation
 </a><br>
@@ -6616,9 +6616,9 @@ Finally, our results show that adjoining delivers a consistent improvement over 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Mar 2011</td>
-<td align=left>Christopher Thomas (Wright State University)</td>
-<td align=left>
+<td>03 Mar 2011</td>
+<td>Christopher Thomas (Wright State University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Mar_2011');">
 What Goes Around Comes Around -- Improving the State of Knowledge on the Web through On-Demand Model Creation
 </a><br>
@@ -6634,9 +6634,9 @@ Christopher Thomas is a PhD candidate in the Kno.e.sis Center at Wright State Un
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Feb 2011</td>
-<td align=left>Alan Ritter (University of Washington)</td>
-<td align=left>
+<td>17 Feb 2011</td>
+<td>Alan Ritter (University of Washington)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Feb_2011');">
 Status Messages: A Unique Textual Source of Realtime and Social Information
 </a><br>
@@ -6655,9 +6655,9 @@ Short Bio: Alan Ritter is a graduate student at the University of Washington adv
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Feb 2011</td>
-<td align=left>Hagen Fuerstenau (University of Saarland)</td>
-<td align=left>
+<td>14 Feb 2011</td>
+<td>Hagen Fuerstenau (University of Saarland)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Feb_2011');">
 Learning Structured Semantics under Weak Supervision
 </a><br>
@@ -6682,9 +6682,9 @@ supervised machine learning.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Feb 2011</td>
-<td align=left>Hui Zhang</td>
-<td align=left>
+<td>11 Feb 2011</td>
+<td>Hui Zhang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Feb_2011');">
 Joint Word Alignment and Synchronous Grammar Induction
 </a><br>
@@ -6697,9 +6697,9 @@ Joint Word Alignment and Synchronous Grammar Induction
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>04 Feb 2011</td>
-<td align=left>Stephan Gouws (Stellenbosch University)</td>
-<td align=left>
+<td>04 Feb 2011</td>
+<td>Stephan Gouws (Stellenbosch University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Feb_2011');">
 Measuring Conceptual Similarity by Spreading Activation over Wikipedia's Hyperlink Graph
 </a><br>
@@ -6739,9 +6739,9 @@ date.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>28 Jan 2011</td>
-<td align=left>Markus Dreyer (SDL Language Weaver, formerly @ Johns Hopkins)</td>
-<td align=left>
+<td>28 Jan 2011</td>
+<td>Markus Dreyer (SDL Language Weaver, formerly @ Johns Hopkins)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Jan_2011');">
 A Non-Parametric Model for the Discovery of Inflectional Paradigms from Plain Text using Graphical Models over Strings
 </a><br>
@@ -6790,9 +6790,9 @@ inflections.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Jan 2011</td>
-<td align=left>Donald Metzler</td>
-<td align=left>
+<td>14 Jan 2011</td>
+<td>Donald Metzler</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Jan_2011');">
 Relevance and Ranking in Online Dating Systems
 </a><br>
@@ -6806,9 +6806,9 @@ We present the first in-depth study of information retrieval approaches applied 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Nov 2010</td>
-<td align=left>Jason Riesa</td>
-<td align=left>
+<td>15 Nov 2010</td>
+<td>Jason Riesa</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Nov_2010');">
 Structured Models for Bilingual Alignment (Ph.D. Proposal practice talk)
 </a><br>
@@ -6842,9 +6842,9 @@ search algorithms for working with such models.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Nov 2010</td>
-<td align=left>Stephen Tratz</td>
-<td align=left>
+<td>12 Nov 2010</td>
+<td>Stephen Tratz</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Nov_2010');">
 Semantically-enriched Parsing for Natural Language Understanding (Ph.D. Proposal practice talk)
 </a><br>
@@ -6865,9 +6865,9 @@ preposition senses, and possessive constructions.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Oct 2010</td>
-<td align=left>Anselmo Penas</td>
-<td align=left>
+<td>07 Oct 2010</td>
+<td>Anselmo Penas</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Oct_2010');">
 Toward a Reading Machine
 </a><br>
@@ -6880,9 +6880,9 @@ Toward a Reading Machine
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Oct 2010</td>
-<td align=left>Eduard Hovy</td>
-<td align=left>
+<td>05 Oct 2010</td>
+<td>Eduard Hovy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Oct_2010');">
 Toward a Computational Theory of Semantic Content
 </a><br>
@@ -6899,9 +6899,9 @@ Combining the two views of semantics seems promising but opens many questions th
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>01 Oct 2010</td>
-<td align=left>Liang Huang and Haitao Mi</td>
-<td align=left>
+<td>01 Oct 2010</td>
+<td>Liang Huang and Haitao Mi</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs01_Oct_2010b');">
 Efficient Incremental Decoding for Tree-to-String Translation (EMNLP 2010 Practice Talk)
 </a><br>
@@ -6914,9 +6914,9 @@ Efficient Incremental Decoding for Tree-to-String Translation (EMNLP 2010 Practi
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>01 Oct 2010</td>
-<td align=left>Erica Greene</td>
-<td align=left>
+<td>01 Oct 2010</td>
+<td>Erica Greene</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs01_Oct_2010');">
 Automatic Analysis of Rhythmic Poetry with Applications to Generation and Translation (EMNLP 2010 Practice Talk)
 </a><br>
@@ -6929,9 +6929,9 @@ Automatic Analysis of Rhythmic Poetry with Applications to Generation and Transl
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Aug 2010</td>
-<td align=left>Sasha Rush</td>
-<td align=left>
+<td>27 Aug 2010</td>
+<td>Sasha Rush</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Aug_2010');">
 Intern Final Talk: Large-scale, High-dimensional, Discriminative Machine Translation
 </a><br>
@@ -6948,9 +6948,9 @@ regularization, and tuning, and give preliminary results.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Aug 2010</td>
-<td align=left>Yoav Goldberg</td>
-<td align=left>
+<td>27 Aug 2010</td>
+<td>Yoav Goldberg</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Aug_2010b');">
 Intern Final Talk: Small is beautiful. Is it any good?
 </a><br>
@@ -6968,9 +6968,9 @@ aggressive.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Aug 2010</td>
-<td align=left>Sravana Reddy</td>
-<td align=left>
+<td>25 Aug 2010</td>
+<td>Sravana Reddy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Aug_2010b');">
 Intern Final Talk: Towards deciphering the Voynich manuscript
 </a><br>
@@ -6985,9 +6985,9 @@ about the linguistic and statistical properties of the text.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Aug 2010</td>
-<td align=left>Anni Irvine</td>
-<td align=left>
+<td>25 Aug 2010</td>
+<td>Anni Irvine</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Aug_2010');">
 Intern Final Talk: Making Discriminative Alignment Smarter
 </a><br>
@@ -7006,9 +7006,9 @@ translation.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 Aug 2010</td>
-<td align=left>Sasha Rush (MIT)</td>
-<td align=left>
+<td>06 Aug 2010</td>
+<td>Sasha Rush (MIT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Aug_2010');">
 Dual Decomposition for Natural Language Inference
 </a><br>
@@ -7044,9 +7044,9 @@ than previous work on a broad range of datasets.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Jul 2010</td>
-<td align=left>William Yang Wang (Columbia)</td>
-<td align=left>
+<td>30 Jul 2010</td>
+<td>William Yang Wang (Columbia)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Jul_2010');">
 Automatic Vandalism Detection in Wikipedia (COLING 2010 Practice Talk)
 </a><br>
@@ -7066,9 +7066,9 @@ with the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Jul 2010</td>
-<td align=left>Hoifung Poon (University of Washington)</td>
-<td align=left>
+<td>26 Jul 2010</td>
+<td>Hoifung Poon (University of Washington)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Jul_2010');">
 Statistical Relational Learning for Knowledge Extraction from the Web
 </a><br>
@@ -7100,9 +7100,9 @@ state-of-the-art systems, with a precision of 91%.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Jul 2010</td>
-<td align=left>Yoav Goldberg (Ben Gurion), Sravana Reddy (Chicago), and Kevin Knight</td>
-<td align=left>
+<td>23 Jul 2010</td>
+<td>Yoav Goldberg (Ben Gurion), Sravana Reddy (Chicago), and Kevin Knight</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Jul_2010');">
 Three Mini-Talks on Creative Language
 </a><br>
@@ -7115,9 +7115,9 @@ Three Mini-Talks on Creative Language
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Jul 2010</td>
-<td align=left>Kenji Sagae</td>
-<td align=left>
+<td>07 Jul 2010</td>
+<td>Kenji Sagae</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Jul_2010');">
 Dynamic Programming for Linear-time Incremental Parsing (ACL 2010 Practice Talk)
 </a><br>
@@ -7130,9 +7130,9 @@ Dynamic Programming for Linear-time Incremental Parsing (ACL 2010 Practice Talk)
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>02 Jul 2010</td>
-<td align=left>Zornitsa Kozareva</td>
-<td align=left>
+<td>02 Jul 2010</td>
+<td>Zornitsa Kozareva</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs02_Jul_2010b');">
 Learning Arguments and Supertypes of Semantic Relations using Recursive Patterns (ACL 2010 Practice Talk)
 </a><br>
@@ -7146,9 +7146,9 @@ Learning Arguments and Supertypes of Semantic Relations using Recursive Patterns
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>02 Jul 2010</td>
-<td align=left>Ashish Vaswani</td>
-<td align=left>
+<td>02 Jul 2010</td>
+<td>Ashish Vaswani</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs02_Jul_2010');">
 An MDL-Inspired Objective Function for Unsupervised Training of Generative Models (ACL 2010 Practice Talk)
 </a><br>
@@ -7173,9 +7173,9 @@ and Italian data sets.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Jun 2010</td>
-<td align=left>Jonathan May</td>
-<td align=left>
+<td>30 Jun 2010</td>
+<td>Jonathan May</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Jun_2010b');">
 Efficient Inference Through Cascades of Weighted Tree Transducers (ACL 2010 Practice Talk)
 </a><br>
@@ -7189,9 +7189,9 @@ Efficient Inference Through Cascades of Weighted Tree Transducers (ACL 2010 Prac
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Jun 2010</td>
-<td align=left>Jason Riesa</td>
-<td align=left>
+<td>30 Jun 2010</td>
+<td>Jason Riesa</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Jun_2010');">
 Hierarchical Search for Word Alignment (ACL 2010 Practice Talk)
 </a><br>
@@ -7204,9 +7204,9 @@ Hierarchical Search for Word Alignment (ACL 2010 Practice Talk)
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Jun 2010</td>
-<td align=left>Yoav Goldberg (Ben Gurion University of the Negev)</td>
-<td align=left>
+<td>11 Jun 2010</td>
+<td>Yoav Goldberg (Ben Gurion University of the Negev)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Jun_2010');">
 Easy First Dependency Parsing and How Different Parsers Behave Differently
 </a><br>
@@ -7231,9 +7231,9 @@ attempts to answer these kinds of questions.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Jun 2010</td>
-<td align=left>Mark Johnson (Macquarie University)</td>
-<td align=left>
+<td>10 Jun 2010</td>
+<td>Mark Johnson (Macquarie University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Jun_2010');">
 "Bayesian models of language acquisition" or "Where do the rules come from?" (continued from 7 Jun 2010)
 </a><br>
@@ -7246,9 +7246,9 @@ attempts to answer these kinds of questions.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Jun 2010</td>
-<td align=left>Steven Bird (University of Melbourne)</td>
-<td align=left>
+<td>09 Jun 2010</td>
+<td>Steven Bird (University of Melbourne)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Jun_2010');">
 The Human Language Project: Building a Universal Corpus of the World's Languages
 </a><br>
@@ -7279,9 +7279,9 @@ and online publications, please visit http://stevenbird.me/
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Jun 2010</td>
-<td align=left>Reut Tsarfaty (Uppsala University)</td>
-<td align=left>
+<td>08 Jun 2010</td>
+<td>Reut Tsarfaty (Uppsala University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Jun_2010');">
 Morphology in Parsing: A Taxonomy-Based Approach
 </a><br>
@@ -7297,9 +7297,9 @@ http://stp.lingfil.uu.se/~tsarfaty/
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Jun 2010</td>
-<td align=left>Mark Johnson (Macquarie University)</td>
-<td align=left>
+<td>07 Jun 2010</td>
+<td>Mark Johnson (Macquarie University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Jun_2010');">
 "Bayesian models of language acquisition" or "Where do the rules come from?"
 </a><br>
@@ -7321,9 +7321,9 @@ Professor Johnson's research area is computational linguistics, i.e., explicit c
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>21 May 2010</td>
-<td align=left>Zornitsa Kozareva</td>
-<td align=left>
+<td>21 May 2010</td>
+<td>Zornitsa Kozareva</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_May_2010');">
 Not All Seeds Are Equal: Measuring the Quality of Text Mining Seeds
 </a><br>
@@ -7337,9 +7337,9 @@ Not All Seeds Are Equal: Measuring the Quality of Text Mining Seeds
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 May 2010</td>
-<td align=left>Jinho D. Choi (University of Colorado)</td>
-<td align=left>
+<td>19 May 2010</td>
+<td>Jinho D. Choi (University of Colorado)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_May_2010');">
 K-best, Transition-based Dependency Parsing using Robust Risk Minimization and Automatic Feature Reduction
 </a><br>
@@ -7352,9 +7352,9 @@ K-best, Transition-based Dependency Parsing using Robust Risk Minimization and A
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Apr 2010</td>
-<td align=left>Walter Daelemans (University of Antwerp)</td>
-<td align=left>
+<td>30 Apr 2010</td>
+<td>Walter Daelemans (University of Antwerp)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Apr_2010');">
 Robust features for Computational Stylometry
 </a><br>
@@ -7395,9 +7395,9 @@ research interests are in machine learning of language (especially memory-based 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Apr 2010</td>
-<td align=left>Rutu Mulkar-Mehta</td>
-<td align=left>
+<td>16 Apr 2010</td>
+<td>Rutu Mulkar-Mehta</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Apr_2010');">
 Understanding Granularity in Natural Language Discourse (Ph.D. Proposal practice talk)
 </a><br>
@@ -7410,9 +7410,9 @@ Understanding Granularity in Natural Language Discourse (Ph.D. Proposal practice
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Apr 2010</td>
-<td align=left>Jonathan May</td>
-<td align=left>
+<td>14 Apr 2010</td>
+<td>Jonathan May</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Apr_2010');">
 Weighted Tree Automata and Transducers for Syntactic Natural Language Processing (Ph.D. Defense practice talk)
 </a><br>
@@ -7425,9 +7425,9 @@ Weighted Tree Automata and Transducers for Syntactic Natural Language Processing
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Apr 2010</td>
-<td align=left>Satoshi Sekine (NYU)</td>
-<td align=left>
+<td>05 Apr 2010</td>
+<td>Satoshi Sekine (NYU)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Apr_2010');">
 On-Demand Information Extraction and Knowledge Discovery
 </a><br>
@@ -7474,9 +7474,9 @@ and Use in 2008, workshop on Textual Entailment and Parsing 2007 and so on.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>02 Apr 2010</td>
-<td align=left>Eduard Hovy</td>
-<td align=left>
+<td>02 Apr 2010</td>
+<td>Eduard Hovy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs02_Apr_2010');">
 Annotation
 </a><br>
@@ -7492,9 +7492,9 @@ Your participation in order to critique the tutorial is appreciated!
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>31 Mar 2010</td>
-<td align=left>Haitao Mi (ICT China)</td>
-<td align=left>
+<td>31 Mar 2010</td>
+<td>Haitao Mi (ICT China)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs31_Mar_2010');">
 Lattice and Forest for SMT
 </a><br>
@@ -7517,9 +7517,9 @@ Haitao Mi is an Assistant Researcher in the Institute of Computing Technology, C
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Mar 2010</td>
-<td align=left>Victoria Fossum</td>
-<td align=left>
+<td>30 Mar 2010</td>
+<td>Victoria Fossum</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Mar_2010');">
 Integrating Parsing and Word Alignment in Syntax-Based Machine Translation (Ph.D. Defense practice talk)
 </a><br>
@@ -7567,9 +7567,9 @@ state-of-the-art syntax-based statistical machine translation system.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Mar 2010</td>
-<td align=left>Elsi Kaiser (USC)</td>
-<td align=left>
+<td>26 Mar 2010</td>
+<td>Elsi Kaiser (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Mar_2010');">
 Discourse coherence effects in language processing: A psycholinguistic approach
 </a><br>
@@ -7593,9 +7593,9 @@ including eye-tracking.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Mar 2010</td>
-<td align=left>Liang Huang</td>
-<td align=left>
+<td>05 Mar 2010</td>
+<td>Liang Huang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Mar_2010');">
 Incremental Parsing
 </a><br>
@@ -7614,9 +7614,9 @@ This is a joint work with Kenji Sagae, USC/ICT.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Feb 2010</td>
-<td align=left>David Farwell (Universitat Politecnica de Catalunya)</td>
-<td align=left>
+<td>05 Feb 2010</td>
+<td>David Farwell (Universitat Politecnica de Catalunya)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Feb_2010');">
 Knowledge Acquisition and Textual Entailment: a proposed research program
 </a><br>
@@ -7637,9 +7637,9 @@ The technologies developed will be validated by applying them to two broad NLU t
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Jan 2010</td>
-<td align=left>David Chiang</td>
-<td align=left>
+<td>22 Jan 2010</td>
+<td>David Chiang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Jan_2010');">
 Towards Tree-to-Tree Translation
 </a><br>
@@ -7652,9 +7652,9 @@ Towards Tree-to-Tree Translation
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Jan 2010</td>
-<td align=left>Min-Yen Kan (National University of Singapore)</td>
-<td align=left>
+<td>15 Jan 2010</td>
+<td>Min-Yen Kan (National University of Singapore)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Jan_2010');">
 ForeCite: towards a more integrated scholarly digital library
 </a><br>
@@ -7695,9 +7695,9 @@ WING homepage: http://wing.comp.nus.edu.sg/
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Dec 2009</td>
-<td align=left>Anselmo Penas (UNED, Spain)</td>
-<td align=left>
+<td>11 Dec 2009</td>
+<td>Anselmo Penas (UNED, Spain)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Dec_2009');">
 Evaluating Question Answering Validation
 </a><br>
@@ -7710,9 +7710,9 @@ Evaluating Question Answering Validation
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Dec 2009</td>
-<td align=left>Tomohide Shibata (Kyoto University)</td>
-<td align=left>
+<td>09 Dec 2009</td>
+<td>Tomohide Shibata (Kyoto University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Dec_2009');">
 Introduction of Our Research (text analysis and IR)
 </a><br>
@@ -7746,9 +7746,9 @@ clustering system based on TSUBAKI.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>04 Dec 2009</td>
-<td align=left>Donald Metzler (Yahoo! Research)</td>
-<td align=left>
+<td>04 Dec 2009</td>
+<td>Donald Metzler (Yahoo! Research)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Dec_2009');">
 Learning Query Concept Importance Using a Weighted Dependence Model
 </a><br>
@@ -7764,9 +7764,9 @@ Donald Metzler is a Research Scientist in the Search and Computational Advertisi
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Nov 2009</td>
-<td align=left>Marco Pennacchiotti (Yahoo! Research)</td>
-<td align=left>
+<td>20 Nov 2009</td>
+<td>Marco Pennacchiotti (Yahoo! Research)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Nov_2009');">
 Entity Extraction via Ensemble Semantics
 </a><br>
@@ -7779,9 +7779,9 @@ Entity Extraction via Ensemble Semantics
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Oct 2009</td>
-<td align=left>Steve DeNeefe</td>
-<td align=left>
+<td>23 Oct 2009</td>
+<td>Steve DeNeefe</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Oct_2009');">
 Tree Adjoining Machine Translation (thesis proposal practice talk)
 </a><br>
@@ -7799,9 +7799,9 @@ Finally, our initial results show that adjoining already delivers an end-to-end 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>21 Oct 2009</td>
-<td align=left>Douglas W. Oard (Maryland)</td>
-<td align=left>
+<td>21 Oct 2009</td>
+<td>Douglas W. Oard (Maryland)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_Oct_2009');">
 Who 'Dat? Identity resolution in large email collections
 </a><br>
@@ -7843,9 +7843,9 @@ http://www.glue.umd.edu/~oard/.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Oct 2009</td>
-<td align=left>Nandakishore Kambhatla (IBM India)</td>
-<td align=left>
+<td>09 Oct 2009</td>
+<td>Nandakishore Kambhatla (IBM India)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Oct_2009');">
 Extracting Social Networks and Biographical Facts from Conversational Speech Transcripts
 </a><br>
@@ -7887,9 +7887,9 @@ Nanda's research interests are focused on NLP and technology solutions for creat
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Sep 2009</td>
-<td align=left>David Chiang</td>
-<td align=left>
+<td>11 Sep 2009</td>
+<td>David Chiang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Sep_2009');">
 Tutorial on HPC
 </a><br>
@@ -7916,9 +7916,9 @@ real workflow management tools like Condor.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>28 Aug 2009</td>
-<td align=left>Adam Pauls (UC Berkeley) <br> Michael Auli (Edinburgh)</td>
-<td align=left>
+<td>28 Aug 2009</td>
+<td>Adam Pauls (UC Berkeley) <br> Michael Auli (Edinburgh)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Aug_2009');">
 Intern Final Talks
 </a><br>
@@ -7948,9 +7948,9 @@ complexity and show preliminary results for each model.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Aug 2009</td>
-<td align=left>Erica Greene (Haverford) <br> Paramveer Dhillon (Penn)</td>
-<td align=left>
+<td>27 Aug 2009</td>
+<td>Erica Greene (Haverford) <br> Paramveer Dhillon (Penn)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Aug_2009');">
 Intern Final Talks
 </a><br>
@@ -8006,9 +8006,9 @@ preliminary word alignment results using our approach.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Aug 2009</td>
-<td align=left>Sujith Ravi</td>
-<td align=left>
+<td>26 Aug 2009</td>
+<td>Sujith Ravi</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Aug_2009');">
 Natural Language Decipherment: Solving Problems in Natural Language Processing without Labeled Data (Thesis Proposal practice talk)
 </a><br>
@@ -8027,9 +8027,9 @@ In this thesis proposal practice talk, I will show how we combine the two ideas 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>21 Aug 2009</td>
-<td align=left>Liang Huang</td>
-<td align=left>
+<td>21 Aug 2009</td>
+<td>Liang Huang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_Aug_2009');">
 Bilingually-Constrained (Monolingual) Shift-Reduce Parsing
 </a><br>
@@ -8057,9 +8057,9 @@ http://www.cis.upenn.edu/~lhuang3/biparsing.pdf
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Jul 2009</td>
-<td align=left>Adam Pauls (UC Berkeley) <br> Ulf Hermjakob</td>
-<td align=left>
+<td>24 Jul 2009</td>
+<td>Adam Pauls (UC Berkeley) <br> Ulf Hermjakob</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Jul_2009');">
 Practice talks for EMNLP
 </a><br>
@@ -8105,9 +8105,9 @@ superior scores in end-to-end statistical machine translation,
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Jul 2009</td>
-<td align=left>Mark Hopkins (Language Weaver)</td>
-<td align=left>
+<td>23 Jul 2009</td>
+<td>Mark Hopkins (Language Weaver)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Jul_2009');">
 Cube Pruning as Heuristic Search (Practice talk for EMNLP)
 </a><br>
@@ -8125,9 +8125,9 @@ of cube pruning.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Jul 2009</td>
-<td align=left>Paramveer Dhillon (Penn)</td>
-<td align=left>
+<td>17 Jul 2009</td>
+<td>Paramveer Dhillon (Penn)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Jul_2009');">
 Transfer Learning for WSD & Non-local constraints for Named Entity Recognition
 </a><br>
@@ -8171,9 +8171,9 @@ this approach on CoNLL 03 English and CoNLL 02 Spanish NER shared tasks.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Jul 2009</td>
-<td align=left>Yang Liu (ICT China)</td>
-<td align=left>
+<td>16 Jul 2009</td>
+<td>Yang Liu (ICT China)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Jul_2009');">
 Weighted Alignment Matrices for Statistical Machine Translation
 </a><br>
@@ -8209,9 +8209,9 @@ translation won the Meritorious Asian NLP Paper Award of COLING/ACL
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Jul 2009</td>
-<td align=left>Yang Liu (ICT China)</td>
-<td align=left>
+<td>15 Jul 2009</td>
+<td>Yang Liu (ICT China)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Jul_2009');">
 An Overview of Tree-to-String Translation Models
 </a><br>
@@ -8243,9 +8243,9 @@ translation won the Meritorious Asian NLP Paper Award of COLING/ACL
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Jul 2009</td>
-<td align=left>Kevin Knight</td>
-<td align=left>
+<td>10 Jul 2009</td>
+<td>Kevin Knight</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Jul_2009');">
 Excerpts from ACL-09 Tutorial on "Topics in Machine Translation"
 </a><br>
@@ -8261,9 +8261,9 @@ present 3 or 4 of those topics, determined by audience vote.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Jun 2009</td>
-<td align=left>Steve DeNeefe</td>
-<td align=left>
+<td>26 Jun 2009</td>
+<td>Steve DeNeefe</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Jun_2009');">
 Synchronous Tree Adjoining Machine Translation (Practice talk for EMNLP)
 </a><br>
@@ -8290,9 +8290,9 @@ syntax-based MT model on a large-scale Arabic/English MT task.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Jun 2009</td>
-<td align=left>Adam Pauls (UC Berkeley)</td>
-<td align=left>
+<td>19 Jun 2009</td>
+<td>Adam Pauls (UC Berkeley)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Jun_2009');">
 Hierarchical Search for Parsing (and Machine Translation)
 </a><br>
@@ -8314,9 +8314,9 @@ of accumulated slack in A* heuristics.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 May 2009</td>
-<td align=left>Marta Recasens Potau (Universitat de Barcelona)</td>
-<td align=left>
+<td>29 May 2009</td>
+<td>Marta Recasens Potau (Universitat de Barcelona)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_May_2009');">
 Learning-based Coreference Resolution for Spanish and Catalan
 </a><br>
@@ -8329,9 +8329,9 @@ Learning-based Coreference Resolution for Spanish and Catalan
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 May 2009</td>
-<td align=left>Victoria Fossum <br> Dirk Hovy</td>
-<td align=left>
+<td>22 May 2009</td>
+<td>Victoria Fossum <br> Dirk Hovy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_May_2009');">
 Practice talks for NAACL HLT
 </a><br>
@@ -8369,9 +8369,9 @@ outperforms the best system in the SemEval task.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 May 2009</td>
-<td align=left>David Chiang</td>
-<td align=left>
+<td>15 May 2009</td>
+<td>David Chiang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_May_2009');">
 Practice talks for NAACL HLT
 </a><br>
@@ -8392,9 +8392,9 @@ translation task, we obtain statistically significant improvements of
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 May 2009</td>
-<td align=left>Sujith Ravi</td>
-<td align=left>
+<td>14 May 2009</td>
+<td>Sujith Ravi</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_May_2009');">
 Practice talks for NAACL HLT
 </a><br>
@@ -8420,9 +8420,9 @@ This is joint work with Tugba Bodrumlu and Kevin Knight.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 May 2009</td>
-<td align=left>Andrew Kehler (UCSD)</td>
-<td align=left>
+<td>08 May 2009</td>
+<td>Andrew Kehler (UCSD)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_May_2009');">
 Coherence and the (Psycho-) Linguistics of Pronoun Interpretation
 </a><br>
@@ -8468,9 +8468,9 @@ Jeffrey Elman.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Apr 2009</td>
-<td align=left>Rahul Bhagat</td>
-<td align=left>
+<td>17 Apr 2009</td>
+<td>Rahul Bhagat</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Apr_2009');">
 Learning Paraphrases from Text (Ph.D. Defense practice talk)
 </a><br>
@@ -8490,9 +8490,9 @@ Thus, in this thesis we define quasi-paraphrases, present methods to learn them 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Mar 2009</td>
-<td align=left>David Chiang</td>
-<td align=left>
+<td>27 Mar 2009</td>
+<td>David Chiang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Mar_2009');">
 Tutorial on Hadoop
 </a><br>
@@ -8505,9 +8505,9 @@ Tutorial on Hadoop
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Mar 2009</td>
-<td align=left>Rutu Mulkar</td>
-<td align=left>
+<td>19 Mar 2009</td>
+<td>Rutu Mulkar</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Mar_2009');">
 Discovering Causal and Temporal Relations in Biomedical Texts (practice talk for AAAI Spring Symposium)
 </a><br>
@@ -8520,9 +8520,9 @@ Discovering Causal and Temporal Relations in Biomedical Texts (practice talk for
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 Mar 2009</td>
-<td align=left>Andreas Maletti</td>
-<td align=left>
+<td>06 Mar 2009</td>
+<td>Andreas Maletti</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Mar_2009');">
 Minimizing Deterministic Weighted Tree Automata
 </a><br>
@@ -8537,9 +8537,9 @@ Minimizing Deterministic Weighted Tree Automata
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Feb 2009</td>
-<td align=left>Carlos Busso (USC)</td>
-<td align=left>
+<td>27 Feb 2009</td>
+<td>Carlos Busso (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Feb_2009');">
 Multimodal Processing of Human Behavior in Intelligent Instrumented Spaces: A Focus on Expressive Human Communication
 </a><br>
@@ -8558,9 +8558,9 @@ Additionally, we describe analysis of human expressive behavior that can be affo
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>13 Feb 2009</td>
-<td align=left>Joseph Tepperman (Signal Analysis and Interpretation Laboratory, USC)</td>
-<td align=left>
+<td>13 Feb 2009</td>
+<td>Joseph Tepperman (Signal Analysis and Interpretation Laboratory, USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Feb_2009');">
 Estimating Subjective Judgments of Speech on Multiple Levels
 </a><br>
@@ -8574,9 +8574,9 @@ Estimating Subjective Judgments of Speech on Multiple Levels
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Jan 2009</td>
-<td align=left>Kevin Knight</td>
-<td align=left>
+<td>30 Jan 2009</td>
+<td>Kevin Knight</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Jan_2009');">
 Sixty Years of Statistical Machine Translation
 </a><br>
@@ -8589,9 +8589,9 @@ Sixty Years of Statistical Machine Translation
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Jan 2009</td>
-<td align=left>Roger Levy (UCSD)</td>
-<td align=left>
+<td>23 Jan 2009</td>
+<td>Roger Levy (UCSD)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Jan_2009');">
 Noise and memory in rational human language comprehension
 </a><br>
@@ -8604,9 +8604,9 @@ Noise and memory in rational human language comprehension
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Dec 2008</td>
-<td align=left>Liang Huang (UPenn => Google Research)</td>
-<td align=left>
+<td>17 Dec 2008</td>
+<td>Liang Huang (UPenn => Google Research)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Dec_2008');">
 Tree-based and Forest-based Translation
 </a><br>
@@ -8632,9 +8632,9 @@ http://www.cis.upenn.edu/~lhuang3/
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Nov 2008</td>
-<td align=left>Daniel Marcu</td>
-<td align=left>
+<td>07 Nov 2008</td>
+<td>Daniel Marcu</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Nov_2008');">
 The best/worst Speech Recognition, Language Modeling, and Machine Translation ideas
 </a><br>
@@ -8655,9 +8655,9 @@ This talk summarizes the perceptions and trends identified in the collection of 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Oct 2008</td>
-<td align=left>Jens Voeckler</td>
-<td align=left>
+<td>17 Oct 2008</td>
+<td>Jens Voeckler</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Oct_2008');">
 Parsing XRS with(out) regular expressions
 </a><br>
@@ -8671,9 +8671,9 @@ Parsing XRS with(out) regular expressions
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Oct 2008</td>
-<td align=left>Victoria Fossum + David Chiang</td>
-<td align=left>
+<td>14 Oct 2008</td>
+<td>Victoria Fossum + David Chiang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Oct_2008');">
 Practice talks for AMTA/EMNLP
 </a><br>
@@ -8696,9 +8696,9 @@ Minimum-error-rate training (MERT) is a bottleneck for current development in st
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Oct 2008</td>
-<td align=left>Sujith Ravi + Steve DeNeefe</td>
-<td align=left>
+<td>10 Oct 2008</td>
+<td>Sujith Ravi + Steve DeNeefe</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Oct_2008');">
 Practice talks for AMTA/EMNLP
 </a><br>
@@ -8724,9 +8724,9 @@ Source languages with complex word formation rules present a challenge for stati
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Sep 2008</td>
-<td align=left>Eugene Charniak (Brown University)</td>
-<td align=left>
+<td>26 Sep 2008</td>
+<td>Eugene Charniak (Brown University)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Sep_2008');">
 EM Works for Pronoun-Anaphora Resolution
 </a><br>
@@ -8745,9 +8745,9 @@ Eugene Charniak is Professor of  Computer Science. and Cognitive Science at Brow
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Sep 2008</td>
-<td align=left>Fei Sha (USC)</td>
-<td align=left>
+<td>19 Sep 2008</td>
+<td>Fei Sha (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Sep_2008');">
 Large margin based parameter estimation for hidden Markov models
 </a><br>
@@ -8768,9 +8768,9 @@ Towards the end of the talk, I will discuss briefly the connection of our work t
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Aug 2008</td>
-<td align=left>Amittai Axelrod (UW)</td>
-<td align=left>
+<td>22 Aug 2008</td>
+<td>Amittai Axelrod (UW)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Aug_2008b');">
 Intern Final Talk: Structural constraints for efficient decoding.
 </a><br>
@@ -8783,9 +8783,9 @@ Intern Final Talk: Structural constraints for efficient decoding.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Aug 2008</td>
-<td align=left>Catalin Tirnauca (Univ. Rovira i Virgili)</td>
-<td align=left>
+<td>22 Aug 2008</td>
+<td>Catalin Tirnauca (Univ. Rovira i Virgili)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Aug_2008');">
 Intern Final Talk:  On the Consistency of Probabilistic Context-Free Grammars
 </a><br>
@@ -8800,9 +8800,9 @@ The talk is a survey of some of the previous results. We investigate how we can 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Aug 2008</td>
-<td align=left>John DeNero (Berkeley)</td>
-<td align=left>
+<td>20 Aug 2008</td>
+<td>John DeNero (Berkeley)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Aug_2008b');">
 Intern Final Talk: Minimum Risk Decoding over Forests
 </a><br>
@@ -8820,9 +8820,9 @@ derivations from a syntax-based translation system.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Aug 2008</td>
-<td align=left>Kyle Gorman (Penn)</td>
-<td align=left>
+<td>20 Aug 2008</td>
+<td>Kyle Gorman (Penn)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Aug_2008');">
 Intern Final Talk:  The Entropy of English given French
 </a><br>
@@ -8849,9 +8849,9 @@ parallel data.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 Jul 2008</td>
-<td align=left>Sujith Ravi</td>
-<td align=left>
+<td>18 Jul 2008</td>
+<td>Sujith Ravi</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Jul_2008');">
 Deciphering Ciphers Optimally Using Only Minimal Knowledge of the Source Language
 </a><br>
@@ -8864,9 +8864,9 @@ Deciphering Ciphers Optimally Using Only Minimal Knowledge of the Source Languag
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Jul 2008</td>
-<td align=left>Jonathan May</td>
-<td align=left>
+<td>11 Jul 2008</td>
+<td>Jonathan May</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Jul_2008');">
 Thesis Proposal Practice Talk:  A Weighted Tree Transducer Toolkit for Syntactic Natural Language Processing Models
 </a><br>
@@ -8879,9 +8879,9 @@ Thesis Proposal Practice Talk:  A Weighted Tree Transducer Toolkit for Syntactic
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>13 Jun 2008</td>
-<td align=left>Ellen Riloff</td>
-<td align=left>
+<td>13 Jun 2008</td>
+<td>Ellen Riloff</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Jun_2008');">
 Effective Information Extraction with Relevant Regions and Semantic Affinity Patterns
 </a><br>
@@ -8907,9 +8907,9 @@ relevant region classifier leaves a lot to be desired.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 Jun 2008</td>
-<td align=left>Tom Murray (USC)</td>
-<td align=left>
+<td>06 Jun 2008</td>
+<td>Tom Murray (USC)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Jun_2008');">
 Knowledge as a Constraint on Uncertainty for Unsupervised Classification
 </a><br>
@@ -8922,9 +8922,9 @@ Knowledge as a Constraint on Uncertainty for Unsupervised Classification
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 May 2008</td>
-<td align=left>Steve DeNeefe</td>
-<td align=left>
+<td>30 May 2008</td>
+<td>Steve DeNeefe</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_May_2008');">
 BLEU Sway Issues: one way to get statistical significance, two ways to get a better score, and three ways to thwart them
 </a><br>
@@ -8937,9 +8937,9 @@ BLEU Sway Issues: one way to get statistical significance, two ways to get a bet
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 May 2008</td>
-<td align=left>David Newman (UCI)</td>
-<td align=left>
+<td>16 May 2008</td>
+<td>David Newman (UCI)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_May_2008');">
 Theory and Applications of Topic Modeling
 </a><br>
@@ -8961,9 +8961,9 @@ Supervised Topic Model, Spatial LDA, etc.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 May 2008</td>
-<td align=left>John DeNero (Berkeley)</td>
-<td align=left>
+<td>09 May 2008</td>
+<td>John DeNero (Berkeley)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_May_2008');">
 Inference in phrase alignment models
 </a><br>
@@ -8997,9 +8997,9 @@ could potentially extend this work to syntactic MT.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>02 May 2008</td>
-<td align=left>Zornitsa Kozareva</td>
-<td align=left>
+<td>02 May 2008</td>
+<td>Zornitsa Kozareva</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs02_May_2008');">
 Semantic Class Learning from the Web with Hyponym Pattern Linkage Graphs
 </a><br>
@@ -9023,9 +9023,9 @@ classes and consistently achieved high accuracies.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Apr 2008</td>
-<td align=left>David Chiang</td>
-<td align=left>
+<td>25 Apr 2008</td>
+<td>David Chiang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Apr_2008');">
 Tutorial: Randomized data structures for large statistical NLP models
 </a><br>
@@ -9038,9 +9038,9 @@ Tutorial: Randomized data structures for large statistical NLP models
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 Apr 2008</td>
-<td align=left>Rahul Bhagat</td>
-<td align=left>
+<td>18 Apr 2008</td>
+<td>Rahul Bhagat</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Apr_2008');">
 Learning Paraphrases from Text
 </a><br>
@@ -9053,9 +9053,9 @@ Learning Paraphrases from Text
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Apr 2008</td>
-<td align=left>Jonathan May</td>
-<td align=left>
+<td>11 Apr 2008</td>
+<td>Jonathan May</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Apr_2008');">
 Syntactic Re-Alignment Models for Machine Translation
 </a><br>
@@ -9068,9 +9068,9 @@ Syntactic Re-Alignment Models for Machine Translation
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>04 Apr 2008</td>
-<td align=left>Ulf Hermjakob</td>
-<td align=left>
+<td>04 Apr 2008</td>
+<td>Ulf Hermjakob</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Apr_2008');">
 Name Translation in Statistical Machine Translation: Learning When to Transliterate
 </a><br>
@@ -9091,9 +9091,9 @@ translation evaluation.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Mar 2008</td>
-<td align=left>Jason Riesa</td>
-<td align=left>
+<td>25 Mar 2008</td>
+<td>Jason Riesa</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Mar_2008');">
 Tutorial on Arabic Orthography
 </a><br>
@@ -9106,9 +9106,9 @@ Tutorial on Arabic Orthography
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 Jan 2008</td>
-<td align=left>Victoria Fossum</td>
-<td align=left>
+<td>18 Jan 2008</td>
+<td>Victoria Fossum</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Jan_2008');">
 Using Syntax to Improve Word Alignment Precision for Syntactic Machine Translation
 </a><br>
@@ -9121,9 +9121,9 @@ Using Syntax to Improve Word Alignment Precision for Syntactic Machine Translati
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Jan 2008</td>
-<td align=left>Kevin Knight</td>
-<td align=left>
+<td>11 Jan 2008</td>
+<td>Kevin Knight</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Jan_2008');">
 How to Make EM Do What You Want
 </a><br>
@@ -9136,9 +9136,9 @@ How to Make EM Do What You Want
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Dec 2007</td>
-<td align=left>Marieke van Erp</td>
-<td align=left>
+<td>14 Dec 2007</td>
+<td>Marieke van Erp</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Dec_2007');">
 MITCH: Mining for Information in Texts from the Cultural Heritage
 </a><br>
@@ -9155,9 +9155,9 @@ The project addresses its goals on three levels. The basic level is the developm
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>02 Nov 2007</td>
-<td align=left>Bill Rounds (Michigan and Stanford)</td>
-<td align=left>
+<td>02 Nov 2007</td>
+<td>Bill Rounds (Michigan and Stanford)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs02_Nov_2007');">
 Constructions, Constraints, Transducers, and TAGs: A unifying view through Feature Logic
 </a><br>
@@ -9170,9 +9170,9 @@ Constructions, Constraints, Transducers, and TAGs: A unifying view through Featu
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Oct 2007</td>
-<td align=left>Slav Petrov (Berkeley)</td>
-<td align=left>
+<td>19 Oct 2007</td>
+<td>Slav Petrov (Berkeley)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Oct_2007');">
 Learning and Inference for Hierarchically Split PCFGs
 </a><br>
@@ -9193,9 +9193,9 @@ improves inference time with no loss in test set accuracy.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Oct 2007</td>
-<td align=left>Jon Patrick (Univ. of Sydney)</td>
-<td align=left>
+<td>17 Oct 2007</td>
+<td>Jon Patrick (Univ. of Sydney)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Oct_2007');">
 Enhancement Technologies for ICU Information Systems
 </a><br>
@@ -9261,9 +9261,9 @@ and is applicable to any clinical specialisation.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Oct 2007</td>
-<td align=left>David Talbot (Edinburgh)</td>
-<td align=left>
+<td>12 Oct 2007</td>
+<td>David Talbot (Edinburgh)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Oct_2007');">
 Scalable Language Modeling: Breaking the Curse of Dimensionality
 </a><br>
@@ -9284,9 +9284,9 @@ No prior knowledge of randomized data structures will be assumed.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Oct 2007</td>
-<td align=left>Sujith Ravi</td>
-<td align=left>
+<td>05 Oct 2007</td>
+<td>Sujith Ravi</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Oct_2007');">
 Will this parser work with my data? - Predicting Parser Accuracy without Gold-Standard information
 </a><br>
@@ -9301,9 +9301,9 @@ We attempted to build a system which can predict the accuracy (in terms of f-mea
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 Aug 2007</td>
-<td align=left>Carmen Heger (Dresden) <br> Michael Bloodgood (Delaware)</td>
-<td align=left>
+<td>29 Aug 2007</td>
+<td>Carmen Heger (Dresden) <br> Michael Bloodgood (Delaware)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_Aug_2007');">
 Summer Intern Presentations: Composition of Tree Transducers AND Using the Perceptron Algorithm to Tune Large Numbers of Feature Weights for Syntax-Based Statistical Machine Translation
 </a><br>
@@ -9343,9 +9343,9 @@ numbers of features) that can be used for improving MT performance.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Aug 2007</td>
-<td align=left>Wei Ho (Princeton) <br> Jennifer Gillenwater (Rice)</td>
-<td align=left>
+<td>24 Aug 2007</td>
+<td>Wei Ho (Princeton) <br> Jennifer Gillenwater (Rice)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Aug_2007');">
 Summer Intern Presentations: Noisy Language Models AND Context for Syntax-Based Translation Rules
 </a><br>
@@ -9377,9 +9377,9 @@ rule.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Aug 2007</td>
-<td align=left>Anoop Sarkar (Simon Fraser)</td>
-<td align=left>
+<td>16 Aug 2007</td>
+<td>Anoop Sarkar (Simon Fraser)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Aug_2007');">
 Extensions of Regular Tree Grammars and their relation to Tree Adjoining Grammars
 </a><br>
@@ -9430,9 +9430,9 @@ Anoop Sarkar's web-page: <a href=http://www.cs.sfu.ca/~anoop/> http://www.cs.sfu
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Jun 2007</td>
-<td align=left>Donghui Feng</td>
-<td align=left>
+<td>15 Jun 2007</td>
+<td>Donghui Feng</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Jun_2007b');">
 Extracting Data Records from Unstructured Biomedical Full Text
 </a><br>
@@ -9454,9 +9454,9 @@ performance compared with other baseline systems.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Jun 2007</td>
-<td align=left>Alex Fraser</td>
-<td align=left>
+<td>15 Jun 2007</td>
+<td>Alex Fraser</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Jun_2007');">
 Getting the structure right for word alignment: LEAF
 </a><br>
@@ -9480,9 +9480,9 @@ hierarchical and phrasal SMT systems improves the BLEU score.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Jun 2007</td>
-<td align=left>Liang-Chih Yu (Cheng Kung U)</td>
-<td align=left>
+<td>08 Jun 2007</td>
+<td>Liang-Chih Yu (Cheng Kung U)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Jun_2007');">
 Topic Analysis for Psychiatric Document Retrieval (Practice Talk for ACL)
 </a><br>
@@ -9519,9 +9519,9 @@ retrieval, ontology construction, spoken dialogue system.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Jun 2007</td>
-<td align=left>Jonathan May</td>
-<td align=left>
+<td>08 Jun 2007</td>
+<td>Jonathan May</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Jun_2007b');">
 Bisimulation Minimisation for Weighted Tree Automata
 </a><br>
@@ -9545,9 +9545,9 @@ Maletti, Technische Universitat Dresden.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>01 Jun 2007</td>
-<td align=left>Jingbo Zhu</td>
-<td align=left>
+<td>01 Jun 2007</td>
+<td>Jingbo Zhu</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs01_Jun_2007');">
 Active Learning for Word Sense Disambiguation with Methods for Addressing the Class Imbalance Problem
 </a><br>
@@ -9572,9 +9572,9 @@ min-error as the lower bound for stopping conditions.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>01 Jun 2007</td>
-<td align=left>Andrew S. Gordon</td>
-<td align=left>
+<td>01 Jun 2007</td>
+<td>Andrew S. Gordon</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs01_Jun_2007b');">
 Generalizing Semantic Role Annotations Across Syntactically Similar Verbs
 </a><br>
@@ -9597,9 +9597,9 @@ corresponding annotations in PropBank as surrogate training data.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 May 2007</td>
-<td align=left>Wei Wang (Language Weaver)</td>
-<td align=left>
+<td>25 May 2007</td>
+<td>Wei Wang (Language Weaver)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_May_2007');">
 Binarizing Syntax Trees to Improve Syntax-Based Machine Translation Accuracy
 </a><br>
@@ -9620,9 +9620,9 @@ translation result.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 May 2007</td>
-<td align=left>Feng Pan</td>
-<td align=left>
+<td>18 May 2007</td>
+<td>Feng Pan</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_May_2007');">
 Computing Semantic Similarity between Skill Statements for Approximate Matching
 </a><br>
@@ -9656,9 +9656,9 @@ comparable to the level of human agreement.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 May 2007</td>
-<td align=left>Steve DeNeefe</td>
-<td align=left>
+<td>11 May 2007</td>
+<td>Steve DeNeefe</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_May_2007');">
 What Can Syntax-based MT Learn from Phrase-based MT?
 </a><br>
@@ -9679,9 +9679,9 @@ all variations.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>04 May 2007</td>
-<td align=left>Sheelagh Carpendale (Calgary)</td>
-<td align=left>
+<td>04 May 2007</td>
+<td>Sheelagh Carpendale (Calgary)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_May_2007');">
 Information Visualization and Collaboration
 </a><br>
@@ -9720,9 +9720,9 @@ Science (BSc. and Ph.D. Simon Fraser University) and Visual Arts
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Apr 2007</td>
-<td align=left>Christopher Collins (Toronto)</td>
-<td align=left>
+<td>20 Apr 2007</td>
+<td>Christopher Collins (Toronto)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Apr_2007');">
 Information Visualization to Support Computational Linguistics
 </a><br>
@@ -9748,9 +9748,9 @@ Gerald Penn and Prof. Sheelagh Carpendale (University of Calgary).
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Mar 2007</td>
-<td align=left>Ido Dagan (Bar-Ilan U)</td>
-<td align=left>
+<td>30 Mar 2007</td>
+<td>Ido Dagan (Bar-Ilan U)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Mar_2007');">
 Textual entailment as a framework for applied semantics
 </a><br>
@@ -9790,9 +9790,9 @@ FocusEngine and VP of Technology of LingoMotors.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Mar 2007</td>
-<td align=left>Hermann Helbig (U at Hagen, Germany)</td>
-<td align=left>
+<td>23 Mar 2007</td>
+<td>Hermann Helbig (U at Hagen, Germany)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Mar_2007');">
 Multilayered Extended Semantic Networks as a Knowledge Representation Paradigm and Interlingua for Meaning Representation
 </a><br>
@@ -9841,9 +9841,9 @@ A CV can be found <a href="slides/CV-En-HH.pdf"> here</a>.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Mar 2007</td>
-<td align=left>Kevin Knight</td>
-<td align=left>
+<td>09 Mar 2007</td>
+<td>Kevin Knight</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Mar_2007');">
 The Voynich Manuscript
 </a><br>
@@ -9865,9 +9865,9 @@ a computer science talk.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Jan 2007</td>
-<td align=left>Gerald Penn (Toronto)</td>
-<td align=left>
+<td>26 Jan 2007</td>
+<td>Gerald Penn (Toronto)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Jan_2007');">
 The Quantitative Study of Writing Systems
 </a><br>
@@ -9902,9 +9902,9 @@ synthesis, machine translation, and multilingual document retrieval.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Jan 2007</td>
-<td align=left>Kevin Knight</td>
-<td align=left>
+<td>12 Jan 2007</td>
+<td>Kevin Knight</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Jan_2007');">
 Capturing Natural Language Transformations
 </a><br>
@@ -9943,9 +9943,9 @@ on and on, I promise to finish within 50 minutes.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Jan 2007</td>
-<td align=left>Beata Klebanov (Hebrew U)</td>
-<td align=left>
+<td>05 Jan 2007</td>
+<td>Beata Klebanov (Hebrew U)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Jan_2007');">
 Experimental and Computational Investigation of Lexical Cohesion in Texts
 </a><br>
@@ -9977,9 +9977,9 @@ pragmatics.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Dec 2006</td>
-<td align=left>Jerry Hobbs</td>
-<td align=left>
+<td>15 Dec 2006</td>
+<td>Jerry Hobbs</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Dec_2006');">
 When Will Computers Understand Shakespeare?
 </a><br>
@@ -10003,9 +10003,9 @@ plays of dubious authorship.  But that was all a long time ago.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Dec 2006</td>
-<td align=left>Liang Huang (Penn)</td>
-<td align=left>
+<td>14 Dec 2006</td>
+<td>Liang Huang (Penn)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Dec_2006');">
 Faster Decoding with Synchronous Grammars and n-gram Language Models
 </a><br>
@@ -10037,9 +10037,9 @@ This is joint work with David Chiang (ISI).
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Nov 2006</td>
-<td align=left>Mark Hopkins (Potsdam)</td>
-<td align=left>
+<td>27 Nov 2006</td>
+<td>Mark Hopkins (Potsdam)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Nov_2006');">
 Towards the Effective Exploitation of Syntax in Machine Translation
 </a><br>
@@ -10055,9 +10055,9 @@ effectively, given a very limited quantity of parsed training data.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Nov 2006</td>
-<td align=left>David DeVault (Rutgers)</td>
-<td align=left>
+<td>17 Nov 2006</td>
+<td>David DeVault (Rutgers)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Nov_2006');">
 Scorekeeping in an Uncertain Language Game
 </a><br>
@@ -10100,9 +10100,9 @@ intention for implemented conversational systems.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Nov 2006</td>
-<td align=left>Jens-Soenke Voeckler</td>
-<td align=left>
+<td>03 Nov 2006</td>
+<td>Jens-Soenke Voeckler</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Nov_2006');">
 perl part 2 - advanced magick
 </a><br>
@@ -10129,9 +10129,9 @@ send me an email
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Oct 2006</td>
-<td align=left>Jens-Soenke Voeckler</td>
-<td align=left>
+<td>23 Oct 2006</td>
+<td>Jens-Soenke Voeckler</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Oct_2006');">
 perl - how to use it, not abuse it
 </a><br>
@@ -10154,9 +10154,9 @@ laptops will be provided.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 Sep 2006</td>
-<td align=left>Ashish Venugopal (CMU)</td>
-<td align=left>
+<td>29 Sep 2006</td>
+<td>Ashish Venugopal (CMU)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_Sep_2006');">
 Delayed LM Intersection and Left-to-Right N-Best Extraction for Syntax-Based MT
 </a><br>
@@ -10203,9 +10203,9 @@ translation.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Sep 2006</td>
-<td align=left>Eduard Hovy</td>
-<td align=left>
+<td>22 Sep 2006</td>
+<td>Eduard Hovy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Sep_2006');">
 Toward a 'Science' of Annotation: Experiences from OntoNotes
 </a><br>
@@ -10253,9 +10253,9 @@ ongoing OntoNotes project (joint with BBN, the University of Colorado
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Aug 2006</td>
-<td align=left>Victoria Fossum (Michigan)</td>
-<td align=left>
+<td>25 Aug 2006</td>
+<td>Victoria Fossum (Michigan)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Aug_2006');">
 Improving Precision of Word Alignments Using GHKM Syntax-Based Rule Extraction
 </a><br>
@@ -10281,9 +10281,9 @@ while only decreasing recall slightly.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Aug 2006</td>
-<td align=left>Jason Riesa</td>
-<td align=left>
+<td>25 Aug 2006</td>
+<td>Jason Riesa</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Aug_2006b');">
 Minimally Supervised Morphological Segmentation with Applications to Machine Translation
 </a><br>
@@ -10301,9 +10301,9 @@ BLEU score over a previous state-of-the-art phrase-based statistical MT system.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Aug 2006</td>
-<td align=left>Oana-Diana Postolache</td>
-<td align=left>
+<td>23 Aug 2006</td>
+<td>Oana-Diana Postolache</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Aug_2006');">
 Towards combining Searn and Syntax-Based Machine Translation (SBMT)
 </a><br>
@@ -10322,9 +10322,9 @@ and the search space and how to implement the cost function.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Aug 2006</td>
-<td align=left>Joseph Turian (NYU)</td>
-<td align=left>
+<td>23 Aug 2006</td>
+<td>Joseph Turian (NYU)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Aug_2006b');">
 Speeding-up Syntax-based Decoding
 </a><br>
@@ -10339,9 +10339,9 @@ Speeding-up Syntax-based Decoding
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 Aug 2006</td>
-<td align=left>Chenhai Xi</td>
-<td align=left>
+<td>18 Aug 2006</td>
+<td>Chenhai Xi</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Aug_2006');">
 Name Entity Transliteration Discovery from Large Bilingual Comparable Corpora
 </a><br>
@@ -10364,9 +10364,9 @@ phonetic similarity to improve the accuracy of the name pairs list.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Aug 2006</td>
-<td align=left>Idan Szpektor (Bar-Ilan U)</td>
-<td align=left>
+<td>11 Aug 2006</td>
+<td>Idan Szpektor (Bar-Ilan U)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Aug_2006');">
 Textual Entailment: Framework, Learning and Applications
 </a><br>
@@ -10399,9 +10399,9 @@ acquisition of knowledge for textual entailment.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>04 Aug 2006</td>
-<td align=left>Shou-de Lin</td>
-<td align=left>
+<td>04 Aug 2006</td>
+<td>Shou-de Lin</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Aug_2006');">
 Ph.D. defense practice talk
 </a><br>
@@ -10439,9 +10439,9 @@ more efficient and accurate manner
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>28 Jul 2006</td>
-<td align=left>Qin Iris Wang (Alberta)</td>
-<td align=left>
+<td>28 Jul 2006</td>
+<td>Qin Iris Wang (Alberta)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Jul_2006');">
 Improved Large Margin Dependency Parsing via Local Constraints and Laplacian Regularization
 </a><br>
@@ -10475,9 +10475,9 @@ discriminative methods.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Jul 2006</td>
-<td align=left>Dragos Munteanu + Joseph Turian</td>
-<td align=left>
+<td>11 Jul 2006</td>
+<td>Dragos Munteanu + Joseph Turian</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Jul_2006');">
 Practice Talks for ACL
 </a><br>
@@ -10515,9 +10515,9 @@ with several parsing strategies and various feature sets.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Jun 2006</td>
-<td align=left>David Chiang and Kevin Knight</td>
-<td align=left>
+<td>30 Jun 2006</td>
+<td>David Chiang and Kevin Knight</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Jun_2006');">
 Synchronous Grammars and Tree Transducers
 </a><br>
@@ -10539,9 +10539,9 @@ systems, which we cover in this tutorial.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Jun 2006</td>
-<td align=left>Joseph Turian (NYU)</td>
-<td align=left>
+<td>23 Jun 2006</td>
+<td>Joseph Turian (NYU)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Jun_2006');">
 Discriminative Training for Large-Scale NLP
 </a><br>
@@ -10567,9 +10567,9 @@ the method's versatility, accuracy, and efficiency.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 May 2006</td>
-<td align=left>Radu Soricut and Hal Daume III</td>
-<td align=left>
+<td>26 May 2006</td>
+<td>Radu Soricut and Hal Daume III</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_May_2006');">
 Defense Practice Talks: Generation and Learning
 </a><br>
@@ -10631,9 +10631,9 @@ state-of-the-art performance.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 May 2006</td>
-<td align=left>Hal Daume III</td>
-<td align=left>
+<td>24 May 2006</td>
+<td>Hal Daume III</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_May_2006');">
 Beyond EM: Bayesian Techniques for Human Language Technology Researchers
 </a><br>
@@ -10686,9 +10686,9 @@ recognition might also find the tutorial of interest.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 May 2006</td>
-<td align=left>Patrick Pantel</td>
-<td align=left>
+<td>19 May 2006</td>
+<td>Patrick Pantel</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_May_2006');">
 Espresso: Making Use of Generic Patterns for Mining Relations from Small and Large Corpora
 </a><br>
@@ -10713,9 +10713,9 @@ with small effect on overall precision.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 May 2006</td>
-<td align=left>Nick Mote and Donghui Feng</td>
-<td align=left>
+<td>12 May 2006</td>
+<td>Nick Mote and Donghui Feng</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_May_2006');">
 Pedagogical Contextualization of Language Learner Speech Errors AND Learning to Detect Conversation Focus of Threaded Discussions
 </a><br>
@@ -10780,9 +10780,9 @@ system.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 May 2006</td>
-<td align=left>Namhee Kwon</td>
-<td align=left>
+<td>05 May 2006</td>
+<td>Namhee Kwon</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_May_2006');">
 Recognizing Argument Structures in Texts
 </a><br>
@@ -10801,9 +10801,9 @@ officials in response to proposed regulations.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>28 Apr 2006</td>
-<td align=left>Feng Pan</td>
-<td align=left>
+<td>28 Apr 2006</td>
+<td>Feng Pan</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Apr_2006');">
 Learning Event Durations from Event Descriptions
 </a><br>
@@ -10835,9 +10835,9 @@ represented in both first-order logic and the OWL web ontology language.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>21 Apr 2006</td>
-<td align=left>Soo-Min Kim</td>
-<td align=left>
+<td>21 Apr 2006</td>
+<td>Soo-Min Kim</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_Apr_2006');">
 Identifying and Analyzing Judgment Opinions
 </a><br>
@@ -10855,9 +10855,9 @@ both intrinsic and extrinsic measures.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Apr 2006</td>
-<td align=left>Radu Soricut</td>
-<td align=left>
+<td>14 Apr 2006</td>
+<td>Radu Soricut</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Apr_2006');">
 Natural Language Generation for Text-to-Text Applications using an Information-Slim Representation
 </a><br>
@@ -10891,9 +10891,9 @@ coherence.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Mar 2006</td>
-<td align=left>Dragos Munteanu</td>
-<td align=left>
+<td>24 Mar 2006</td>
+<td>Dragos Munteanu</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Mar_2006');">
 Automatic creation of parallel corpora
 </a><br>
@@ -10929,9 +10929,9 @@ Arabic-English).
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Mar 2006</td>
-<td align=left>Jonathan May</td>
-<td align=left>
+<td>17 Mar 2006</td>
+<td>Jonathan May</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Mar_2006');">
 Tiburon: A Finite State Tree Automata Toolkit
 </a><br>
@@ -10963,9 +10963,9 @@ and potential power, and discuss the challenges ahead.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Mar 2006</td>
-<td align=left>Mark Hopkins</td>
-<td align=left>
+<td>10 Mar 2006</td>
+<td>Mark Hopkins</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Mar_2006');">
 Exploring the Potential of Intractable Parsers
 </a><br>
@@ -10985,9 +10985,9 @@ state-of-the-art approaches, in terms of both accuracy and speed.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Mar 2006</td>
-<td align=left>Liang Huang (Penn)</td>
-<td align=left>
+<td>03 Mar 2006</td>
+<td>Liang Huang (Penn)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Mar_2006');">
 Syntax-Directed Translation with Extended Domain of Locality
 </a><br>
@@ -11020,9 +11020,9 @@ parsing algorithms (with David Chiang) and synchronous binarization for MT
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Feb 2006</td>
-<td align=left>Hal Daume III</td>
-<td align=left>
+<td>24 Feb 2006</td>
+<td>Hal Daume III</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Feb_2006');">
 Search-based Structured Prediction
 </a><br>
@@ -11050,9 +11050,9 @@ Watson).
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Feb 2006</td>
-<td align=left>David Chiang</td>
-<td align=left>
+<td>10 Feb 2006</td>
+<td>David Chiang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Feb_2006');">
 Parsing Arabic Dialects
 </a><br>
@@ -11088,9 +11088,9 @@ V.  Lacey, R. Levy, C. Nichols and S. Shareef.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Feb 2006</td>
-<td align=left>Alex Fraser</td>
-<td align=left>
+<td>03 Feb 2006</td>
+<td>Alex Fraser</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Feb_2006');">
 Measuring Word Alignment Quality for Statistical Machine Translation
 </a><br>
@@ -11118,9 +11118,9 @@ and search for word alignment.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Jan 2006</td>
-<td align=left>John Conroy</td>
-<td align=left>
+<td>27 Jan 2006</td>
+<td>John Conroy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Jan_2006');">
 Multi-Document Summary Space:What do People Agree is Important?
 </a><br>
@@ -11152,9 +11152,9 @@ Computational Linguistics.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Jan 2006</td>
-<td align=left>Tim Chklovski</td>
-<td align=left>
+<td>26 Jan 2006</td>
+<td>Tim Chklovski</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Jan_2006');">
 GrainPile: Deriving Quantitative Overviews of Free Text Assessments on the Web
 </a><br>
@@ -11193,9 +11193,9 @@ http://www.isi.edu/~timc/papers/IUI06-grainpile-chkl.pdf
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Dec 2005</td>
-<td align=left>Jonathan May</td>
-<td align=left>
+<td>16 Dec 2005</td>
+<td>Jonathan May</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Dec_2005');">
 A Better N-Best List - Practical Determinization of Weighted Finite Tree Automata
 </a><br>
@@ -11218,9 +11218,9 @@ Data Oriented Parsing.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Sep 2005</td>
-<td align=left>David Chiang</td>
-<td align=left>
+<td>30 Sep 2005</td>
+<td>David Chiang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Sep_2005');">
 Some Computational Complexity Results for Synchronous Context-Free Grammars
 </a><br>
@@ -11242,9 +11242,9 @@ in the literature.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 Sep 2005</td>
-<td align=left>Tim Chklovski</td>
-<td align=left>
+<td>29 Sep 2005</td>
+<td>Tim Chklovski</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_Sep_2005');">
 Previews of my talks for K-CAP
 </a><br>
@@ -11271,9 +11271,9 @@ Timothy Chklovski)
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Aug 2005</td>
-<td align=left>Fossum, Huang and Zhang</td>
-<td align=left>
+<td>26 Aug 2005</td>
+<td>Fossum, Huang and Zhang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Aug_2005');">
 Summer Student Presentations
 </a><br>
@@ -11331,9 +11331,9 @@ decoding process.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Aug 2005</td>
-<td align=left>Hopkins, Riesa, and Nakov</td>
-<td align=left>
+<td>24 Aug 2005</td>
+<td>Hopkins, Riesa, and Nakov</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Aug_2005');">
 Summer Student Presentations
 </a><br>
@@ -11395,9 +11395,9 @@ Xx" to En; and (b) from Fr to "En and Xx".
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Aug 2005</td>
-<td align=left>Jan Hajic (Charles U)</td>
-<td align=left>
+<td>05 Aug 2005</td>
+<td>Jan Hajic (Charles U)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Aug_2005b');">
 The Family of Prague Dependency Treebanks
 </a><br>
@@ -11423,9 +11423,9 @@ annotation itself and for corpus-based NLP of Czech, English and Arabic.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Aug 2005</td>
-<td align=left>Doug Oard (Maryland)</td>
-<td align=left>
+<td>05 Aug 2005</td>
+<td>Doug Oard (Maryland)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Aug_2005');">
 The CLEF Cross-Language Speech Retrieval Test Collection
 </a><br>
@@ -11467,9 +11467,9 @@ available at http://www.glue.umd.edu/~oard/.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Jul 2005</td>
-<td align=left>Victoria Li Fossum (Michigan)</td>
-<td align=left>
+<td>15 Jul 2005</td>
+<td>Victoria Li Fossum (Michigan)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Jul_2005');">
 Inducing POS Taggers by Projecting from Multiple Source Languages
 </a><br>
@@ -11498,9 +11498,9 @@ using multiple source languages improves performance.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Jul 2005</td>
-<td align=left>Radu Soricut</td>
-<td align=left>
+<td>07 Jul 2005</td>
+<td>Radu Soricut</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Jul_2005');">
 Natural Language Generation for Text-to-Text Applications Using an Information-Slim Representation
 </a><br>
@@ -11536,9 +11536,9 @@ headline generation.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 Jul 2005</td>
-<td align=left>Alessandro Moschitti (Rome)</td>
-<td align=left>
+<td>06 Jul 2005</td>
+<td>Alessandro Moschitti (Rome)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Jul_2005');">
 Kernel Methods for Semantic Role Labeling
 </a><br>
@@ -11595,9 +11595,9 @@ semantic processing.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Jun 2005</td>
-<td align=left>Michael Fleischman (MIT)</td>
-<td align=left>
+<td>23 Jun 2005</td>
+<td>Michael Fleischman (MIT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Jun_2005');">
 Intentional Context in Situated Language Learning
 </a><br>
@@ -11623,9 +11623,9 @@ environments.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Jun 2005</td>
-<td align=left>Hal Daume III</td>
-<td align=left>
+<td>22 Jun 2005</td>
+<td>Hal Daume III</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Jun_2005');">
 Beyond EM: Bayesian Techniques for NLP Researchers
 </a><br>
@@ -11678,9 +11678,9 @@ people are interested in and what is putting people to sleep.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Jun 2005</td>
-<td align=left>Mitsunori Matsushita</td>
-<td align=left>
+<td>22 Jun 2005</td>
+<td>Mitsunori Matsushita</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Jun_2005b');">
 Lumisight Table: A Face-to-face Collaboration Support System That Optimizes Direction of Projected Information to Each Stakeholder
 </a><br>
@@ -11714,9 +11714,9 @@ interaction design.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Jun 2005</td>
-<td align=left>Birte Loenneker (Hamburg)</td>
-<td align=left>
+<td>20 Jun 2005</td>
+<td>Birte Loenneker (Hamburg)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Jun_2005');">
 Between Story Generation and Natural Language Generation
 </a><br>
@@ -11786,9 +11786,9 @@ board member of the German Cognitive Linguistics Association.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Jun 2005</td>
-<td align=left>Gully Burns</td>
-<td align=left>
+<td>17 Jun 2005</td>
+<td>Gully Burns</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Jun_2005');">
 The neuroscience laboratory as a knowledge factory: challenges, approaches and tools
 </a><br>
@@ -11826,9 +11826,9 @@ natural language group at ISI and possible collaborations for the future.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>13 Jun 2005</td>
-<td align=left>Hal Daume III</td>
-<td align=left>
+<td>13 Jun 2005</td>
+<td>Hal Daume III</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Jun_2005');">
 Search, Learning and Features (my thesis proposal proposal)
 </a><br>
@@ -11859,9 +11859,9 @@ thesis, not covered by the first 80%.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Jun 2005</td>
-<td align=left>Liang Huang (Penn)</td>
-<td align=left>
+<td>10 Jun 2005</td>
+<td>Liang Huang (Penn)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Jun_2005');">
 Better k-best Parsing, Hypergraphs and Dynamic Programming
 </a><br>
@@ -11891,9 +11891,9 @@ Joint work with David Chiang (University of Maryland)
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Jun 2005</td>
-<td align=left>Hao Zhang (Rochester)</td>
-<td align=left>
+<td>08 Jun 2005</td>
+<td>Hao Zhang (Rochester)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Jun_2005');">
 Lexicalization and A* Searching for Inversion Transduction Grammar
 </a><br>
@@ -11920,9 +11920,9 @@ decoding.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 May 2005</td>
-<td align=left>Radu Soricut</td>
-<td align=left>
+<td>27 May 2005</td>
+<td>Radu Soricut</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_May_2005');">
 Towards Developing Generation Algorithms for Text-to-Text
 </a><br>
@@ -11941,9 +11941,9 @@ efficiency of these algorithms.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>13 May 2005</td>
-<td align=left>Ed Stabler (UCLA)</td>
-<td align=left>
+<td>13 May 2005</td>
+<td>Ed Stabler (UCLA)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_May_2005');">
 Natural Logic
 </a><br>
@@ -11966,9 +11966,9 @@ questions.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Apr 2005</td>
-<td align=left>Deepak Ravichandran</td>
-<td align=left>
+<td>22 Apr 2005</td>
+<td>Deepak Ravichandran</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Apr_2005');">
 Working with Large Corpus, High speed clustering and its applications
 </a><br>
@@ -11988,9 +11988,9 @@ large part of my thesis work.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>08 Apr 2005</td>
-<td align=left>Jamie Callan (CMU)</td>
-<td align=left>
+<td>08 Apr 2005</td>
+<td>Jamie Callan (CMU)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs08_Apr_2005');">
 Search Engines for HLT Applications
 </a><br>
@@ -12004,9 +12004,9 @@ Search Engines for HLT Applications
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Mar 2005</td>
-<td align=left>Dagen Wang</td>
-<td align=left>
+<td>25 Mar 2005</td>
+<td>Dagen Wang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Mar_2005');">
 Metalinguistic feature study for spontaneous speech in human computer interaction
 </a><br>
@@ -12031,9 +12031,9 @@ natural language understanding and dialog management.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 Mar 2005</td>
-<td align=left>Ed Hovy</td>
-<td align=left>
+<td>18 Mar 2005</td>
+<td>Ed Hovy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Mar_2005');">
 Methodologies of ontology content construction
 </a><br>
@@ -12055,9 +12055,9 @@ Please bring a pen or pencil and some paper; there is a small exercise!
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 Feb 2005</td>
-<td align=left>Inderjeet Mani (Georgetown)</td>
-<td align=left>
+<td>18 Feb 2005</td>
+<td>Inderjeet Mani (Georgetown)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Feb_2005');">
 TBA
 </a><br>
@@ -12071,9 +12071,9 @@ TBA
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Feb 2005</td>
-<td align=left>Tim Chklovski</td>
-<td align=left>
+<td>14 Feb 2005</td>
+<td>Tim Chklovski</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Feb_2005');">
 Collecting Broad-Coverage Knowledge Bases from Volunteers
 </a><br>
@@ -12087,9 +12087,9 @@ Collecting Broad-Coverage Knowledge Bases from Volunteers
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>11 Feb 2005</td>
-<td align=left>Hae-Chang Rim</td>
-<td align=left>
+<td>11 Feb 2005</td>
+<td>Hae-Chang Rim</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs11_Feb_2005');">
 Unsupervised Word Sense Disambiguation Using Wordnet Relatives
 </a><br>
@@ -12101,9 +12101,9 @@ Unsupervised Word Sense Disambiguation Using Wordnet Relatives
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>28 Jan 2005</td>
-<td align=left>Yutaka Sasaki (ATR)</td>
-<td align=left>
+<td>28 Jan 2005</td>
+<td>Yutaka Sasaki (ATR)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Jan_2005');">
 Research Activities in Speech Translation at ATR/QA as Question-Biased Term Extraction
 </a><br>
@@ -12144,9 +12144,9 @@ Cross-Lingual Question Answering Task.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Dec 2004</td>
-<td align=left>Nicola Ueffing</td>
-<td align=left>
+<td>17 Dec 2004</td>
+<td>Nicola Ueffing</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Dec_2004');">
 Word-Level Confidence Measures for SMT
 </a><br>
@@ -12184,9 +12184,9 @@ CLSP workshop at JHU.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Dec 2004</td>
-<td align=left>Nick Mote</td>
-<td align=left>
+<td>10 Dec 2004</td>
+<td>Nick Mote</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Dec_2004');">
 Developing a Language Model for Second Language Learner Speech
 </a><br>
@@ -12232,9 +12232,9 @@ linguistic (SLA and phonology) theory sprinkled in.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Nov 2004</td>
-<td align=left>Chin-Yew Lin</td>
-<td align=left>
+<td>19 Nov 2004</td>
+<td>Chin-Yew Lin</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Nov_2004');">
 After TIDES, What's Left? - Finding Basic Elements
 </a><br>
@@ -12255,9 +12255,9 @@ surface n-gram matching. Topics to be covered:
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Nov 2004</td>
-<td align=left>Thiago Pardo</td>
-<td align=left>
+<td>15 Nov 2004</td>
+<td>Thiago Pardo</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Nov_2004');">
 Unsupervised learning of verb argument structures
 </a><br>
@@ -12278,9 +12278,9 @@ ones in PropBank.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Nov 2004</td>
-<td align=left>Dragomir Radev</td>
-<td align=left>
+<td>12 Nov 2004</td>
+<td>Dragomir Radev</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Nov_2004');">
 Words, links, and patterns: novel representations for Web-scale text mining
 </a><br>
@@ -12340,9 +12340,9 @@ Mentorship (UROP).
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Nov 2004</td>
-<td align=left>Mary Wood (Manchester)</td>
-<td align=left>
+<td>05 Nov 2004</td>
+<td>Mary Wood (Manchester)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Nov_2004');">
 A Human-Computer Collaborative Approach to Computer Aided Assessment
 </a><br>
@@ -12371,9 +12371,9 @@ exam data and the techniques we are using and developing to handle them.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Oct 2004</td>
-<td align=left>Jerry Hobbs</td>
-<td align=left>
+<td>22 Oct 2004</td>
+<td>Jerry Hobbs</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Oct_2004');">
 Like Now:  Two Explorations in Deep Lexical Semantics
 </a><br>
@@ -12408,9 +12408,9 @@ order to infer the common property.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Sep 2004</td>
-<td align=left>Hal Daume III</td>
-<td align=left>
+<td>24 Sep 2004</td>
+<td>Hal Daume III</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Sep_2004');">
 Domain Adaptation in Maximum Extropy Models
 </a><br>
@@ -12431,9 +12431,9 @@ tasks are quite promising.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Sep 2004</td>
-<td align=left>Various</td>
-<td align=left>
+<td>17 Sep 2004</td>
+<td>Various</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Sep_2004');">
 About Syntax Fest 2004 (Part II)
 </a><br>
@@ -12451,9 +12451,9 @@ text.  We'll give a progress report!
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Sep 2004</td>
-<td align=left>Various</td>
-<td align=left>
+<td>10 Sep 2004</td>
+<td>Various</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Sep_2004');">
 About Syntax Fest 2004 (Part I)
 </a><br>
@@ -12470,9 +12470,9 @@ text.  We'll give a progress report!
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Aug 2004</td>
-<td align=left>Patrick Pantel & Tim Chklovski</td>
-<td align=left>
+<td>16 Aug 2004</td>
+<td>Patrick Pantel & Tim Chklovski</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Aug_2004');">
 VerbOcean: Mining the Web for Fine-Grained Semantic Verb Relations
 </a><br>
@@ -12496,9 +12496,9 @@ well as refining the semantic relations using path analysis.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>13 Aug 2004</td>
-<td align=left>Deepak Ravichandran</td>
-<td align=left>
+<td>13 Aug 2004</td>
+<td>Deepak Ravichandran</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Aug_2004');">
 Randomized algorithms and its application to NLP
 </a><br>
@@ -12523,9 +12523,9 @@ and help me colloborate with others.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Aug 2004</td>
-<td align=left>Justin Busch, Hai Huang, Jens Stephan & Chen-kang Yang</td>
-<td align=left>
+<td>09 Aug 2004</td>
+<td>Justin Busch, Hai Huang, Jens Stephan & Chen-kang Yang</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Aug_2004');">
 CL Student Presentations
 </a><br>
@@ -12608,9 +12608,9 @@ cooperating methods for better results.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 Aug 2004</td>
-<td align=left>Hae-Chang Rim</td>
-<td align=left>
+<td>06 Aug 2004</td>
+<td>Hae-Chang Rim</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Aug_2004');">
 Information Retrieval using Word Senses: Root Sense Tagging Approach
 </a><br>
@@ -12640,9 +12640,9 @@ function such as BM25.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Jul 2004</td>
-<td align=left>Hal Daume III and Radu Soricut</td>
-<td align=left>
+<td>16 Jul 2004</td>
+<td>Hal Daume III and Radu Soricut</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Jul_2004');">
 Practice Talks for ACL (+workshops)
 </a><br>
@@ -12656,9 +12656,9 @@ Practice Talks for ACL (+workshops)
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Jul 2004</td>
-<td align=left>Kevin Knight</td>
-<td align=left>
+<td>09 Jul 2004</td>
+<td>Kevin Knight</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Jul_2004');">
 Survey of Trees and Grammars
 </a><br>
@@ -12675,9 +12675,9 @@ tree-transforming systems.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>02 Jul 2004</td>
-<td align=left>Hal Daume III</td>
-<td align=left>
+<td>02 Jul 2004</td>
+<td>Hal Daume III</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs02_Jul_2004');">
 A Phrase-Based HMM Approach to Document/Abstract Alignment
 </a><br>
@@ -12700,9 +12700,9 @@ in more detail in this seminar).
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Jun 2004</td>
-<td align=left>Dan Gildea</td>
-<td align=left>
+<td>25 Jun 2004</td>
+<td>Dan Gildea</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Jun_2004');">
 Syntactic Supervision and Tree-Based Alignment
 </a><br>
@@ -12720,9 +12720,9 @@ well as some analysis of what is going on behind the numbers.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>21 Jun 2004</td>
-<td align=left>Emil Ettelaie</td>
-<td align=left>
+<td>21 Jun 2004</td>
+<td>Emil Ettelaie</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_Jun_2004');">
 Speech-to-Speech Translation: A Phrase Classification Approach
 </a><br>
@@ -12753,9 +12753,9 @@ that application are introduced.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Jun 2004</td>
-<td align=left>Marcello Federico</td>
-<td align=left>
+<td>17 Jun 2004</td>
+<td>Marcello Federico</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Jun_2004');">
 Statistical Machine Translation at ITC-irst
 </a><br>
@@ -12787,9 +12787,9 @@ modeling, information retrieval, and machine translation.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 May 2004</td>
-<td align=left>Philipp Koehn</td>
-<td align=left>
+<td>24 May 2004</td>
+<td>Philipp Koehn</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_May_2004');">
 Challenges in Statistical Machine Translation
 </a><br>
@@ -12819,9 +12819,9 @@ categorization.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>21 May 2004</td>
-<td align=left>Tom Murray and Rahul Bhagat</td>
-<td align=left>
+<td>21 May 2004</td>
+<td>Tom Murray and Rahul Bhagat</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_May_2004');">
 Statistical Learning for Dialogue System <b>and</b> A Community of Words
 </a><br>
@@ -12858,9 +12858,9 @@ This talk presents work with Eduard Hovy as part of the MKIDS project.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Apr 2004</td>
-<td align=left>Liang Zhou</td>
-<td align=left>
+<td>30 Apr 2004</td>
+<td>Liang Zhou</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Apr_2004');">
 Automating the Building of Summarization Systems
 </a><br>
@@ -12879,9 +12879,9 @@ systems? How do the systems built based on this idea perform?
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>28 Apr 2004</td>
-<td align=left>Dragos Muntanu, Radu Soricut and Hal Daume III</td>
-<td align=left>
+<td>28 Apr 2004</td>
+<td>Dragos Muntanu, Radu Soricut and Hal Daume III</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Apr_2004');">
 Practice Talks for HLT/NAACL
 </a><br>
@@ -12895,9 +12895,9 @@ Practice Talks for HLT/NAACL
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 Apr 2004</td>
-<td align=left>Hal Daume III</td>
-<td align=left>
+<td>23 Apr 2004</td>
+<td>Hal Daume III</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Apr_2004');">
 A Tree-Position Kernel for Document Compression
 </a><br>
@@ -12915,9 +12915,9 @@ evaluation.  C'est la vie.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Apr 2004</td>
-<td align=left>Rada Mihalcea (UNT)</td>
-<td align=left>
+<td>16 Apr 2004</td>
+<td>Rada Mihalcea (UNT)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Apr_2004');">
 Graph-based Ranking Algorithms for Language Processing
 </a><br>
@@ -12957,9 +12957,9 @@ Texas.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>13 Apr 2004</td>
-<td align=left>Jill Burstein (ETS)</td>
-<td align=left>
+<td>13 Apr 2004</td>
+<td>Jill Burstein (ETS)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Apr_2004');">
 Automated Essay Evaluation: From NLP research through deployment as a business
 </a><br>
@@ -12995,9 +12995,9 @@ Princeton, NJ
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 Apr 2004</td>
-<td align=left>Eduard Hovy</td>
-<td align=left>
+<td>09 Apr 2004</td>
+<td>Eduard Hovy</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_Apr_2004');">
 Three (and a half?) Trends: The Future of NLP
 </a><br>
@@ -13016,9 +13016,9 @@ paradigm to NLP has implications for all of us.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>02 Apr 2004</td>
-<td align=left>Stephan Vogel</td>
-<td align=left>
+<td>02 Apr 2004</td>
+<td>Stephan Vogel</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs02_Apr_2004');">
 The CMU Statistical Machine Translation System
 </a><br>
@@ -13056,9 +13056,9 @@ also in the Interactive Systems Lab at the University of Karlsruhe.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>26 Mar 2004</td>
-<td align=left>Shlomo Argamon</td>
-<td align=left>
+<td>26 Mar 2004</td>
+<td>Shlomo Argamon</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs26_Mar_2004');">
 On Writing, Our Selves: Explorations in Stylistic Text Categorization
 </a><br>
@@ -13085,9 +13085,9 @@ Technology Chicago.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Mar 2004</td>
-<td align=left>Jon Patrick (U. of Sydney)</td>
-<td align=left>
+<td>25 Mar 2004</td>
+<td>Jon Patrick (U. of Sydney)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Mar_2004');">
 ScamSeek: Capturing Financial Scams at the Coalface by Language Technology
 </a><br>
@@ -13138,9 +13138,9 @@ Macquarie University.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Mar 2004</td>
-<td align=left>Deepak Ravichandran</td>
-<td align=left>
+<td>12 Mar 2004</td>
+<td>Deepak Ravichandran</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Mar_2004');">
 About My Thesis Proposal
 </a><br>
@@ -13154,9 +13154,9 @@ About My Thesis Proposal
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 Feb 2004</td>
-<td align=left>Hal Daume III</td>
-<td align=left>
+<td>20 Feb 2004</td>
+<td>Hal Daume III</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Feb_2004');">
 Some Results in Automatic Evaluation for Summarization and MT
 </a><br>
@@ -13189,9 +13189,9 @@ encouraged.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>06 Feb 2004</td>
-<td align=left>Mark Hopkins</td>
-<td align=left>
+<td>06 Feb 2004</td>
+<td>Mark Hopkins</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Feb_2004');">
 What's in a Translation Rule?
 </a><br>
@@ -13211,9 +13211,9 @@ motivated transformation rules that explain human translation data.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>30 Jan 2004</td>
-<td align=left>Paul Kingsbury (Penn)</td>
-<td align=left>
+<td>30 Jan 2004</td>
+<td>Paul Kingsbury (Penn)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Jan_2004');">
 PropBank: the next stage of Treebank <b>and</b><br>Inducing a Chronology of the Pali Canon
 </a><br>
@@ -13268,9 +13268,9 @@ aorist'.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 Jan 2004</td>
-<td align=left>John Prager (IBM)</td>
-<td align=left>
+<td>16 Jan 2004</td>
+<td>John Prager (IBM)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Jan_2004');">
 Using Constraints to Improve Question-Answering Accuracy
 </a><br>
@@ -13308,9 +13308,9 @@ a set of questions improved with QDC from .39 to .69.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>19 Dec 2003</td>
-<td align=left>Robert Krovetz (Ask Jeeves)</td>
-<td align=left>
+<td>19 Dec 2003</td>
+<td>Robert Krovetz (Ask Jeeves)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs19_Dec_2003');">
 More than One Sense Per Discourse
 </a><br>
@@ -13336,9 +13336,9 @@ represented.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Nov 2003</td>
-<td align=left>Hang Li (MSR Beijing)</td>
-<td align=left>
+<td>25 Nov 2003</td>
+<td>Hang Li (MSR Beijing)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Nov_2003');">
 Using Bilingual Data to Mine and Rank Translations
 </a><br>
@@ -13380,9 +13380,9 @@ http://research.microsoft.com/users/hangli/
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Nov 2003</td>
-<td align=left>Dr. Kato and Dr. Fukomoto (NTCIR)</td>
-<td align=left>
+<td>17 Nov 2003</td>
+<td>Dr. Kato and Dr. Fukomoto (NTCIR)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Nov_2003');">
 An Overview of the QA Challenge + NTCIR -- The Way Ahead
 </a><br>
@@ -13440,9 +13440,9 @@ Information and Communication Engineers.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Oct 2003</td>
-<td align=left>Christopher Manning (Stanford)</td>
-<td align=left>
+<td>27 Oct 2003</td>
+<td>Christopher Manning (Stanford)</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Oct_2003');">
 Natural Language Parsing: Graphs, the A* Algorithm, and Modularity
 </a><br>
@@ -13497,9 +13497,9 @@ Chris' schedule is available in <a href="manning.ps">Postscript</a> or
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>17 Oct 2003</td>
-<td align=left>Hovy, Marcu, Knight, Byrd, Narayanan, Traum, Gordon</td>
-<td align=left>
+<td>17 Oct 2003</td>
+<td>Hovy, Marcu, Knight, Byrd, Narayanan, Traum, Gordon</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs17_Oct_2003');">
 Introduction to CL Research
 </a><br>
@@ -13518,9 +13518,9 @@ Gordon of USC's Institute for Creative Technologies.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>10 Oct 2003</td>
-<td align=left>Philipp Koehn</td>
-<td align=left>
+<td>10 Oct 2003</td>
+<td>Philipp Koehn</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs10_Oct_2003');">
 Advances in Statistical MT: Phrases, Noun Phrases and Beyond
 </a><br>
@@ -13551,9 +13551,9 @@ structure.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Oct 2003</td>
-<td align=left>Anton Leuski</td>
-<td align=left>
+<td>03 Oct 2003</td>
+<td>Anton Leuski</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Oct_2003');">
 A Year in Paradise
 </a><br>
@@ -13573,9 +13573,9 @@ system for accessing collections of electronic mail.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>02 Oct 2003</td>
-<td align=left>Ana-Maria Popescu</td>
-<td align=left>
+<td>02 Oct 2003</td>
+<td>Ana-Maria Popescu</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs02_Oct_2003');">
 TBA
 </a><br>
@@ -13587,9 +13587,9 @@ TBA
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Sep 2003</td>
-<td align=left>Beata Klebanov</td>
-<td align=left>
+<td>15 Sep 2003</td>
+<td>Beata Klebanov</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Sep_2003');">
 Analyzing Sentences into Facts: Simple is Beautiful
 </a><br>
@@ -13608,9 +13608,9 @@ This is joint work with Daniel Marcu and Kevin Knight.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Sep 2003</td>
-<td align=left>Lara Taylor</td>
-<td align=left>
+<td>12 Sep 2003</td>
+<td>Lara Taylor</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Sep_2003');">
 Discourse Coherence for Ordering Information
 </a><br>
@@ -13636,9 +13636,9 @@ Jonathan Graehl and Nick Mote.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>05 Sep 2003</td>
-<td align=left>Nishit Rathod and Anish Nair</td>
-<td align=left>
+<td>05 Sep 2003</td>
+<td>Nishit Rathod and Anish Nair</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Sep_2003');">
 Deciphering Hindi Scripts
 </a><br>
@@ -13659,9 +13659,9 @@ can improve decoding accuracy.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>03 Sep 2003</td>
-<td align=left>Alex Fraser and Franz Och</td>
-<td align=left>
+<td>03 Sep 2003</td>
+<td>Alex Fraser and Franz Och</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs03_Sep_2003');">
 JHU MT Workshop
 </a><br>
@@ -13697,9 +13697,9 @@ for more.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 Aug 2003</td>
-<td align=left>Stefan Riezler</td>
-<td align=left>
+<td>29 Aug 2003</td>
+<td>Stefan Riezler</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_Aug_2003');">
 Deepening Representations
 </a><br>
@@ -13711,9 +13711,9 @@ Deepening Representations
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Aug 2003</td>
-<td align=left>Michel Galley and Mark Hopkins</td>
-<td align=left>
+<td>27 Aug 2003</td>
+<td>Michel Galley and Mark Hopkins</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Aug_2003');">
 Syntax for Statistical MT
 </a><br>
@@ -13725,9 +13725,9 @@ Syntax for Statistical MT
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>22 Aug 2003</td>
-<td align=left>Satoshi Sekine</td>
-<td align=left>
+<td>22 Aug 2003</td>
+<td>Satoshi Sekine</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs22_Aug_2003');">
 Information Extraction, IR and QA
 </a><br>
@@ -13739,9 +13739,9 @@ Information Extraction, IR and QA
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>15 Aug 2003</td>
-<td align=left>Beata Klebanov</td>
-<td align=left>
+<td>15 Aug 2003</td>
+<td>Beata Klebanov</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs15_Aug_2003');">
 On Her Masters Research
 </a><br>
@@ -13753,9 +13753,9 @@ On Her Masters Research
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>01 Aug 2003</td>
-<td align=left>Shou-de Lin</td>
-<td align=left>
+<td>01 Aug 2003</td>
+<td>Shou-de Lin</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs01_Aug_2003');">
 Toward deciphering the 2-dimensional ancient Luwian script by discovering its writing order
 </a><br>
@@ -13767,9 +13767,9 @@ Toward deciphering the 2-dimensional ancient Luwian script by discovering its wr
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>29 Jul 2003</td>
-<td align=left>Michael Brasser</td>
-<td align=left>
+<td>29 Jul 2003</td>
+<td>Michael Brasser</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs29_Jul_2003');">
 A Model of Word Movement for Machine Translation
 </a><br>
@@ -13781,9 +13781,9 @@ A Model of Word Movement for Machine Translation
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Jul 2003</td>
-<td align=left>Jonathan Graehl and Kevin Knight</td>
-<td align=left>
+<td>25 Jul 2003</td>
+<td>Jonathan Graehl and Kevin Knight</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Jul_2003');">
 Super-Carmel for Trees
 </a><br>
@@ -13795,9 +13795,9 @@ Super-Carmel for Trees
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>18 Jul 2003</td>
-<td align=left>Doug Oard</td>
-<td align=left>
+<td>18 Jul 2003</td>
+<td>Doug Oard</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs18_Jul_2003');">
 A Maryland Yankee in King Eduard's Court: Some Remarks on a Year in Paradise
 </a><br>
@@ -13809,9 +13809,9 @@ A Maryland Yankee in King Eduard's Court: Some Remarks on a Year in Paradise
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>27 Jun 2003</td>
-<td align=left>Michael Fleischman</td>
-<td align=left>
+<td>27 Jun 2003</td>
+<td>Michael Fleischman</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Jun_2003');">
 Offline Strategies for Online Question Answering: Answering Questions Before They Are Asked and Maximum Entropy Models for FrameNet Classification
 </a><br>
@@ -13823,9 +13823,9 @@ Offline Strategies for Online Question Answering: Answering Questions Before The
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>12 Jun 2003</td>
-<td align=left>Dina Demner-Fushman</td>
-<td align=left>
+<td>12 Jun 2003</td>
+<td>Dina Demner-Fushman</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs12_Jun_2003');">
 Measuring the Effect of Dictionary Coverage on Cross-Language Retrieval
 </a><br>
@@ -13869,9 +13869,9 @@ problems in the future.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>23 May 2003</td>
-<td align=left>Liang Zhou</td>
-<td align=left>
+<td>23 May 2003</td>
+<td>Liang Zhou</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_May_2003');">
 A Web-Trained Extraction Summarization System and Headline Summarization at ISI
 </a><br>
@@ -13899,9 +13899,9 @@ generating very short summaries (10 words or less).
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>20 May 2003</td>
-<td align=left>Michel Galley</td>
-<td align=left>
+<td>20 May 2003</td>
+<td>Michel Galley</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_May_2003');">
 Discourse Segmentation of Multi-Party Conversation
 </a><br>
@@ -13913,9 +13913,9 @@ Discourse Segmentation of Multi-Party Conversation
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>16 May 2003</td>
-<td align=left>Chin-Yew Lin</td>
-<td align=left>
+<td>16 May 2003</td>
+<td>Chin-Yew Lin</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_May_2003');">
 Automatic Evaluation of Summaries Using N-gram Co-Occurrence Statistics
 </a><br>
@@ -13935,9 +13935,9 @@ evaluation procedure does not always give good results.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>09 May 2003</td>
-<td align=left>Doug Oard</td>
-<td align=left>
+<td>09 May 2003</td>
+<td>Doug Oard</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs09_May_2003');">
 Coping with Surprise: The Case of Cebuano
 </a><br>
@@ -13960,9 +13960,9 @@ during the month of June (just kidding...).
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>02 May 2003</td>
-<td align=left>Hal Daum&eacute; III</td>
-<td align=left>
+<td>02 May 2003</td>
+<td>Hal Daum&eacute; III</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs02_May_2003');">
 Acquiring Paraphrase Templates from Document/Abstract Pairs
 </a><br>
@@ -13983,9 +13983,9 @@ applicable sometimes.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>25 Apr 2003</td>
-<td align=left>Quamrul Tipu</td>
-<td align=left>
+<td>25 Apr 2003</td>
+<td>Quamrul Tipu</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs25_Apr_2003');">
 Statistical MT with Bilingual Morphology
 </a><br>
@@ -14011,9 +14011,9 @@ and achieves this improvement.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>04 Apr 2003</td>
-<td align=left>Donghui Feng</td>
-<td align=left>
+<td>04 Apr 2003</td>
+<td>Donghui Feng</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs04_Apr_2003');">
 Natural Language Understanding in MRE
 </a><br>
@@ -14034,9 +14034,9 @@ specific application.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>21 Mar 2003</td>
-<td align=left>Gareth Jones</td>
-<td align=left>
+<td>21 Mar 2003</td>
+<td>Gareth Jones</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_Mar_2003');">
 An Investigation of the Application of Broad Coverage Automatic Pronoun Resolution in Information Retrieval
 </a><br>
@@ -14063,9 +14063,9 @@ retrieval precision.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>14 Mar 2003</td>
-<td align=left>Kareem Darwish</td>
-<td align=left>
+<td>14 Mar 2003</td>
+<td>Kareem Darwish</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs14_Mar_2003');">
 Improving the Efficiency and Effectiveness of Structured Query Methods
 </a><br>
@@ -14094,9 +14094,9 @@ structured query methods.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Mar 2003</td>
-<td align=left>Scott Klemmer</td>
-<td align=left>
+<td>07 Mar 2003</td>
+<td>Scott Klemmer</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Mar_2003');">
 Books with Voices: Paper Transcripts as a Tangible Interface to Oral Histories
 </a><br>
@@ -14133,9 +14133,9 @@ href="http://guir.berkeley.edu/oral-history/">http://guir.berkeley.edu/oral-hist
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>28 Feb 2003</td>
-<td align=left>Radu Soricut</td>
-<td align=left>
+<td>28 Feb 2003</td>
+<td>Radu Soricut</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs28_Feb_2003');">
 Sentence Level Discourse Parsing using Syntactic and Lexical Information
 </a><br>
@@ -14156,9 +14156,9 @@ accuracy level that matches near-human levels of performance.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>21 Feb 2003</td>
-<td align=left>Nate Chambers</td>
-<td align=left>
+<td>21 Feb 2003</td>
+<td>Nate Chambers</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs21_Feb_2003');">
 Statistical Language Generation in a Dialogue System
 </a><br>
@@ -14186,9 +14186,9 @@ model as a domain independent generator.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>07 Feb 2003</td>
-<td align=left>Jeongwon Cha</td>
-<td align=left>
+<td>07 Feb 2003</td>
+<td>Jeongwon Cha</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs07_Feb_2003');">
 Automatic Pattern Learning for Information Extraction using Web Data
 </a><br>
@@ -14210,9 +14210,9 @@ project (with Dr. Chin-Yew Lin).
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>31 Jan 2003</td>
-<td align=left>Philipp Koehn</td>
-<td align=left>
+<td>31 Jan 2003</td>
+<td>Philipp Koehn</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs31_Jan_2003');">
 Noun Phrase Translation
 </a><br>
@@ -14243,9 +14243,9 @@ the audience.
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
-<td align=left>24 Jan 2003</td>
-<td align=left>Doug Oard &amp; Anton Leuski</td>
-<td align=left>
+<td>24 Jan 2003</td>
+<td>Doug Oard &amp; Anton Leuski</td>
+<td>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs24_Jan_2003');">
 Access to Archival Collections of Electronic Mail
 </a><br>
