@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>USC ISI NL Seminar - <?php startblock('title') ?><?php endblock() ?></title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="css/NLGSite.css"/>
+    <!-- <link rel="stylesheet" type="text/css" href="css/NLGSite.css"/> -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-X2JT6D84MD"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -35,13 +35,16 @@
   <?php startblock('header') ?> <?php endblock() ?>
 
 </head>
+<body>
+<div class="container-fluid">
+    <script src="js/bootstrap.bundle.min.js"></script>
 
-<div class="container-xxl">
-  <?php include('includes/header2021.php'); ?>
-    <div class="container">
+    <?php include('includes/header2021.php'); ?>
+    <div class="container-fluid">
       <?php startblock('page') ?>
       <?php endblock('page') ?>
     </div>
 </div>
+
 </body>
 </html>

@@ -33,11 +33,12 @@
    href="javascript:exp_coll('abs10_Oct_2021');">
     Robust and Implicit Commonsense Inference for Smooth Communication</a><br>
 <span id=abs10_Oct_2021 style="display:none;">
-    <small>
-<b>Time:</b> 11:00am-12:00pm<br>
-<!-- <b>Online Meeting Recording:</b> <a href="#"></a><br> -->
-<b>Recording:</b> Yes<br>
-<b>Abstract:</b>
+<small>
+  <b>Time:</b> 11:00am-12:00pm<br>
+  <!-- <b>Online Meeting Recording:</b> <a href="#"></a><br> -->
+  <b>Zoom:</b> <a target="_blank" href="https://usc.zoom.us/j/97335240514">https://usc.zoom.us/j/97335240514</a> <br/>
+  <b>Recording:</b> Yes<br>
+   <b>Abstract:</b>
 <p>
     Smooth and effective communication requires the ability to make implicit commonsense inferences that are robust to paraphrases.
     In this talk, I will mainly introduce my work on examining whether pre-trained language models (PTLMs) can perform robust commonsense inferences and whether response generation (RG) models understand why a response sounds coherent.
