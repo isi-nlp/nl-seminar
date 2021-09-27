@@ -1,5 +1,12 @@
 <div class="seminar_about" style="margin-left:10px; 1ine-height:1.5em;">
     <div>
+        The <a href="https://www.isi.edu">USC/ISI</a> <a href="https://nlg.isi.edu/nl-seminar">NL Seminar</a>
+        is a weekly meeting of the <a href="https://nlg.isi.edu">Natural Language Group</a>.<br>
+        Seminars usually take place on <b>Thursday from 11:00am until 12:00pm</b>.<br/>
+        Contact the current seminar organizer, <a href="https://isi.edu/~tg" target="_blank">Thamme Gowda</a> (<code>tg [at] isi.edu</code>)
+        and <a href="https://isi.edu/~jonmay" target="_blank"> Jon May</a> (<code>jonmay [at] isi.edu</code>), to schedule a talk.
+    </div>
+    <div>
         <h4>Receiving seminar announcements</h4>
         <p> Subscribe to the <a href="http://mailman.isi.edu/mailman/listinfo/nlg-seminar">nlg-seminar list</a> to
             receive seminar announcements.
