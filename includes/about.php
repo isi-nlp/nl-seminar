@@ -5,15 +5,14 @@
         <p class="lead">
            It's a weekly meeting of the <a href="https://nlg.isi.edu">Natural Language Group</a>. <br/>
             Seminars usually take place on <b>Thursdays from 11:00am until 12:00pm</b>.<br/>
-            For scheduling a talk, contact the current seminar organizes:<br/>
-            <a href="https://isi.edu/~tg" target="_blank">Thamme Gowda</a> (<code>tg[at]isi.edu</code>)
-            or <a href="https://isi.edu/~jonmay" target="_blank"> Jon May</a> (<code>jonmay[at]isi.edu</code>).
         </p>
-
         <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
             <a type="button" target="_blank" href="https://mailman.isi.edu/mailman/listinfo/nlg-seminar" class="btn btn-outline-secondary btn-lg px-4 gap-3">Get Emails</a>
             <a type="button" target="_blank" href="webcal://p51-caldav.icloud.com/published/2/MTk1OTQwNzY0ODE5NTk0MMoybo1JVpi4UvUZB6Mmydt-xNID2W6VMD_up6-qvFewPSLr8y-XoQXFsniXd4r6k5qmJKWByn_vY7eTuwRcY_A" class="btn btn-outline-secondary btn-lg px-4">Add to Calendar (iCal)</a>
         </div>
+        <p class="lead"> For scheduling a talk, contact the current seminar organizes:<br/>
+            <a href="https://isi.edu/~tg" target="_blank">Thamme Gowda</a> (<code>tg[at]isi.edu</code>)
+            or <a href="https://isi.edu/~jonmay" target="_blank"> Jon May</a> (<code>jonmay[at]isi.edu</code>). </p>
     </div>
 </div>
 
