@@ -28,7 +28,31 @@
     <tr class="speakerItem">
         <td> 7 Oct 2021</td>
         <td> Pei Zhou (USC/ISI) </td>
-        <td> </td>
+        <td>
+<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true"
+   href="javascript:exp_coll('abs10_Oct_2021');">
+    Robust and Implicit Commonsense Inference for Smooth Communication</a><br>
+<span id=abs10_Oct_2021 style="display:none;">
+    <small>
+<b>Time:</b> 11:00am-12:00pm<br>
+<!-- <b>Online Meeting Recording:</b> <a href="#"></a><br> -->
+<b>Recording:</b> Yes<br>
+<b>Abstract:</b>
+<p>
+    Smooth and effective communication requires the ability to make implicit commonsense inferences that are robust to paraphrases.
+    In this talk, I will mainly introduce my work on examining whether pre-trained language models (PTLMs) can perform robust commonsense inferences and whether response generation (RG) models understand why a response sounds coherent.
+    I will briefly present my other work on learning common sense in dialogue response generation.
+    In the pursuit of advancing fluid human-AI communication, we first propose a new challenge, RICA: Robust Inference using Commonsense Axioms, that evaluates robust commonsense inference despite textual perturbations.
+    RICA consists of a set of natural language statements in the "premise-conclusion" format that require reasoning using latent (implicit) commonsense relationships.
+    We formulate these abstract commonsense relations between entities in first-order logic and refer to them as commonsense axioms.
+    We also introduce CEDAR: Common Sense in Dialogue Response Generation.
+    CEDAR is a probing framework that aims to understand why RG models respond as they do by probing RG model’s understanding of commonsense reasoning that elicits proper responses.
+    We formalize the problem by framing commonsense as a latent variable in the RG task and using explanations for responses as textual form of commonsense.
+</p>
+<p>Pei Zhou is a third year Ph.D. student in Computer Science at the University of Southern California (USC) and Information Sciences Institute (ISI) co-advised by Professors Xiang Ren and Jay Pujara. Pei graduated with a Bachelor of Science degree in Mathematics of Computation from UCLA in 2019, where he worked closely with Profs. Kai-Wei Chang and Yizhou Sun.  In summers of 2021 and 2020, Pei interned as an applied scientist at Amazon Alexa AI, dialogue modeling team. Pei's current research focus lies in commonsense reasoning in dialogue response generation. He is also broadly interested in knowledge grounding in language, robustness, and fairness in NLP.</p>
+</small>
+</span>
+        </td>
     </tr>
     <tr class="speakerItem">
         <td> 14 Oct 2021</td>
