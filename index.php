@@ -43,35 +43,28 @@
     </p>
     <p></p>
 </small></span> </td>
+</tr>
 -->
     <tr class="speakerItem">
-        <td> 14 Oct 2021</td>
-        <td> Vitaly Feldman (Apple AI Research) </td>
+        <td> 11 Nov 2021</td>
+        <td> Kenneth Heafield (University of Edinburgh) </td>
         <td>
-<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true"
-   href="javascript:exp_coll('abs14_Oct_2021');">Chasing the Long Tail: What Neural Networks Memorize and Why </a><br>
-<span id=abs14_Oct_2021 style="display:none;">
+            <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true"
+               href="javascript:exp_coll('abs11_Nov_2021');">
+            </a><br>
+            <span id=abs11_Nov_2021 style="display:none;">
 <small>
     <b>Time:</b> 11:00am-12:00pm<br>
-    <b>Zoom:</b> <a target="_blank" href="https://usc.zoom.us/s/99846776240">https://usc.zoom.us/s/99846776240 </a><br/>
-    <b>Recording:</b> Yes<br>
+    <b>Zoom:</b> <a target="_blank" href="#"> </a><br/>
+    <b>Recording:</b> <br>
     <b>Abstract:</b>
-    <p> Deep learning algorithms that achieve state-of-the-art results on image and text recognition tasks tend to fit the entire training dataset (nearly) perfectly including mislabeled examples and outliers.
-        This propensity to memorize seemingly useless data and the resulting large generalization gap have puzzled many practitioners and is not explained by existing theories of machine learning.
-        We provide a simple conceptual explanation and a theoretical model demonstrating that memorization of outliers and mislabeled examples is necessary for achieving close-to-optimal generalization error when learning from long-tailed data distributions.
-        Image and text data are known to follow such distributions and therefore our results establish a formal link between these empirical phenomena.
-        We then demonstrate the utility of memorization and support our explanation empirically.
-        These results rely on a new technique for efficiently estimating memorization and influence of training data points.
+    <p>
+
     </p>
-    <p> <a href="http://vtaly.net/" target="_blank">Vitaly Feldman </a>is a research scientist at Apple AI Research working on foundations of machine learning and privacy-preserving data analysis.
-        His recent research interests include tools for analysis of generalization, distributed privacy-preserving learning, privacy-preserving optimization, and adaptive data analysis. <br/>
-        Vitaly holds a Ph.D. from Harvard (2006, advised by Leslie Valiant) and was previously a research scientist at Google Research (Brain team) and IBM Research - Almaden.
-        His work on understanding of memorization in learning was recognized by the 2021 Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies and his research on foundations of adaptive data analysis was featured in CACM Research Highlights and Science.
-        His works were also recognized by COLT Best Student Paper Award in 2005 and 2013 (student co-authored) and by the IBM Research Best Paper Award in 2014, 2015 and 2016.
-        He served as a program co-chair for COLT 2016 and ALT 2021 conferences and as a co-organizer of the Simons Institute Program on Data Privacy in 2019.
-    </p>
+    <p></p>
 </small></span> </td>
     </tr>
+
     <tr class="speakerItem">
         <td> 18 Nov 2021</td>
         <td> Svitlana Volkova (Pacific Northwest National Lab) </td>
@@ -92,6 +85,34 @@
     <td style="width:25%; text-align: left"><b>Speaker</b></td>
     <td style="text-align: left"><b>Title</b></td>
 </tr>
+    <tr class="speakerItem">
+        <td> 14 Oct 2021</td>
+        <td> Vitaly Feldman (Apple AI Research) </td>
+        <td>
+            <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true"
+               href="javascript:exp_coll('abs14_Oct_2021');">Chasing the Long Tail: What Neural Networks Memorize and Why </a><br>
+            <span id=abs14_Oct_2021 style="display:none;">
+<small>
+    <b>Time:</b> 11:00am-12:00pm<br>
+    <!--<b>Zoom:</b> <a target="_blank" href="https://usc.zoom.us/s/99846776240">https://usc.zoom.us/s/99846776240 </a><br/> -->
+    <b>Online Meeting Recording:</b> <a href="https://www.youtube.com/watch?v=_R8JFXvjnPc" target="_blank">https://www.youtube.com/watch?v=_R8JFXvjnPc </a><br>
+    <b>Abstract:</b>
+    <p> Deep learning algorithms that achieve state-of-the-art results on image and text recognition tasks tend to fit the entire training dataset (nearly) perfectly including mislabeled examples and outliers.
+        This propensity to memorize seemingly useless data and the resulting large generalization gap have puzzled many practitioners and is not explained by existing theories of machine learning.
+        We provide a simple conceptual explanation and a theoretical model demonstrating that memorization of outliers and mislabeled examples is necessary for achieving close-to-optimal generalization error when learning from long-tailed data distributions.
+        Image and text data are known to follow such distributions and therefore our results establish a formal link between these empirical phenomena.
+        We then demonstrate the utility of memorization and support our explanation empirically.
+        These results rely on a new technique for efficiently estimating memorization and influence of training data points.
+    </p>
+    <p> <a href="http://vtaly.net/" target="_blank">Vitaly Feldman </a>is a research scientist at Apple AI Research working on foundations of machine learning and privacy-preserving data analysis.
+        His recent research interests include tools for analysis of generalization, distributed privacy-preserving learning, privacy-preserving optimization, and adaptive data analysis. <br/>
+        Vitaly holds a Ph.D. from Harvard (2006, advised by Leslie Valiant) and was previously a research scientist at Google Research (Brain team) and IBM Research - Almaden.
+        His work on understanding of memorization in learning was recognized by the 2021 Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies and his research on foundations of adaptive data analysis was featured in CACM Research Highlights and Science.
+        His works were also recognized by COLT Best Student Paper Award in 2005 and 2013 (student co-authored) and by the IBM Research Best Paper Award in 2014, 2015 and 2016.
+        He served as a program co-chair for COLT 2016 and ALT 2021 conferences and as a co-organizer of the Simons Institute Program on Data Privacy in 2019.
+    </p>
+</small></span> </td>
+    </tr>
 
     <tr class="speakerItem">
         <td> 7 Oct 2021</td>
