@@ -45,26 +45,7 @@
 </small></span> </td>
 </tr>
 -->
-    <tr class="speakerItem">
-        <td> 11 Nov 2021</td>
-        <td> Kenneth Heafield (University of Edinburgh) </td>
-        <td>
-            <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true"
-               href="javascript:exp_coll('abs11_Nov_2021');">
-            </a><br>
-            <span id=abs11_Nov_2021 style="display:none;">
-<small>
-    <b>Time:</b> 11:00am-12:00pm<br>
-    <b>Zoom:</b> <a target="_blank" href="#"> </a><br/>
-    <b>Recording:</b> <br>
-    <b>Abstract:</b>
-    <p>
-
-    </p>
-    <p></p>
-</small></span> </td>
-    </tr>
-
+   
     <tr class="speakerItem">
         <td> 18 Nov 2021</td>
         <td> Svitlana Volkova (Pacific Northwest National Lab) </td>
@@ -75,6 +56,25 @@
         <td> Manling Li (UIUC) </td>
         <td> </td>
     </tr>
+     <tr class="speakerItem">
+        <td> 13 Jan 2022</td>
+        <td> Kenneth Heafield (University of Edinburgh) </td>
+        <td>
+            <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true"
+               href="javascript:exp_coll('abs13_Jan_2022');">
+            </a><br>
+            <span id=abs13_Jan_2022 style="display:none;">
+            <small>
+            <b>Time:</b> 11:00am-12:00pm<br>
+            <b>Zoom:</b> <a target="_blank" href="#"> </a><br/>
+            <b>Recording:</b> <br>
+            <b>Abstract:</b>
+            <p></p>
+            <p></p>
+            </small></span>
+            </td>
+    </tr>
+
 </table>
 </div>
 <div>
