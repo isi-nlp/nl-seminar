@@ -51,7 +51,7 @@
         <td> Svitlana Volkova (Pacific Northwest National Lab) </td>
         <td>
             <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true"
-               href="javascript:exp_coll('abs18_Nov_2021');">
+               href="javascript:exp_coll('abs18_Nov_2021');">How AI-Driven Augmented Intelligence Transforms Cognitive Security and Nonproliferation
             </a><br>
             <span id=abs18_Nov_2021 style="display:none;">
             <small>
@@ -92,7 +92,7 @@
         <td> Kenneth Heafield (University of Edinburgh) </td>
         <td>
             <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true"
-               href="javascript:exp_coll('abs13_Jan_2022');"> How AI-Driven Augmented Intelligence Transforms Cognitive Security and Nonproliferation
+               href="javascript:exp_coll('abs13_Jan_2022');">
             </a><br>
             <span id=abs13_Jan_2022 style="display:none;">
             <small>
