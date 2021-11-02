@@ -49,7 +49,38 @@
     <tr class="speakerItem">
         <td> 18 Nov 2021</td>
         <td> Svitlana Volkova (Pacific Northwest National Lab) </td>
-        <td> </td>
+        <td>
+            <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true"
+               href="javascript:exp_coll('abs18_Nov_2021');">
+            </a><br>
+            <span id=abs18_Nov_2021 style="display:none;">
+            <small>
+                <b>Time:</b> 11:00am-12:00pm<br>
+                <b>Zoom:</b> <a target="_blank" href=""> </a><br/>
+                <b>Recording:</b> Yes<br>
+                <b>Abstract:</b>
+                <p>
+                    In this talk I will present several examples of how AI models drive augmented intelligence solutions to transform national security mission spaces focusing on cognitive security and nonproliferation.
+                    I will start with cognitive security and discuss deep learning and natural language processing models to detect, characterize, and defend against influence operations, misinformation and disinformation campaigns.
+                    Specifically, models capable of detecting information micro-narratives, understanding audiences, characterizing the dynamics of the information environment, and discovering causes and effects to explain why some narratives spread and some do not.
+                    I will demo our WatchOwl analytics (https://watchowl.pnnl.gov/) developed to assist decision makers with real-time situational awareness, track policy compliance and characterize the information environment during COVID-19 infodemic.
+
+                    Next, I will present a suite of AI-powered analytics for nonproliferation developed to detect, anticipate, and reason about proliferation expertise and capability evaluation globally by learning from massive-scale unstructured dynamic real-world data.
+                    I will showcase our augmented intelligence tools for expertise search and describe how to go beyond descriptive analytics towards predictive and prescriptive intelligence.
+                    Predictive models leverage graph neural networks to anticipate future collaboration patterns, authorship behavior, and capability evolution from dynamic heterogenous graphs.
+                    Prescriptive analysis uses ensemble models for causal discovery and inference to enable counterfactual reasoning about expertise and capability development.
+                    Our AI-driven augmented intelligence aims not only to provide deeper understanding of how publicly available data could be used to detect, monitor, forecast, and potentially prevent proliferation but also discover real-world examples of patterns and behavior to facilitate the investigation of potentially illicit proliferation activity.
+                </p>
+                <p>Dr. Svitlana Volkova is a Chief Scientist in Decision Intelligence and Analytics in the National Security Directorate of PNNL, where she is leading the lab’s internal Mega-AI investment focusing on developing and deploying massive-scale foundation AI models for science and security mission areas.
+                    Since joining PNNL in October 2015, Dr. Volkova was responsible for over $10M in direct sales and has served as Principal Investigator or Project Manager on more than ten internally and externally funded projects, including two DARPA and two NNSA projects focusing on advancing various aspect of Artificial Intelligence (AI) such as natural language processing, machine learning, deep learning, AI test and evaluation, and causal discovery and inference.
+                    Svitlana has authored more than 70 peer-previewed conference and journal publications.
+                    She serves as senior PC member and area chair for top-tier AI conferences and journals including AAAI, WWW, NeurIPS, ACL, EMNLP, NAACL, ICWSM, Nature Scientific Reports, PNAS and Science Advances.
+                    In 2016, she received the prestigious National Security Directorate Author of the Year award for her outstanding number of top-tier publications in AI.
+                    In 2019, Dr. Volkova received the Ronald L. Brodzinski Early Career Exceptional Achievement Award for her leadership and scientific contribution to the fields of computational linguistics and computational social science.
+                    She received her PhD in Computer Science from Johns Hopkins University where she was affiliated with the Center for Language and Speech Processing and the Human Language Technology Center of Excellence.
+                </p>
+            </small></span>
+        </td>
     </tr>
     <tr class="speakerItem">
         <td> 02 Dec 2021</td>
@@ -61,7 +92,7 @@
         <td> Kenneth Heafield (University of Edinburgh) </td>
         <td>
             <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true"
-               href="javascript:exp_coll('abs13_Jan_2022');">
+               href="javascript:exp_coll('abs13_Jan_2022');"> How AI-Driven Augmented Intelligence Transforms Cognitive Security and Nonproliferation
             </a><br>
             <span id=abs13_Jan_2022 style="display:none;">
             <small>
