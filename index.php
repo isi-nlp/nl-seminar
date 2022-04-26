@@ -25,6 +25,23 @@
         <th style="width:25%; text-align: left">Speaker</th>
         <th style="text-align: left">Title</th>
     </tr>
+
+    <tr class="speakerItem">
+        <td> 05 May 2022 </td>
+        <td> Lara J. Martin (University of Pennsylvania) </td>
+        <td>
+            <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true"
+               href="javascript:exp_coll('abs05_May_2022');">Dungeons and Discourse: Using Computational Storytelling to Look at Natural Language Use
+            </a><br>
+            <span id=abs05_May_2022 style="display:none;">
+            <small>
+            <b>Time:</b> 11:00am-12:00pm<br>
+            <!-- <b>Zoom:</b> <a target="_blank" href="https://usc.zoom.us/j/96057308928">https://usc.zoom.us/j/96057308928 </a><br/> -->
+            <p><b>Abstract:</b> Although we are currently riding a technological wave of personal assistants, many of these agents still struggle to communicate appropriately. In particular, these systems lack coherence, the ability to adapt to novel situations, creativity, emotional understanding, and collaboration. My work focuses on creating open-world storytelling systems and developing agents that leverage speech understanding to communicate with humans more effectively. In this talk, I look at how tabletop roleplaying games such as Dungeons & Dragons can be used as motivation for how to improve conversational systems and understand how people communicate. </p>
+            <p><a target="_blank" href="https://laramartin.net/">Lara J. Martin</a> is a <a target="_blank" href="https://cifellows2020.org/">2020 Computing Innovation Fellow (CIFellow)</a> postdoctoral researcher at the University of Pennsylvania working with Dr. Chris Callison-Burch. In 2020, she earned her PhD in Human-Centered Computing from the Georgia Institute of Technology, where she worked with Dr. Mark Riedl. She also has a Masters of Language Technologies from Carnegie Mellon University and a BS in Computer Science & Linguistics from Rutgers University—New Brunswick. Dr. Martin’s work resides in the field of Human-Centered Artificial Intelligence with a focus on natural language applications. They have worked in the areas of automated story generation, speech processing, and affective computing, publishing in top-tier conferences such as AAAI and IJCAI. They have also been featured in <a target="_blank" href="https://www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/"> Wired </a> and <a target="_blank" href="https://www.sciencefocus.com/magazine/dark-stars/"> BBC Science Focus magazine </a>.</p>
+            </small></span>
+            </td>
+    </tr>
     <!-- <tr class="speakerItem">
         <td> 00 Oct 2021</td>
         <td> Name (Org) </td>
